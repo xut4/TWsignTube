@@ -1,0 +1,77 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+body {
+    background-color: #d3b8d1; 
+    font-family:Noto Sans TC,Myriad Pro,Arial, sans-serif;
+    margin: 0;
+    padding-top: 70px;
+}
+
+
+.search-container {
+    background-color: #8e44ad; 
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 80px auto;
+    width: 50%;
+    max-width: 600px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: e;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 15px;
+    outline: none;
+}
+
+.submit_btn{
+    padding: 10px 20px;
+    background-color: #5a2c89; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.submit_btn:hover {
+    background-color: #492373; 
+}
+
+fieldset {
+    border: 2px solid #fff; 
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+legend {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+label[for] {
+    display: inline-block;
+    vertical-align: middle;
+    color: #fff;
+    font-size: 16px;
+}

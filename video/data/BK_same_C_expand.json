@@ -1,0 +1,8146 @@
+{
+ "signC_0": {
+  "original": [
+   "姓"
+  ],
+  "source": [
+   "TP1_433",
+   "HB1_72"
+  ],
+  "expand": [
+   "Dd15B02="
+  ]
+ },
+ "signC_1": {
+  "original": [
+   "哪裡"
+  ],
+  "source": [
+   "HB1_73"
+  ],
+  "expand": []
+ },
+ "signC_2": {
+  "original": [
+   "認識"
+  ],
+  "source": [
+   "HB1_74",
+   "HB1_656"
+  ],
+  "expand": [
+   "Gb08B01="
+  ]
+ },
+ "signC_3": {
+  "original": [
+   "地方"
+  ],
+  "source": [
+   "HB1_75"
+  ],
+  "expand": []
+ },
+ "signC_4": {
+  "original": [
+   "丈夫"
+  ],
+  "source": [
+   "HB1_76",
+   "TP1_434"
+  ],
+  "expand": []
+ },
+ "signC_5": {
+  "original": [
+   "太太"
+  ],
+  "source": [
+   "TP1_437",
+   "HB1_77"
+  ],
+  "expand": []
+ },
+ "signC_6": {
+  "original": [
+   "一點鐘"
+  ],
+  "source": [
+   "HB1_162"
+  ],
+  "expand": []
+ },
+ "signC_7": {
+  "original": [
+   "幾點鐘",
+   "幾點"
+  ],
+  "source": [
+   "HB1_163"
+  ],
+  "expand": []
+ },
+ "signC_8": {
+  "original": [
+   "明年"
+  ],
+  "source": [
+   "TP1_442",
+   "HB1_164"
+  ],
+  "expand": [
+   "Ca18A05="
+  ]
+ },
+ "signC_9": {
+  "original": [
+   "早知道"
+  ],
+  "source": [
+   "HB1_165"
+  ],
+  "expand": []
+ },
+ "signC_10": {
+  "original": [
+   "餐廳"
+  ],
+  "source": [
+   "TP2_472",
+   "HB1_167",
+   "HB1_166",
+   "TP2_471"
+  ],
+  "expand": [
+   "Bn03A06="
+  ]
+ },
+ "signC_11": {
+  "original": [
+   "地址"
+  ],
+  "source": [
+   "HB1_169",
+   "HB1_665",
+   "HB1_168",
+   "HB1_571",
+   "HB1_666"
+  ],
+  "expand": [
+   "Cb08B01="
+  ]
+ },
+ "signC_12": {
+  "original": [
+   "戲院"
+  ],
+  "source": [
+   "HB1_265"
+  ],
+  "expand": [
+   "Dm07A02="
+  ]
+ },
+ "signC_13": {
+  "original": [
+   "機場"
+  ],
+  "source": [
+   "HB1_266"
+  ],
+  "expand": [
+   "Cb08B07="
+  ]
+ },
+ "signC_14": {
+  "original": [
+   "同學"
+  ],
+  "source": [
+   "HB1_267",
+   "TP1_440"
+  ],
+  "expand": [
+   "Aj04A01="
+  ]
+ },
+ "signC_15": {
+  "original": [
+   "同意"
+  ],
+  "source": [
+   "HB1_268",
+   "TP3_131"
+  ],
+  "expand": []
+ },
+ "signC_16": {
+  "original": [
+   "苦工"
+  ],
+  "source": [
+   "HB1_269"
+  ],
+  "expand": []
+ },
+ "signC_17": {
+  "original": [
+   "經濟部"
+  ],
+  "source": [
+   "HB1_270"
+  ],
+  "expand": []
+ },
+ "signC_18": {
+  "original": [
+   "合唱"
+  ],
+  "source": [
+   "HB1_271"
+  ],
+  "expand": []
+ },
+ "signC_19": {
+  "original": [
+   "抄"
+  ],
+  "source": [
+   "HB1_272",
+   "HB2_999"
+  ],
+  "expand": []
+ },
+ "signC_20": {
+  "original": [
+   "照顧"
+  ],
+  "source": [
+   "HB1_273"
+  ],
+  "expand": []
+ },
+ "signC_21": {
+  "original": [
+   "下班"
+  ],
+  "source": [
+   "HB1_274",
+   "TP2_536"
+  ],
+  "expand": [
+   "Ig01B07="
+  ]
+ },
+ "signC_22": {
+  "original": [
+   "散會"
+  ],
+  "source": [
+   "HB1_275"
+  ],
+  "expand": [
+   "Ig01B04="
+  ]
+ },
+ "signC_23": {
+  "original": [
+   "騙不了我"
+  ],
+  "source": [
+   "HB1_276"
+  ],
+  "expand": []
+ },
+ "signC_24": {
+  "original": [
+   "咖啡"
+  ],
+  "source": [
+   "HB1_359"
+  ],
+  "expand": [
+   "Br12A05="
+  ]
+ },
+ "signC_25": {
+  "original": [
+   "不好吃"
+  ],
+  "source": [
+   "HB1_360"
+  ],
+  "expand": []
+ },
+ "signC_26": {
+  "original": [
+   "爛車"
+  ],
+  "source": [
+   "HB1_361"
+  ],
+  "expand": []
+ },
+ "signC_27": {
+  "original": [
+   "義大利"
+  ],
+  "source": [
+   "HB1_362",
+   "TP1_457"
+  ],
+  "expand": []
+ },
+ "signC_28": {
+  "original": [
+   "泰國"
+  ],
+  "source": [
+   "HB1_363"
+  ],
+  "expand": []
+ },
+ "signC_29": {
+  "original": [
+   "瑞典"
+  ],
+  "source": [
+   "HB1_364"
+  ],
+  "expand": []
+ },
+ "signC_30": {
+  "original": [
+   "暫時"
+  ],
+  "source": [
+   "TP3_500",
+   "HB1_365"
+  ],
+  "expand": [
+   "Eb25B01="
+  ]
+ },
+ "signC_31": {
+  "original": [
+   "已經"
+  ],
+  "source": [
+   "HB1_366"
+  ],
+  "expand": [
+   "Ka12A01="
+  ]
+ },
+ "signC_32": {
+  "original": [
+   "一秒鐘"
+  ],
+  "source": [
+   "TP1_455",
+   "HB1_367"
+  ],
+  "expand": []
+ },
+ "signC_33": {
+  "original": [
+   "有機會"
+  ],
+  "source": [
+   "HB1_368"
+  ],
+  "expand": []
+ },
+ "signC_34": {
+  "original": [
+   "多遠"
+  ],
+  "source": [
+   "HB1_369"
+  ],
+  "expand": []
+ },
+ "signC_35": {
+  "original": [
+   "多長"
+  ],
+  "source": [
+   "HB1_370"
+  ],
+  "expand": []
+ },
+ "signC_36": {
+  "original": [
+   "飽滿"
+  ],
+  "source": [
+   "HB1_371"
+  ],
+  "expand": []
+ },
+ "signC_37": {
+  "original": [
+   "不夠"
+  ],
+  "source": [
+   "HB1_372"
+  ],
+  "expand": []
+ },
+ "signC_38": {
+  "original": [
+   "客氣"
+  ],
+  "source": [
+   "HB1_373"
+  ],
+  "expand": []
+ },
+ "signC_39": {
+  "original": [
+   "紙"
+  ],
+  "source": [
+   "HB1_374"
+  ],
+  "expand": []
+ },
+ "signC_40": {
+  "original": [
+   "緣份"
+  ],
+  "source": [
+   "HB1_375"
+  ],
+  "expand": []
+ },
+ "signC_41": {
+  "original": [
+   "上班"
+  ],
+  "source": [
+   "HB1_376"
+  ],
+  "expand": [
+   "Hj11A02="
+  ]
+ },
+ "signC_42": {
+  "original": [
+   "鳥"
+  ],
+  "source": [
+   "HB1_435"
+  ],
+  "expand": [
+   "Bi11B01="
+  ]
+ },
+ "signC_43": {
+  "original": [
+   "烏鴉"
+  ],
+  "source": [
+   "HB1_436"
+  ],
+  "expand": [
+   "Bi11B21="
+  ]
+ },
+ "signC_44": {
+  "original": [
+   "海"
+  ],
+  "source": [
+   "HB1_437"
+  ],
+  "expand": []
+ },
+ "signC_45": {
+  "original": [
+   "鋼筆"
+  ],
+  "source": [
+   "HB1_438",
+   "TP1_444"
+  ],
+  "expand": [
+   "Bp17A03="
+  ]
+ },
+ "signC_46": {
+  "original": [
+   "陰"
+  ],
+  "source": [
+   "HB1_439"
+  ],
+  "expand": []
+ },
+ "signC_47": {
+  "original": [
+   "嚴不嚴重"
+  ],
+  "source": [
+   "HB1_440"
+  ],
+  "expand": []
+ },
+ "signC_48": {
+  "original": [
+   "多重"
+  ],
+  "source": [
+   "HB1_441",
+   "TP2_487"
+  ],
+  "expand": [
+   "Eb01A05="
+  ]
+ },
+ "signC_49": {
+  "original": [
+   "忍不住"
+  ],
+  "source": [
+   "HB1_442",
+   "TP3_91"
+  ],
+  "expand": [
+   "Gb16C01="
+  ]
+ },
+ "signC_50": {
+  "original": [
+   "越…越…"
+  ],
+  "source": [
+   "HB1_443"
+  ],
+  "expand": []
+ },
+ "signC_51": {
+  "original": [
+   "醬油"
+  ],
+  "source": [
+   "TP2_479",
+   "HB1_546"
+  ],
+  "expand": []
+ },
+ "signC_52": {
+  "original": [
+   "醋"
+  ],
+  "source": [
+   "HB1_547",
+   "TP2_480"
+  ],
+  "expand": [
+   "Br08D01="
+  ]
+ },
+ "signC_53": {
+  "original": [
+   "豆漿"
+  ],
+  "source": [
+   "HB1_548"
+  ],
+  "expand": [
+   "Br12A02="
+  ]
+ },
+ "signC_54": {
+  "original": [
+   "豆腐"
+  ],
+  "source": [
+   "HB1_549"
+  ],
+  "expand": []
+ },
+ "signC_55": {
+  "original": [
+   "沖奶"
+  ],
+  "source": [
+   "HB1_550"
+  ],
+  "expand": []
+ },
+ "signC_56": {
+  "original": [
+   "動物(獸)"
+  ],
+  "source": [
+   "HB1_551"
+  ],
+  "expand": []
+ },
+ "signC_57": {
+  "original": [
+   "華僑"
+  ],
+  "source": [
+   "HB1_552"
+  ],
+  "expand": []
+ },
+ "signC_58": {
+  "original": [
+   "伯伯"
+  ],
+  "source": [
+   "HB1_553"
+  ],
+  "expand": [
+   "Ah05A01="
+  ]
+ },
+ "signC_59": {
+  "original": [
+   "叔叔"
+  ],
+  "source": [
+   "HB1_554"
+  ],
+  "expand": []
+ },
+ "signC_60": {
+  "original": [
+   "姑姑"
+  ],
+  "source": [
+   "HB1_555"
+  ],
+  "expand": [
+   "Ah06B01="
+  ]
+ },
+ "signC_61": {
+  "original": [
+   "舅舅"
+  ],
+  "source": [
+   "HB1_556"
+  ],
+  "expand": []
+ },
+ "signC_62": {
+  "original": [
+   "阿姨"
+  ],
+  "source": [
+   "HB1_557"
+  ],
+  "expand": []
+ },
+ "signC_63": {
+  "original": [
+   "男醫生"
+  ],
+  "source": [
+   "HB1_558"
+  ],
+  "expand": []
+ },
+ "signC_64": {
+  "original": [
+   "女醫生"
+  ],
+  "source": [
+   "HB1_559"
+  ],
+  "expand": []
+ },
+ "signC_65": {
+  "original": [
+   "獸醫"
+  ],
+  "source": [
+   "HB1_560"
+  ],
+  "expand": []
+ },
+ "signC_66": {
+  "original": [
+   "農夫"
+  ],
+  "source": [
+   "HB1_561"
+  ],
+  "expand": [
+   "Ae07A01="
+  ]
+ },
+ "signC_67": {
+  "original": [
+   "陸軍"
+  ],
+  "source": [
+   "HB1_562"
+  ],
+  "expand": [
+   "Ae10D04="
+  ]
+ },
+ "signC_68": {
+  "original": [
+   "空軍"
+  ],
+  "source": [
+   "HB1_563"
+  ],
+  "expand": [
+   "Ae10D09="
+  ]
+ },
+ "signC_69": {
+  "original": [
+   "總統"
+  ],
+  "source": [
+   "HB1_564"
+  ],
+  "expand": [
+   "Hc09E01="
+  ]
+ },
+ "signC_70": {
+  "original": [
+   "省長"
+  ],
+  "source": [
+   "HB1_565"
+  ],
+  "expand": []
+ },
+ "signC_71": {
+  "original": [
+   "院長"
+  ],
+  "source": [
+   "HB1_566"
+  ],
+  "expand": []
+ },
+ "signC_72": {
+  "original": [
+   "市長"
+  ],
+  "source": [
+   "HB1_567"
+  ],
+  "expand": []
+ },
+ "signC_73": {
+  "original": [
+   "校長"
+  ],
+  "source": [
+   "HB1_568"
+  ],
+  "expand": []
+ },
+ "signC_74": {
+  "original": [
+   "會長"
+  ],
+  "source": [
+   "HB1_569"
+  ],
+  "expand": []
+ },
+ "signC_75": {
+  "original": [
+   "家長"
+  ],
+  "source": [
+   "HB1_570"
+  ],
+  "expand": [
+   "Ah04C01="
+  ]
+ },
+ "signC_76": {
+  "original": [
+   "禮物"
+  ],
+  "source": [
+   "HB1_572"
+  ],
+  "expand": [
+   "Ba07A01="
+  ]
+ },
+ "signC_77": {
+  "original": [
+   "音樂"
+  ],
+  "source": [
+   "HB1_573"
+  ],
+  "expand": [
+   "Dk28A01="
+  ]
+ },
+ "signC_78": {
+  "original": [
+   "打幾折"
+  ],
+  "source": [
+   "HB1_574"
+  ],
+  "expand": []
+ },
+ "signC_79": {
+  "original": [
+   "醫治"
+  ],
+  "source": [
+   "HB1_575"
+  ],
+  "expand": [
+   "Hg20A01="
+  ]
+ },
+ "signC_80": {
+  "original": [
+   "神經病"
+  ],
+  "source": [
+   "HB1_576"
+  ],
+  "expand": []
+ },
+ "signC_81": {
+  "original": [
+   "可惡"
+  ],
+  "source": [
+   "HB1_577"
+  ],
+  "expand": [
+   "Ed41B01="
+  ]
+ },
+ "signC_82": {
+  "original": [
+   "獨立"
+  ],
+  "source": [
+   "HB1_578"
+  ],
+  "expand": []
+ },
+ "signC_83": {
+  "original": [
+   "和尚"
+  ],
+  "source": [
+   "HB1_645"
+  ],
+  "expand": [
+   "Am01B04="
+  ]
+ },
+ "signC_84": {
+  "original": [
+   "尼姑"
+  ],
+  "source": [
+   "HB1_646"
+  ],
+  "expand": [
+   "Am01B05="
+  ]
+ },
+ "signC_85": {
+  "original": [
+   "作文"
+  ],
+  "source": [
+   "HB1_647"
+  ],
+  "expand": [
+   "Hg16A01="
+  ]
+ },
+ "signC_86": {
+  "original": [
+   "聖誕節"
+  ],
+  "source": [
+   "HB2_990",
+   "HB1_648"
+  ],
+  "expand": []
+ },
+ "signC_87": {
+  "original": [
+   "個性"
+  ],
+  "source": [
+   "TP2_502",
+   "HB1_649",
+   "HB1_650",
+   "TP2_503"
+  ],
+  "expand": [
+   "De01A02="
+  ]
+ },
+ "signC_88": {
+  "original": [
+   "風俗"
+  ],
+  "source": [
+   "HB1_651"
+  ],
+  "expand": []
+ },
+ "signC_89": {
+  "original": [
+   "壞習慣"
+  ],
+  "source": [
+   "HB1_652"
+  ],
+  "expand": []
+ },
+ "signC_90": {
+  "original": [
+   "中壢"
+  ],
+  "source": [
+   "HB1_653"
+  ],
+  "expand": []
+ },
+ "signC_91": {
+  "original": [
+   "找到了"
+  ],
+  "source": [
+   "HB1_654"
+  ],
+  "expand": []
+ },
+ "signC_92": {
+  "original": [
+   "好吃"
+  ],
+  "source": [
+   "HB2_977",
+   "TP2_473",
+   "TP2_474",
+   "HB1_655"
+  ],
+  "expand": [
+   "Ec10C01="
+  ]
+ },
+ "signC_93": {
+  "original": [
+   "不想見"
+  ],
+  "source": [
+   "HB1_657"
+  ],
+  "expand": []
+ },
+ "signC_94": {
+  "original": [
+   "計畫"
+  ],
+  "source": [
+   "HB1_658"
+  ],
+  "expand": []
+ },
+ "signC_95": {
+  "original": [
+   "休假"
+  ],
+  "source": [
+   "HB1_659"
+  ],
+  "expand": [
+   "Ca25B01="
+  ]
+ },
+ "signC_96": {
+  "original": [
+   "主修"
+  ],
+  "source": [
+   "HB1_660"
+  ],
+  "expand": []
+ },
+ "signC_97": {
+  "original": [
+   "訂婚"
+  ],
+  "source": [
+   "HB1_661",
+   "HB2_1172"
+  ],
+  "expand": [
+   "Hj51B01="
+  ]
+ },
+ "signC_98": {
+  "original": [
+   "減價"
+  ],
+  "source": [
+   "HB1_662"
+  ],
+  "expand": [
+   "Ih06B03="
+  ]
+ },
+ "signC_99": {
+  "original": [
+   "地理"
+  ],
+  "source": [
+   "HB1_663"
+  ],
+  "expand": []
+ },
+ "signC_100": {
+  "original": [
+   "分工合作"
+  ],
+  "source": [
+   "HB1_664"
+  ],
+  "expand": []
+ },
+ "signC_101": {
+  "original": [
+   "醫院"
+  ],
+  "source": [
+   "HB1_749",
+   "TP1_443",
+   "HB1_750",
+   "HB1_751"
+  ],
+  "expand": [
+   "Dm06A01="
+  ]
+ },
+ "signC_102": {
+  "original": [
+   "辦公室"
+  ],
+  "source": [
+   "HB1_753",
+   "TP3_95",
+   "HB1_752"
+  ],
+  "expand": [
+   "Hc28A01="
+  ]
+ },
+ "signC_103": {
+  "original": [
+   "班長"
+  ],
+  "source": [
+   "HB1_754"
+  ],
+  "expand": []
+ },
+ "signC_104": {
+  "original": [
+   "郵局"
+  ],
+  "source": [
+   "HB1_755",
+   "HB1_756"
+  ],
+  "expand": [
+   "Dm01A42="
+  ]
+ },
+ "signC_105": {
+  "original": [
+   "布"
+  ],
+  "source": [
+   "HB1_757"
+  ],
+  "expand": []
+ },
+ "signC_106": {
+  "original": [
+   "衛生紙"
+  ],
+  "source": [
+   "HB1_758"
+  ],
+  "expand": [
+   "Bp17C10="
+  ]
+ },
+ "signC_107": {
+  "original": [
+   "收音機"
+  ],
+  "source": [
+   "HB1_760",
+   "HB1_759"
+  ],
+  "expand": [
+   "Bo04A05="
+  ]
+ },
+ "signC_108": {
+  "original": [
+   "照片"
+  ],
+  "source": [
+   "HB1_761"
+  ],
+  "expand": [
+   "Dk32A01="
+  ]
+ },
+ "signC_109": {
+  "original": [
+   "好毒"
+  ],
+  "source": [
+   "HB1_762"
+  ],
+  "expand": []
+ },
+ "signC_110": {
+  "original": [
+   "海軍"
+  ],
+  "source": [
+   "HB1_763"
+  ],
+  "expand": []
+ },
+ "signC_111": {
+  "original": [
+   "正式"
+  ],
+  "source": [
+   "HB1_764"
+  ],
+  "expand": [
+   "Ed53A01="
+  ]
+ },
+ "signC_112": {
+  "original": [
+   "順眼"
+  ],
+  "source": [
+   "HB1_765"
+  ],
+  "expand": [
+   "Eb30A01="
+  ]
+ },
+ "signC_113": {
+  "original": [
+   "投降"
+  ],
+  "source": [
+   "HB1_766"
+  ],
+  "expand": []
+ },
+ "signC_114": {
+  "original": [
+   "絕不肯"
+  ],
+  "source": [
+   "HB1_767"
+  ],
+  "expand": []
+ },
+ "signC_115": {
+  "original": [
+   "螞蟻"
+  ],
+  "source": [
+   "HB1_768",
+   "HB1_769"
+  ],
+  "expand": [
+   "Bi22C01="
+  ]
+ },
+ "signC_116": {
+  "original": [
+   "北美洲"
+  ],
+  "source": [
+   "HB1_828"
+  ],
+  "expand": []
+ },
+ "signC_117": {
+  "original": [
+   "中美洲"
+  ],
+  "source": [
+   "HB1_829"
+  ],
+  "expand": []
+ },
+ "signC_118": {
+  "original": [
+   "南美洲"
+  ],
+  "source": [
+   "HB1_830"
+  ],
+  "expand": []
+ },
+ "signC_119": {
+  "original": [
+   "亞州"
+  ],
+  "source": [
+   "HB1_831"
+  ],
+  "expand": []
+ },
+ "signC_120": {
+  "original": [
+   "澳洲"
+  ],
+  "source": [
+   "HB1_832"
+  ],
+  "expand": []
+ },
+ "signC_121": {
+  "original": [
+   "希臘"
+  ],
+  "source": [
+   "HB1_833"
+  ],
+  "expand": []
+ },
+ "signC_122": {
+  "original": [
+   "文明"
+  ],
+  "source": [
+   "HB1_834"
+  ],
+  "expand": []
+ },
+ "signC_123": {
+  "original": [
+   "新潮"
+  ],
+  "source": [
+   "HB1_835"
+  ],
+  "expand": []
+ },
+ "signC_124": {
+  "original": [
+   "大一"
+  ],
+  "source": [
+   "HB1_836"
+  ],
+  "expand": []
+ },
+ "signC_125": {
+  "original": [
+   "洗衣服"
+  ],
+  "source": [
+   "HB1_837"
+  ],
+  "expand": []
+ },
+ "signC_126": {
+  "original": [
+   "堅硬"
+  ],
+  "source": [
+   "HB1_838"
+  ],
+  "expand": [
+   "Eb10A01="
+  ]
+ },
+ "signC_127": {
+  "original": [
+   "潮濕"
+  ],
+  "source": [
+   "HB1_839"
+  ],
+  "expand": [
+   "Eb27D01="
+  ]
+ },
+ "signC_128": {
+  "original": [
+   "貴不貴"
+  ],
+  "source": [
+   "HB1_840"
+  ],
+  "expand": []
+ },
+ "signC_129": {
+  "original": [
+   "好累"
+  ],
+  "source": [
+   "HB1_841"
+  ],
+  "expand": []
+ },
+ "signC_130": {
+  "original": [
+   "修理"
+  ],
+  "source": [
+   "HB1_896"
+  ],
+  "expand": []
+ },
+ "signC_131": {
+  "original": [
+   "批改"
+  ],
+  "source": [
+   "HB1_897"
+  ],
+  "expand": [
+   "Hg18B01="
+  ]
+ },
+ "signC_132": {
+  "original": [
+   "和氣"
+  ],
+  "source": [
+   "HB1_898"
+  ],
+  "expand": []
+ },
+ "signC_133": {
+  "original": [
+   "建設"
+  ],
+  "source": [
+   "HB1_899"
+  ],
+  "expand": []
+ },
+ "signC_134": {
+  "original": [
+   "建立"
+  ],
+  "source": [
+   "HB1_900"
+  ],
+  "expand": [
+   "Hc05A01="
+  ]
+ },
+ "signC_135": {
+  "original": [
+   "準備"
+  ],
+  "source": [
+   "HB1_901",
+   "TP3_87"
+  ],
+  "expand": []
+ },
+ "signC_136": {
+  "original": [
+   "歡迎"
+  ],
+  "source": [
+   "HB1_902"
+  ],
+  "expand": [
+   "Hi05A01="
+  ]
+ },
+ "signC_137": {
+  "original": [
+   "暫停"
+  ],
+  "source": [
+   "HB1_903"
+  ],
+  "expand": [
+   "Ig02B01="
+  ]
+ },
+ "signC_138": {
+  "original": [
+   "圖書館"
+  ],
+  "source": [
+   "HB1_904"
+  ],
+  "expand": [
+   "Bn03A15="
+  ]
+ },
+ "signC_139": {
+  "original": [
+   "北投"
+  ],
+  "source": [
+   "HB1_905"
+  ],
+  "expand": []
+ },
+ "signC_140": {
+  "original": [
+   "癌症"
+  ],
+  "source": [
+   "TP3_419",
+   "HB1_906"
+  ],
+  "expand": []
+ },
+ "signC_141": {
+  "original": [
+   "不要那麼固執"
+  ],
+  "source": [
+   "HB1_907"
+  ],
+  "expand": []
+ },
+ "signC_142": {
+  "original": [
+   "什麼都不會"
+  ],
+  "source": [
+   "HB1_908"
+  ],
+  "expand": []
+ },
+ "signC_143": {
+  "original": [
+   "民族"
+  ],
+  "source": [
+   "HB2_929"
+  ],
+  "expand": [
+   "Di04B01="
+  ]
+ },
+ "signC_144": {
+  "original": [
+   "法官"
+  ],
+  "source": [
+   "TP2_584",
+   "HB2_931",
+   "TP2_586",
+   "HB2_930",
+   "TP2_585"
+  ],
+  "expand": [
+   "Ae12B01="
+  ]
+ },
+ "signC_145": {
+  "original": [
+   "工程師"
+  ],
+  "source": [
+   "HB2_932"
+  ],
+  "expand": []
+ },
+ "signC_146": {
+  "original": [
+   "牧師"
+  ],
+  "source": [
+   "HB2_933"
+  ],
+  "expand": []
+ },
+ "signC_147": {
+  "original": [
+   "皇后"
+  ],
+  "source": [
+   "HB2_934"
+  ],
+  "expand": [
+   "Af05B02="
+  ]
+ },
+ "signC_148": {
+  "original": [
+   "小丑"
+  ],
+  "source": [
+   "HB2_935"
+  ],
+  "expand": []
+ },
+ "signC_149": {
+  "original": [
+   "裁判"
+  ],
+  "source": [
+   "HB2_936"
+  ],
+  "expand": []
+ },
+ "signC_150": {
+  "original": [
+   "司機"
+  ],
+  "source": [
+   "HB2_937"
+  ],
+  "expand": [
+   "Ae03C01="
+  ]
+ },
+ "signC_151": {
+  "original": [
+   "車掌"
+  ],
+  "source": [
+   "HB2_938"
+  ],
+  "expand": []
+ },
+ "signC_152": {
+  "original": [
+   "公務員"
+  ],
+  "source": [
+   "HB2_939"
+  ],
+  "expand": [
+   "Ae01B02="
+  ]
+ },
+ "signC_153": {
+  "original": [
+   "導師"
+  ],
+  "source": [
+   "HB2_940"
+  ],
+  "expand": [
+   "Ae13A01="
+  ]
+ },
+ "signC_154": {
+  "original": [
+   "學徒"
+  ],
+  "source": [
+   "HB2_941",
+   "HB2_942"
+  ],
+  "expand": [
+   "Aj10B01="
+  ]
+ },
+ "signC_155": {
+  "original": [
+   "木匠"
+  ],
+  "source": [
+   "HB2_943"
+  ],
+  "expand": [
+   "Ae02A08="
+  ]
+ },
+ "signC_156": {
+  "original": [
+   "強盜"
+  ],
+  "source": [
+   "HB2_945",
+   "HB2_944"
+  ],
+  "expand": [
+   "An03A01="
+  ]
+ },
+ "signC_157": {
+  "original": [
+   "流氓"
+  ],
+  "source": [
+   "HB2_946"
+  ],
+  "expand": [
+   "An04A01="
+  ]
+ },
+ "signC_158": {
+  "original": [
+   "守衛"
+  ],
+  "source": [
+   "HB2_947"
+  ],
+  "expand": [
+   "Hb04B01="
+  ]
+ },
+ "signC_159": {
+  "original": [
+   "匪諜"
+  ],
+  "source": [
+   "HB2_948"
+  ],
+  "expand": []
+ },
+ "signC_160": {
+  "original": [
+   "老闆",
+   "負責人"
+  ],
+  "source": [
+   "HB2_949",
+   "HB2_950"
+  ],
+  "expand": [
+   "Af10B01="
+  ]
+ },
+ "signC_161": {
+  "original": [
+   "老闆",
+   "負責人"
+  ],
+  "source": [
+   "HB2_949",
+   "TP2_496",
+   "TP2_497"
+  ],
+  "expand": [
+   "Af10B01="
+  ]
+ },
+ "signC_162": {
+  "original": [
+   "主任"
+  ],
+  "source": [
+   "HB2_951"
+  ],
+  "expand": [
+   "Af10B01="
+  ]
+ },
+ "signC_163": {
+  "original": [
+   "碩士"
+  ],
+  "source": [
+   "HB2_952",
+   "TP3_54"
+  ],
+  "expand": []
+ },
+ "signC_164": {
+  "original": [
+   "愛人"
+  ],
+  "source": [
+   "HB2_954",
+   "HB2_953"
+  ],
+  "expand": []
+ },
+ "signC_165": {
+  "original": [
+   "一見鍾情"
+  ],
+  "source": [
+   "HB2_955"
+  ],
+  "expand": []
+ },
+ "signC_166": {
+  "original": [
+   "保守"
+  ],
+  "source": [
+   "HB2_959",
+   "HB2_957",
+   "TP2_543",
+   "HB2_956",
+   "HB2_958"
+  ],
+  "expand": [
+   "Ee39B01="
+  ]
+ },
+ "signC_167": {
+  "original": [
+   "墨守成規"
+  ],
+  "source": [
+   "HB2_960"
+  ],
+  "expand": [
+   "Ee39B01="
+  ]
+ },
+ "signC_168": {
+  "original": [
+   "守時"
+  ],
+  "source": [
+   "HB2_961"
+  ],
+  "expand": []
+ },
+ "signC_169": {
+  "original": [
+   "把握時間"
+  ],
+  "source": [
+   "HB2_962"
+  ],
+  "expand": []
+ },
+ "signC_170": {
+  "original": [
+   "經驗豐富"
+  ],
+  "source": [
+   "HB2_963"
+  ],
+  "expand": []
+ },
+ "signC_171": {
+  "original": [
+   "靈活"
+  ],
+  "source": [
+   "HB2_964",
+   "HB2_1013"
+  ],
+  "expand": []
+ },
+ "signC_172": {
+  "original": [
+   "內行"
+  ],
+  "source": [
+   "TP3_48",
+   "HB2_965"
+  ],
+  "expand": []
+ },
+ "signC_173": {
+  "original": [
+   "管理"
+  ],
+  "source": [
+   "HB2_966",
+   "TP3_625",
+   "HB2_967"
+  ],
+  "expand": []
+ },
+ "signC_174": {
+  "original": [
+   "視若無睹",
+   "看不起",
+   "目中無人"
+  ],
+  "source": [
+   "HB2_968",
+   "HB2_1096"
+  ],
+  "expand": []
+ },
+ "signC_175": {
+  "original": [
+   "醜"
+  ],
+  "source": [
+   "HB2_969"
+  ],
+  "expand": []
+ },
+ "signC_176": {
+  "original": [
+   "聰明"
+  ],
+  "source": [
+   "HB2_970"
+  ],
+  "expand": [
+   "Ee14A01="
+  ]
+ },
+ "signC_177": {
+  "original": [
+   "笨"
+  ],
+  "source": [
+   "HB2_971"
+  ],
+  "expand": [
+   "Ee14B01="
+  ]
+ },
+ "signC_178": {
+  "original": [
+   "自討沒趣"
+  ],
+  "source": [
+   "HB2_972"
+  ],
+  "expand": [
+   "If14A02="
+  ]
+ },
+ "signC_179": {
+  "original": [
+   "不好看"
+  ],
+  "source": [
+   "HB2_973"
+  ],
+  "expand": []
+ },
+ "signC_180": {
+  "original": [
+   "敬佩"
+  ],
+  "source": [
+   "HB2_974"
+  ],
+  "expand": [
+   "Gb12B01="
+  ]
+ },
+ "signC_181": {
+  "original": [
+   "值得",
+   "划得來"
+  ],
+  "source": [
+   "HB2_975"
+  ],
+  "expand": []
+ },
+ "signC_182": {
+  "original": [
+   "值得",
+   "划得來"
+  ],
+  "source": [
+   "HB2_975"
+  ],
+  "expand": []
+ },
+ "signC_183": {
+  "original": [
+   "好心"
+  ],
+  "source": [
+   "HB2_976"
+  ],
+  "expand": [
+   "Df05A04="
+  ]
+ },
+ "signC_184": {
+  "original": [
+   "不敢吃",
+   "不能吃"
+  ],
+  "source": [
+   "HB2_978"
+  ],
+  "expand": []
+ },
+ "signC_185": {
+  "original": [
+   "不敢吃",
+   "不能吃"
+  ],
+  "source": [
+   "HB2_978"
+  ],
+  "expand": []
+ },
+ "signC_186": {
+  "original": [
+   "名產"
+  ],
+  "source": [
+   "HB2_1076",
+   "HB2_979",
+   "TP2_478"
+  ],
+  "expand": []
+ },
+ "signC_187": {
+  "original": [
+   "企圖"
+  ],
+  "source": [
+   "TP2_517",
+   "HB2_980"
+  ],
+  "expand": []
+ },
+ "signC_188": {
+  "original": [
+   "報仇"
+  ],
+  "source": [
+   "HB2_981"
+  ],
+  "expand": [
+   "Hi62A01="
+  ]
+ },
+ "signC_189": {
+  "original": [
+   "黑社會"
+  ],
+  "source": [
+   "HB2_982"
+  ],
+  "expand": []
+ },
+ "signC_190": {
+  "original": [
+   "捷徑"
+  ],
+  "source": [
+   "HB2_983",
+   "TP1_448"
+  ],
+  "expand": []
+ },
+ "signC_191": {
+  "original": [
+   "除夕"
+  ],
+  "source": [
+   "HB2_984"
+  ],
+  "expand": [
+   "Ca25A08="
+  ]
+ },
+ "signC_192": {
+  "original": [
+   "過年"
+  ],
+  "source": [
+   "HB2_985",
+   "HB2_986"
+  ],
+  "expand": []
+ },
+ "signC_193": {
+  "original": [
+   "元宵節"
+  ],
+  "source": [
+   "HB2_1047",
+   "HB2_987"
+  ],
+  "expand": [
+   "Ca25A11="
+  ]
+ },
+ "signC_194": {
+  "original": [
+   "端午節"
+  ],
+  "source": [
+   "HB2_988"
+  ],
+  "expand": [
+   "Ca25A12="
+  ]
+ },
+ "signC_195": {
+  "original": [
+   "中秋節"
+  ],
+  "source": [
+   "HB2_989"
+  ],
+  "expand": [
+   "Ca25A15="
+  ]
+ },
+ "signC_196": {
+  "original": [
+   "下個月"
+  ],
+  "source": [
+   "HB2_991"
+  ],
+  "expand": []
+ },
+ "signC_197": {
+  "original": [
+   "報名"
+  ],
+  "source": [
+   "HB2_992"
+  ],
+  "expand": [
+   "Hc15B01="
+  ]
+ },
+ "signC_198": {
+  "original": [
+   "註冊"
+  ],
+  "source": [
+   "HB2_994",
+   "HB2_993"
+  ],
+  "expand": [
+   "Hc15A01="
+  ]
+ },
+ "signC_199": {
+  "original": [
+   "下課"
+  ],
+  "source": [
+   "HB2_995"
+  ],
+  "expand": [
+   "Ig01B09@"
+  ]
+ },
+ "signC_200": {
+  "original": [
+   "實驗"
+  ],
+  "source": [
+   "HB2_996"
+  ],
+  "expand": [
+   "Hg07B01="
+  ]
+ },
+ "signC_201": {
+  "original": [
+   "訓練"
+  ],
+  "source": [
+   "HB2_998",
+   "HB2_997"
+  ],
+  "expand": [
+   "Hg06A01="
+  ]
+ },
+ "signC_202": {
+  "original": [
+   "作業"
+  ],
+  "source": [
+   "HB2_1003",
+   "HB2_1000"
+  ],
+  "expand": []
+ },
+ "signC_203": {
+  "original": [
+   "延期"
+  ],
+  "source": [
+   "HB2_1001"
+  ],
+  "expand": [
+   "Ih07B01="
+  ]
+ },
+ "signC_204": {
+  "original": [
+   "逃學"
+  ],
+  "source": [
+   "HB2_1002"
+  ],
+  "expand": [
+   "Hg09C01="
+  ]
+ },
+ "signC_205": {
+  "original": [
+   "批評"
+  ],
+  "source": [
+   "HB2_1004"
+  ],
+  "expand": [
+   "Hi21B01="
+  ]
+ },
+ "signC_206": {
+  "original": [
+   "領悟"
+  ],
+  "source": [
+   "HB2_1005"
+  ],
+  "expand": []
+ },
+ "signC_207": {
+  "original": [
+   "包括"
+  ],
+  "source": [
+   "TP3_340",
+   "HB2_1006"
+  ],
+  "expand": [
+   "Jd05B01="
+  ]
+ },
+ "signC_208": {
+  "original": [
+   "工藝"
+  ],
+  "source": [
+   "HB2_1007"
+  ],
+  "expand": []
+ },
+ "signC_209": {
+  "original": [
+   "能幹",
+   "熟練"
+  ],
+  "source": [
+   "HB2_1008"
+  ],
+  "expand": []
+ },
+ "signC_210": {
+  "original": [
+   "能幹",
+   "熟練"
+  ],
+  "source": [
+   "HB2_1009",
+   "HB2_1008"
+  ],
+  "expand": []
+ },
+ "signC_211": {
+  "original": [
+   "專長"
+  ],
+  "source": [
+   "HB2_1010",
+   "TP3_47"
+  ],
+  "expand": [
+   "De04B09="
+  ]
+ },
+ "signC_212": {
+  "original": [
+   "棒"
+  ],
+  "source": [
+   "HB2_1081",
+   "HB2_1011"
+  ],
+  "expand": []
+ },
+ "signC_213": {
+  "original": [
+   "效果"
+  ],
+  "source": [
+   "HB2_1012"
+  ],
+  "expand": [
+   "Da25A01="
+  ]
+ },
+ "signC_214": {
+  "original": [
+   "夠用"
+  ],
+  "source": [
+   "HB2_1014"
+  ],
+  "expand": [
+   "He14A01="
+  ]
+ },
+ "signC_215": {
+  "original": [
+   "來得及"
+  ],
+  "source": [
+   "HB2_1015"
+  ],
+  "expand": [
+   "Ie17A01="
+  ]
+ },
+ "signC_216": {
+  "original": [
+   "光陰似箭"
+  ],
+  "source": [
+   "HB2_1016"
+  ],
+  "expand": [
+   "Eb23A04="
+  ]
+ },
+ "signC_217": {
+  "original": [
+   "一瞬間"
+  ],
+  "source": [
+   "HB2_1017"
+  ],
+  "expand": [
+   "Eb25A03="
+  ]
+ },
+ "signC_218": {
+  "original": [
+   "疏忽"
+  ],
+  "source": [
+   "HB2_1018"
+  ],
+  "expand": []
+ },
+ "signC_219": {
+  "original": [
+   "評審"
+  ],
+  "source": [
+   "HB2_1019"
+  ],
+  "expand": []
+ },
+ "signC_220": {
+  "original": [
+   "近視"
+  ],
+  "source": [
+   "HB2_1020"
+  ],
+  "expand": [
+   "Ee20B01="
+  ]
+ },
+ "signC_221": {
+  "original": [
+   "不在乎",
+   "心不在焉"
+  ],
+  "source": [
+   "HB2_1021",
+   "HB2_1094"
+  ],
+  "expand": []
+ },
+ "signC_222": {
+  "original": [
+   "自暴自棄"
+  ],
+  "source": [
+   "HB2_1022"
+  ],
+  "expand": [
+   "Hi48C01="
+  ]
+ },
+ "signC_223": {
+  "original": [
+   "可惜"
+  ],
+  "source": [
+   "HB2_1023"
+  ],
+  "expand": [
+   "Gb17A01="
+  ]
+ },
+ "signC_224": {
+  "original": [
+   "嚐"
+  ],
+  "source": [
+   "HB2_1024",
+   "HB2_1048"
+  ],
+  "expand": []
+ },
+ "signC_225": {
+  "original": [
+   "點心"
+  ],
+  "source": [
+   "HB2_1025"
+  ],
+  "expand": []
+ },
+ "signC_226": {
+  "original": [
+   "零食"
+  ],
+  "source": [
+   "HB2_1026"
+  ],
+  "expand": [
+   "Br03A07="
+  ]
+ },
+ "signC_227": {
+  "original": [
+   "稀飯"
+  ],
+  "source": [
+   "HB2_1028",
+   "HB2_1027"
+  ],
+  "expand": [
+   "Br04B01="
+  ]
+ },
+ "signC_228": {
+  "original": [
+   "蕃茄"
+  ],
+  "source": [
+   "HB2_1029"
+  ],
+  "expand": []
+ },
+ "signC_229": {
+  "original": [
+   "芒果"
+  ],
+  "source": [
+   "HB2_1030"
+  ],
+  "expand": []
+ },
+ "signC_230": {
+  "original": [
+   "柚子"
+  ],
+  "source": [
+   "HB2_1031"
+  ],
+  "expand": [
+   "Bh07A03="
+  ]
+ },
+ "signC_231": {
+  "original": [
+   "枇杷"
+  ],
+  "source": [
+   "HB2_1032"
+  ],
+  "expand": []
+ },
+ "signC_232": {
+  "original": [
+   "果醬"
+  ],
+  "source": [
+   "HB2_1033"
+  ],
+  "expand": [
+   "Br08C04="
+  ]
+ },
+ "signC_233": {
+  "original": [
+   "蕃茄醬"
+  ],
+  "source": [
+   "HB2_1034"
+  ],
+  "expand": []
+ },
+ "signC_234": {
+  "original": [
+   "奶油"
+  ],
+  "source": [
+   "HB2_1035"
+  ],
+  "expand": [
+   "Br12D02@"
+  ]
+ },
+ "signC_235": {
+  "original": [
+   "馬鈴薯"
+  ],
+  "source": [
+   "HB2_1036"
+  ],
+  "expand": [
+   "Bh06A47="
+  ]
+ },
+ "signC_236": {
+  "original": [
+   "蛋"
+  ],
+  "source": [
+   "HB2_1037"
+  ],
+  "expand": []
+ },
+ "signC_237": {
+  "original": [
+   "春捲"
+  ],
+  "source": [
+   "HB2_1038"
+  ],
+  "expand": []
+ },
+ "signC_238": {
+  "original": [
+   "油條"
+  ],
+  "source": [
+   "HB2_1039"
+  ],
+  "expand": [
+   "Br09A08="
+  ]
+ },
+ "signC_239": {
+  "original": [
+   "麥"
+  ],
+  "source": [
+   "HB2_1040",
+   "HB2_1077"
+  ],
+  "expand": []
+ },
+ "signC_240": {
+  "original": [
+   "檸檬"
+  ],
+  "source": [
+   "HB2_1041"
+  ],
+  "expand": []
+ },
+ "signC_241": {
+  "original": [
+   "糖果"
+  ],
+  "source": [
+   "HB2_1042"
+  ],
+  "expand": [
+   "Br10A01="
+  ]
+ },
+ "signC_242": {
+  "original": [
+   "西餐"
+  ],
+  "source": [
+   "HB2_1043"
+  ],
+  "expand": [
+   "Da18B03="
+  ]
+ },
+ "signC_243": {
+  "original": [
+   "廚房"
+  ],
+  "source": [
+   "HB2_1044",
+   "TP2_470"
+  ],
+  "expand": [
+   "Bn03A09="
+  ]
+ },
+ "signC_244": {
+  "original": [
+   "倉庫"
+  ],
+  "source": [
+   "HB2_1046",
+   "TP3_96",
+   "HB2_1045"
+  ],
+  "expand": [
+   "Bn17B01="
+  ]
+ },
+ "signC_245": {
+  "original": [
+   "生的"
+  ],
+  "source": [
+   "HB2_1049"
+  ],
+  "expand": []
+ },
+ "signC_246": {
+  "original": [
+   "枯燥"
+  ],
+  "source": [
+   "HB2_1050"
+  ],
+  "expand": [
+   "Ed42B01="
+  ]
+ },
+ "signC_247": {
+  "original": [
+   "提供"
+  ],
+  "source": [
+   "HB2_1051"
+  ],
+  "expand": [
+   "Jc05B01="
+  ]
+ },
+ "signC_248": {
+  "original": [
+   "提議",
+   "建議"
+  ],
+  "source": [
+   "HB2_1052",
+   "TP3_368"
+  ],
+  "expand": [
+   "Dk13A01=",
+   "Hc14A01="
+  ]
+ },
+ "signC_249": {
+  "original": [
+   "談天"
+  ],
+  "source": [
+   "HB2_1053"
+  ],
+  "expand": [
+   "Hi12B01="
+  ]
+ },
+ "signC_250": {
+  "original": [
+   "雜誌"
+  ],
+  "source": [
+   "HB2_1054",
+   "TP3_707"
+  ],
+  "expand": []
+ },
+ "signC_251": {
+  "original": [
+   "無聊"
+  ],
+  "source": [
+   "HB2_1055"
+  ],
+  "expand": [
+   "Ee42B01="
+  ]
+ },
+ "signC_252": {
+  "original": [
+   "天堂"
+  ],
+  "source": [
+   "HB2_1056"
+  ],
+  "expand": [
+   "Dh02A01="
+  ]
+ },
+ "signC_253": {
+  "original": [
+   "北極"
+  ],
+  "source": [
+   "HB2_1057"
+  ],
+  "expand": []
+ },
+ "signC_254": {
+  "original": [
+   "南極"
+  ],
+  "source": [
+   "HB2_1058"
+  ],
+  "expand": []
+ },
+ "signC_255": {
+  "original": [
+   "埃及"
+  ],
+  "source": [
+   "HB2_1059"
+  ],
+  "expand": []
+ },
+ "signC_256": {
+  "original": [
+   "印尼"
+  ],
+  "source": [
+   "HB2_1060"
+  ],
+  "expand": []
+ },
+ "signC_257": {
+  "original": [
+   "丹麥"
+  ],
+  "source": [
+   "HB2_1061"
+  ],
+  "expand": []
+ },
+ "signC_258": {
+  "original": [
+   "苗栗"
+  ],
+  "source": [
+   "HB2_1062"
+  ],
+  "expand": []
+ },
+ "signC_259": {
+  "original": [
+   "屏東"
+  ],
+  "source": [
+   "HB2_1063"
+  ],
+  "expand": []
+ },
+ "signC_260": {
+  "original": [
+   "澎湖"
+  ],
+  "source": [
+   "HB2_1064"
+  ],
+  "expand": []
+ },
+ "signC_261": {
+  "original": [
+   "上海"
+  ],
+  "source": [
+   "HB2_1065"
+  ],
+  "expand": []
+ },
+ "signC_262": {
+  "original": [
+   "紐約"
+  ],
+  "source": [
+   "HB2_1066"
+  ],
+  "expand": []
+ },
+ "signC_263": {
+  "original": [
+   "圓山飯店"
+  ],
+  "source": [
+   "HB2_1067"
+  ],
+  "expand": []
+ },
+ "signC_264": {
+  "original": [
+   "希爾頓"
+  ],
+  "source": [
+   "HB2_1068"
+  ],
+  "expand": []
+ },
+ "signC_265": {
+  "original": [
+   "服務員"
+  ],
+  "source": [
+   "HB2_1069"
+  ],
+  "expand": [
+   "Ae06A01="
+  ]
+ },
+ "signC_266": {
+  "original": [
+   "侍者"
+  ],
+  "source": [
+   "HB2_1070"
+  ],
+  "expand": []
+ },
+ "signC_267": {
+  "original": [
+   "加油站"
+  ],
+  "source": [
+   "TP3_209",
+   "HB2_1071"
+  ],
+  "expand": []
+ },
+ "signC_268": {
+  "original": [
+   "監獄"
+  ],
+  "source": [
+   "HB2_1072",
+   "TP2_604"
+  ],
+  "expand": [
+   "Dm02B01="
+  ]
+ },
+ "signC_269": {
+  "original": [
+   "工業"
+  ],
+  "source": [
+   "HB2_1073"
+  ],
+  "expand": []
+ },
+ "signC_270": {
+  "original": [
+   "觀光區"
+  ],
+  "source": [
+   "HB2_1074"
+  ],
+  "expand": []
+ },
+ "signC_271": {
+  "original": [
+   "名勝古蹟"
+  ],
+  "source": [
+   "HB2_1075"
+  ],
+  "expand": []
+ },
+ "signC_272": {
+  "original": [
+   "偉大"
+  ],
+  "source": [
+   "HB2_1078"
+  ],
+  "expand": [
+   "Ed20A01="
+  ]
+ },
+ "signC_273": {
+  "original": [
+   "幼稚"
+  ],
+  "source": [
+   "HB2_1079"
+  ],
+  "expand": []
+ },
+ "signC_274": {
+  "original": [
+   "以色列"
+  ],
+  "source": [
+   "HB2_1080"
+  ],
+  "expand": []
+ },
+ "signC_275": {
+  "original": [
+   "常常看"
+  ],
+  "source": [
+   "HB2_1082"
+  ],
+  "expand": []
+ },
+ "signC_276": {
+  "original": [
+   "常常吃"
+  ],
+  "source": [
+   "HB2_1083"
+  ],
+  "expand": []
+ },
+ "signC_277": {
+  "original": [
+   "沒見過"
+  ],
+  "source": [
+   "HB2_1084"
+  ],
+  "expand": []
+ },
+ "signC_278": {
+  "original": [
+   "沒吃過"
+  ],
+  "source": [
+   "HB2_1085"
+  ],
+  "expand": []
+ },
+ "signC_279": {
+  "original": [
+   "時間不夠"
+  ],
+  "source": [
+   "HB2_1086"
+  ],
+  "expand": []
+ },
+ "signC_280": {
+  "original": [
+   "怎麼辦"
+  ],
+  "source": [
+   "HB2_1087"
+  ],
+  "expand": [
+   "Hj12A03@"
+  ]
+ },
+ "signC_281": {
+  "original": [
+   "制服"
+  ],
+  "source": [
+   "HB2_1088"
+  ],
+  "expand": []
+ },
+ "signC_282": {
+  "original": [
+   "野蠻"
+  ],
+  "source": [
+   "HB2_1089"
+  ],
+  "expand": [
+   "Ee31B01="
+  ]
+ },
+ "signC_283": {
+  "original": [
+   "擺架子",
+   "好神氣"
+  ],
+  "source": [
+   "HB2_1090"
+  ],
+  "expand": [
+   "Hj59C02="
+  ]
+ },
+ "signC_284": {
+  "original": [
+   "擺架子",
+   "好神氣"
+  ],
+  "source": [
+   "HB2_1090"
+  ],
+  "expand": [
+   "Hj59C02="
+  ]
+ },
+ "signC_285": {
+  "original": [
+   "明察秋毫"
+  ],
+  "source": [
+   "HB2_1091"
+  ],
+  "expand": []
+ },
+ "signC_286": {
+  "original": [
+   "沒有味道"
+  ],
+  "source": [
+   "HB2_1093"
+  ],
+  "expand": []
+ },
+ "signC_287": {
+  "original": [
+   "不在乎",
+   "心不在焉"
+  ],
+  "source": [
+   "HB2_1094",
+   "HB2_1095"
+  ],
+  "expand": []
+ },
+ "signC_288": {
+  "original": [
+   "視若無睹",
+   "看不起",
+   "目中無人"
+  ],
+  "source": [
+   "HB2_1096",
+   "TP2_505",
+   "TP2_504"
+  ],
+  "expand": []
+ },
+ "signC_289": {
+  "original": [
+   "視若無睹",
+   "看不起",
+   "目中無人"
+  ],
+  "source": [
+   "HB2_1096"
+  ],
+  "expand": []
+ },
+ "signC_290": {
+  "original": [
+   "軟片"
+  ],
+  "source": [
+   "HB2_1097",
+   "HB2_1098"
+  ],
+  "expand": [
+   "Bp15B01="
+  ]
+ },
+ "signC_291": {
+  "original": [
+   "相片"
+  ],
+  "source": [
+   "HB2_1099"
+  ],
+  "expand": [
+   "Dk32A01="
+  ]
+ },
+ "signC_292": {
+  "original": [
+   "日光燈"
+  ],
+  "source": [
+   "HB2_1100"
+  ],
+  "expand": [
+   "Bp01A02="
+  ]
+ },
+ "signC_293": {
+  "original": [
+   "限時專送"
+  ],
+  "source": [
+   "HB2_1101"
+  ],
+  "expand": []
+ },
+ "signC_294": {
+  "original": [
+   "直達車"
+  ],
+  "source": [
+   "HB2_1102"
+  ],
+  "expand": []
+ },
+ "signC_295": {
+  "original": [
+   "高速公路"
+  ],
+  "source": [
+   "HB2_1103"
+  ],
+  "expand": []
+ },
+ "signC_296": {
+  "original": [
+   "錄音"
+  ],
+  "source": [
+   "HB2_1104",
+   "TP3_576"
+  ],
+  "expand": [
+   "Hh03B01="
+  ]
+ },
+ "signC_297": {
+  "original": [
+   "健康"
+  ],
+  "source": [
+   "HB2_1105"
+  ],
+  "expand": []
+ },
+ "signC_298": {
+  "original": [
+   "體重"
+  ],
+  "source": [
+   "HB2_1106"
+  ],
+  "expand": [
+   "Dn01A29@"
+  ]
+ },
+ "signC_299": {
+  "original": [
+   "身份證"
+  ],
+  "source": [
+   "HB2_1107"
+  ],
+  "expand": []
+ },
+ "signC_300": {
+  "original": [
+   "獎品"
+  ],
+  "source": [
+   "HB2_1109",
+   "HB2_1108"
+  ],
+  "expand": [
+   "Ba03A06="
+  ]
+ },
+ "signC_301": {
+  "original": [
+   "獎勵"
+  ],
+  "source": [
+   "HB2_1110"
+  ],
+  "expand": [
+   "Hc21A01="
+  ]
+ },
+ "signC_302": {
+  "original": [
+   "催促"
+  ],
+  "source": [
+   "HB2_1111"
+  ],
+  "expand": [
+   "Hi28A01="
+  ]
+ },
+ "signC_303": {
+  "original": [
+   "顏料"
+  ],
+  "source": [
+   "HB2_1112"
+  ],
+  "expand": [
+   "Bm11A01="
+  ]
+ },
+ "signC_304": {
+  "original": [
+   "棉花"
+  ],
+  "source": [
+   "HB2_1113"
+  ],
+  "expand": [
+   "Bh09A28="
+  ]
+ },
+ "signC_305": {
+  "original": [
+   "肉鬆"
+  ],
+  "source": [
+   "HB2_1114"
+  ],
+  "expand": [
+   "Br06B06="
+  ]
+ },
+ "signC_306": {
+  "original": [
+   "你的",
+   "我的",
+   "他的"
+  ],
+  "source": [
+   "TP3_282",
+   "HB2_1115"
+  ],
+  "expand": []
+ },
+ "signC_307": {
+  "original": [
+   "你的",
+   "我的",
+   "他的"
+  ],
+  "source": [
+   "TP3_282",
+   "HB2_1116"
+  ],
+  "expand": []
+ },
+ "signC_308": {
+  "original": [
+   "你的",
+   "我的",
+   "他的"
+  ],
+  "source": [
+   "TP3_282",
+   "HB2_1117"
+  ],
+  "expand": []
+ },
+ "signC_309": {
+  "original": [
+   "孔雀"
+  ],
+  "source": [
+   "HB2_1118"
+  ],
+  "expand": [
+   "Bi11B35@"
+  ]
+ },
+ "signC_310": {
+  "original": [
+   "熊"
+  ],
+  "source": [
+   "HB2_1119"
+  ],
+  "expand": []
+ },
+ "signC_311": {
+  "original": [
+   "羽"
+  ],
+  "source": [
+   "HB2_1120"
+  ],
+  "expand": [
+   "Bk11A06="
+  ]
+ },
+ "signC_312": {
+  "original": [
+   "球鞋"
+  ],
+  "source": [
+   "HB2_1121"
+  ],
+  "expand": [
+   "Bq05B07="
+  ]
+ },
+ "signC_313": {
+  "original": [
+   "閱兵"
+  ],
+  "source": [
+   "HB2_1122"
+  ],
+  "expand": [
+   "Hb02B01="
+  ]
+ },
+ "signC_314": {
+  "original": [
+   "籃子"
+  ],
+  "source": [
+   "HB2_1123"
+  ],
+  "expand": [
+   "Bp10A01="
+  ]
+ },
+ "signC_315": {
+  "original": [
+   "可憐"
+  ],
+  "source": [
+   "HB2_1124"
+  ],
+  "expand": []
+ },
+ "signC_316": {
+  "original": [
+   "默契"
+  ],
+  "source": [
+   "HB2_1125",
+   "HB2_1126"
+  ],
+  "expand": []
+ },
+ "signC_317": {
+  "original": [
+   "吹牛大王"
+  ],
+  "source": [
+   "HB2_1127"
+  ],
+  "expand": []
+ },
+ "signC_318": {
+  "original": [
+   "別吹牛"
+  ],
+  "source": [
+   "HB2_1129",
+   "HB2_1128"
+  ],
+  "expand": []
+ },
+ "signC_319": {
+  "original": [
+   "法律"
+  ],
+  "source": [
+   "HB2_1130"
+  ],
+  "expand": [
+   "Di25A01="
+  ]
+ },
+ "signC_320": {
+  "original": [
+   "有益於"
+  ],
+  "source": [
+   "HB2_1131"
+  ],
+  "expand": [
+   "Je10A01="
+  ]
+ },
+ "signC_321": {
+  "original": [
+   "優待"
+  ],
+  "source": [
+   "HB2_1132"
+  ],
+  "expand": [
+   "Hi08C02="
+  ]
+ },
+ "signC_322": {
+  "original": [
+   "訓導處"
+  ],
+  "source": [
+   "HB2_1133"
+  ],
+  "expand": []
+ },
+ "signC_323": {
+  "original": [
+   "不幸"
+  ],
+  "source": [
+   "HB2_1134"
+  ],
+  "expand": []
+ },
+ "signC_324": {
+  "original": [
+   "卡車"
+  ],
+  "source": [
+   "HB2_1135"
+  ],
+  "expand": []
+ },
+ "signC_325": {
+  "original": [
+   "名譽"
+  ],
+  "source": [
+   "HB2_1136"
+  ],
+  "expand": [
+   "Da26A01="
+  ]
+ },
+ "signC_326": {
+  "original": [
+   "透視"
+  ],
+  "source": [
+   "HB2_1137"
+  ],
+  "expand": [
+   "Hj26A04="
+  ]
+ },
+ "signC_327": {
+  "original": [
+   "訝異"
+  ],
+  "source": [
+   "HB2_1138"
+  ],
+  "expand": [
+   "Ga16A01="
+  ]
+ },
+ "signC_328": {
+  "original": [
+   "少囉嗦"
+  ],
+  "source": [
+   "HB2_1139"
+  ],
+  "expand": []
+ },
+ "signC_329": {
+  "original": [
+   "享受"
+  ],
+  "source": [
+   "HB2_1140"
+  ],
+  "expand": [
+   "Je13B01="
+  ]
+ },
+ "signC_330": {
+  "original": [
+   "營養"
+  ],
+  "source": [
+   "TP2_491",
+   "TP2_489",
+   "HB2_1141",
+   "TP2_492",
+   "TP2_490"
+  ],
+  "expand": []
+ },
+ "signC_331": {
+  "original": [
+   "馬馬虎虎"
+  ],
+  "source": [
+   "HB2_1142"
+  ],
+  "expand": [
+   "Ed05A01="
+  ]
+ },
+ "signC_332": {
+  "original": [
+   "亂七八糟"
+  ],
+  "source": [
+   "HB2_1143"
+  ],
+  "expand": []
+ },
+ "signC_333": {
+  "original": [
+   "清明節"
+  ],
+  "source": [
+   "HB2_1144"
+  ],
+  "expand": []
+ },
+ "signC_334": {
+  "original": [
+   "殺人不眨眼"
+  ],
+  "source": [
+   "HB2_1145"
+  ],
+  "expand": [
+   "Ee01C02="
+  ]
+ },
+ "signC_335": {
+  "original": [
+   "血"
+  ],
+  "source": [
+   "HB2_1146",
+   "TP2_572"
+  ],
+  "expand": []
+ },
+ "signC_336": {
+  "original": [
+   "白費心血"
+  ],
+  "source": [
+   "HB2_1147"
+  ],
+  "expand": []
+ },
+ "signC_337": {
+  "original": [
+   "保重"
+  ],
+  "source": [
+   "HB2_1148"
+  ],
+  "expand": [
+   "Gb21A02="
+  ]
+ },
+ "signC_338": {
+  "original": [
+   "保險"
+  ],
+  "source": [
+   "TP3_322",
+   "HB2_1149"
+  ],
+  "expand": []
+ },
+ "signC_339": {
+  "original": [
+   "預防"
+  ],
+  "source": [
+   "HB2_1150"
+  ],
+  "expand": [
+   "Je11A01="
+  ]
+ },
+ "signC_340": {
+  "original": [
+   "投資"
+  ],
+  "source": [
+   "TP2_601",
+   "HB2_1151"
+  ],
+  "expand": [
+   "He01D01="
+  ]
+ },
+ "signC_341": {
+  "original": [
+   "解決"
+  ],
+  "source": [
+   "HB2_1152"
+  ],
+  "expand": []
+ },
+ "signC_342": {
+  "original": [
+   "限制"
+  ],
+  "source": [
+   "HB2_1153"
+  ],
+  "expand": [
+   "Je08A01="
+  ]
+ },
+ "signC_343": {
+  "original": [
+   "節省"
+  ],
+  "source": [
+   "HB2_1154"
+  ],
+  "expand": []
+ },
+ "signC_344": {
+  "original": [
+   "收據"
+  ],
+  "source": [
+   "HB2_1157",
+   "HB2_1155",
+   "HB2_1156"
+  ],
+  "expand": [
+   "Bp19A03="
+  ]
+ },
+ "signC_345": {
+  "original": [
+   "信封"
+  ],
+  "source": [
+   "HB2_1158"
+  ],
+  "expand": [
+   "Bp16A05="
+  ]
+ },
+ "signC_346": {
+  "original": [
+   "郵差"
+  ],
+  "source": [
+   "HB2_1168",
+   "HB2_1159"
+  ],
+  "expand": [
+   "Ae05A01="
+  ]
+ },
+ "signC_347": {
+  "original": [
+   "罷工"
+  ],
+  "source": [
+   "HB2_1160"
+  ],
+  "expand": []
+ },
+ "signC_348": {
+  "original": [
+   "家庭"
+  ],
+  "source": [
+   "HB2_1161"
+  ],
+  "expand": [
+   "Di05B01="
+  ]
+ },
+ "signC_349": {
+  "original": [
+   "回家"
+  ],
+  "source": [
+   "HB2_1162"
+  ],
+  "expand": [
+   "Hf07B04="
+  ]
+ },
+ "signC_350": {
+  "original": [
+   "告密"
+  ],
+  "source": [
+   "HB2_1164",
+   "HB2_1189",
+   "HB2_1163"
+  ],
+  "expand": [
+   "Hm01A01="
+  ]
+ },
+ "signC_351": {
+  "original": [
+   "霸道"
+  ],
+  "source": [
+   "HB2_1165"
+  ],
+  "expand": []
+ },
+ "signC_352": {
+  "original": [
+   "吹牛"
+  ],
+  "source": [
+   "HB2_1194",
+   "HB2_1193",
+   "HB2_1192",
+   "HB2_1166"
+  ],
+  "expand": [
+   "Hi19A01="
+  ]
+ },
+ "signC_353": {
+  "original": [
+   "出爾反爾"
+  ],
+  "source": [
+   "HB2_1167"
+  ],
+  "expand": [
+   "Hi04B01="
+  ]
+ },
+ "signC_354": {
+  "original": [
+   "主席"
+  ],
+  "source": [
+   "HB2_1169"
+  ],
+  "expand": [
+   "Aj12A01="
+  ]
+ },
+ "signC_355": {
+  "original": [
+   "漁夫"
+  ],
+  "source": [
+   "HB2_1170"
+  ],
+  "expand": [
+   "Ae07C01="
+  ]
+ },
+ "signC_356": {
+  "original": [
+   "瘋子"
+  ],
+  "source": [
+   "HB2_1171"
+  ],
+  "expand": [
+   "Ag01C01="
+  ]
+ },
+ "signC_357": {
+  "original": [
+   "筆談"
+  ],
+  "source": [
+   "HB2_1173"
+  ],
+  "expand": [
+   "Dk26C01="
+  ]
+ },
+ "signC_358": {
+  "original": [
+   "募捐"
+  ],
+  "source": [
+   "HB2_1174"
+  ],
+  "expand": [
+   "Hi26C10@"
+  ]
+ },
+ "signC_359": {
+  "original": [
+   "插隊"
+  ],
+  "source": [
+   "HB2_1175"
+  ],
+  "expand": [
+   "Fa12B01="
+  ]
+ },
+ "signC_360": {
+  "original": [
+   "退學"
+  ],
+  "source": [
+   "HB2_1176"
+  ],
+  "expand": []
+ },
+ "signC_361": {
+  "original": [
+   "辭職"
+  ],
+  "source": [
+   "TP3_53",
+   "TP3_276",
+   "HB2_1177"
+  ],
+  "expand": [
+   "Hj23B01="
+  ]
+ },
+ "signC_362": {
+  "original": [
+   "黑市"
+  ],
+  "source": [
+   "HB2_1178"
+  ],
+  "expand": []
+ },
+ "signC_363": {
+  "original": [
+   "捧場"
+  ],
+  "source": [
+   "HB2_1179"
+  ],
+  "expand": []
+ },
+ "signC_364": {
+  "original": [
+   "贊成"
+  ],
+  "source": [
+   "HB2_1180",
+   "HB2_1181",
+   "HB2_1182"
+  ],
+  "expand": [
+   "Gb15A01="
+  ]
+ },
+ "signC_365": {
+  "original": [
+   "大蒜"
+  ],
+  "source": [
+   "HB2_1183"
+  ],
+  "expand": [
+   "Bh06A15="
+  ]
+ },
+ "signC_366": {
+  "original": [
+   "傳染病"
+  ],
+  "source": [
+   "HB2_1184"
+  ],
+  "expand": []
+ },
+ "signC_367": {
+  "original": [
+   "供膳宿"
+  ],
+  "source": [
+   "HB2_1185"
+  ],
+  "expand": []
+ },
+ "signC_368": {
+  "original": [
+   "猜"
+  ],
+  "source": [
+   "HB2_1186"
+  ],
+  "expand": [
+   "Gb03C01="
+  ]
+ },
+ "signC_369": {
+  "original": [
+   "誘惑"
+  ],
+  "source": [
+   "HB2_1187"
+  ],
+  "expand": []
+ },
+ "signC_370": {
+  "original": [
+   "叛國"
+  ],
+  "source": [
+   "HB2_1188"
+  ],
+  "expand": [
+   "Ha07B01="
+  ]
+ },
+ "signC_371": {
+  "original": [
+   "被發現"
+  ],
+  "source": [
+   "HB2_1190"
+  ],
+  "expand": []
+ },
+ "signC_372": {
+  "original": [
+   "胡言亂語"
+  ],
+  "source": [
+   "HB2_1191"
+  ],
+  "expand": [
+   "Hi12A08="
+  ]
+ },
+ "signC_373": {
+  "original": [
+   "一言為定"
+  ],
+  "source": [
+   "HB2_1195"
+  ],
+  "expand": [
+   "Hi04A01="
+  ]
+ },
+ "signC_374": {
+  "original": [
+   "屈服"
+  ],
+  "source": [
+   "HB2_1196"
+  ],
+  "expand": [
+   "Hi45B01="
+  ]
+ },
+ "signC_375": {
+  "original": [
+   "犧牲"
+  ],
+  "source": [
+   "HB2_1197"
+  ],
+  "expand": []
+ },
+ "signC_376": {
+  "original": [
+   "笑話"
+  ],
+  "source": [
+   "HB2_1198"
+  ],
+  "expand": []
+ },
+ "signC_377": {
+  "original": [
+   "先生"
+  ],
+  "source": [
+   "TP1_435"
+  ],
+  "expand": []
+ },
+ "signC_378": {
+  "original": [
+   "妻子"
+  ],
+  "source": [
+   "TP1_436"
+  ],
+  "expand": [
+   "Ah08B01="
+  ]
+ },
+ "signC_379": {
+  "original": [
+   "嫂嫂"
+  ],
+  "source": [
+   "TP1_438"
+  ],
+  "expand": [
+   "Ah12A01="
+  ]
+ },
+ "signC_380": {
+  "original": [
+   "妹夫"
+  ],
+  "source": [
+   "TP1_439"
+  ],
+  "expand": [
+   "Ah12D01="
+  ]
+ },
+ "signC_381": {
+  "original": [
+   "今年"
+  ],
+  "source": [
+   "TP1_441"
+  ],
+  "expand": [
+   "Ca18A04="
+  ]
+ },
+ "signC_382": {
+  "original": [
+   "沙發"
+  ],
+  "source": [
+   "TP1_445"
+  ],
+  "expand": []
+ },
+ "signC_383": {
+  "original": [
+   "法院"
+  ],
+  "source": [
+   "TP1_446"
+  ],
+  "expand": [
+   "Dm02A02="
+  ]
+ },
+ "signC_384": {
+  "original": [
+   "總統府"
+  ],
+  "source": [
+   "TP1_447"
+  ],
+  "expand": []
+ },
+ "signC_385": {
+  "original": [
+   "火車站"
+  ],
+  "source": [
+   "TP1_449"
+  ],
+  "expand": []
+ },
+ "signC_386": {
+  "original": [
+   "三菱"
+  ],
+  "source": [
+   "TP1_450"
+  ],
+  "expand": []
+ },
+ "signC_387": {
+  "original": [
+   "汽車駕照"
+  ],
+  "source": [
+   "TP1_451"
+  ],
+  "expand": []
+ },
+ "signC_388": {
+  "original": [
+   "牛仔褲"
+  ],
+  "source": [
+   "TP1_452"
+  ],
+  "expand": []
+ },
+ "signC_389": {
+  "original": [
+   "毛衣"
+  ],
+  "source": [
+   "TP1_453"
+  ],
+  "expand": []
+ },
+ "signC_390": {
+  "original": [
+   "多久"
+  ],
+  "source": [
+   "TP1_454"
+  ],
+  "expand": [
+   "Ca06A03@"
+  ]
+ },
+ "signC_391": {
+  "original": [
+   "瑞士"
+  ],
+  "source": [
+   "TP1_456"
+  ],
+  "expand": []
+ },
+ "signC_392": {
+  "original": [
+   "運動場"
+  ],
+  "source": [
+   "TP1_458"
+  ],
+  "expand": [
+   "Dm07A05="
+  ]
+ },
+ "signC_393": {
+  "original": [
+   "籃球場"
+  ],
+  "source": [
+   "TP1_459"
+  ],
+  "expand": []
+ },
+ "signC_394": {
+  "original": [
+   "網球"
+  ],
+  "source": [
+   "TP1_460"
+  ],
+  "expand": []
+ },
+ "signC_395": {
+  "original": [
+   "羽毛球"
+  ],
+  "source": [
+   "TP1_461"
+  ],
+  "expand": []
+ },
+ "signC_396": {
+  "original": [
+   "圍棋"
+  ],
+  "source": [
+   "TP1_462"
+  ],
+  "expand": []
+ },
+ "signC_397": {
+  "original": [
+   "象棋"
+  ],
+  "source": [
+   "TP1_463"
+  ],
+  "expand": []
+ },
+ "signC_398": {
+  "original": [
+   "電腦"
+  ],
+  "source": [
+   "TP1_465",
+   "TP1_464"
+  ],
+  "expand": [
+   "Bo01A27="
+  ]
+ },
+ "signC_399": {
+  "original": [
+   "逛街"
+  ],
+  "source": [
+   "TP1_466"
+  ],
+  "expand": []
+ },
+ "signC_400": {
+  "original": [
+   "從來沒…"
+  ],
+  "source": [
+   "TP1_467"
+  ],
+  "expand": []
+ },
+ "signC_401": {
+  "original": [
+   "做過了…"
+  ],
+  "source": [
+   "TP1_468"
+  ],
+  "expand": []
+ },
+ "signC_402": {
+  "original": [
+   "沒辦法…"
+  ],
+  "source": [
+   "TP1_469"
+  ],
+  "expand": []
+ },
+ "signC_403": {
+  "original": [
+   "難吃"
+  ],
+  "source": [
+   "TP2_475",
+   "TP2_476"
+  ],
+  "expand": [
+   "Ec10D01="
+  ]
+ },
+ "signC_404": {
+  "original": [
+   "不怎麼好吃"
+  ],
+  "source": [
+   "TP2_477"
+  ],
+  "expand": []
+ },
+ "signC_405": {
+  "original": [
+   "瓦斯"
+  ],
+  "source": [
+   "TP2_481"
+  ],
+  "expand": []
+ },
+ "signC_406": {
+  "original": [
+   "自來水"
+  ],
+  "source": [
+   "TP2_482"
+  ],
+  "expand": []
+ },
+ "signC_407": {
+  "original": [
+   "不當一回事"
+  ],
+  "source": [
+   "TP2_484",
+   "TP2_483"
+  ],
+  "expand": []
+ },
+ "signC_408": {
+  "original": [
+   "菜市場"
+  ],
+  "source": [
+   "TP2_485"
+  ],
+  "expand": []
+ },
+ "signC_409": {
+  "original": [
+   "洋蔥"
+  ],
+  "source": [
+   "TP2_486"
+  ],
+  "expand": [
+   "Bh06A13="
+  ]
+ },
+ "signC_410": {
+  "original": [
+   "殺價"
+  ],
+  "source": [
+   "TP2_488"
+  ],
+  "expand": [
+   "He02C06="
+  ]
+ },
+ "signC_411": {
+  "original": [
+   "漲價"
+  ],
+  "source": [
+   "TP2_493"
+  ],
+  "expand": [
+   "Ih06A05="
+  ]
+ },
+ "signC_412": {
+  "original": [
+   "跌價"
+  ],
+  "source": [
+   "TP2_494"
+  ],
+  "expand": [
+   "Ih06B03="
+  ]
+ },
+ "signC_413": {
+  "original": [
+   "降價"
+  ],
+  "source": [
+   "TP2_495"
+  ],
+  "expand": [
+   "Ih06B03="
+  ]
+ },
+ "signC_414": {
+  "original": [
+   "…不到"
+  ],
+  "source": [
+   "TP2_499",
+   "TP2_498"
+  ],
+  "expand": []
+ },
+ "signC_415": {
+  "original": [
+   "…光了"
+  ],
+  "source": [
+   "TP2_500"
+  ],
+  "expand": []
+ },
+ "signC_416": {
+  "original": [
+   "盡了"
+  ],
+  "source": [
+   "TP2_501"
+  ],
+  "expand": []
+ },
+ "signC_417": {
+  "original": [
+   "自視過高"
+  ],
+  "source": [
+   "TP2_507",
+   "TP2_506"
+  ],
+  "expand": []
+ },
+ "signC_418": {
+  "original": [
+   "袖手旁觀"
+  ],
+  "source": [
+   "TP2_508"
+  ],
+  "expand": [
+   "Gb21E05="
+  ]
+ },
+ "signC_419": {
+  "original": [
+   "固執"
+  ],
+  "source": [
+   "TP2_509",
+   "TP2_510"
+  ],
+  "expand": [
+   "Ee16C01="
+  ]
+ },
+ "signC_420": {
+  "original": [
+   "固定"
+  ],
+  "source": [
+   "TP2_511"
+  ],
+  "expand": [
+   "Ed14A01="
+  ]
+ },
+ "signC_421": {
+  "original": [
+   "薪水"
+  ],
+  "source": [
+   "TP2_512"
+  ],
+  "expand": [
+   "Dj07A02="
+  ]
+ },
+ "signC_422": {
+  "original": [
+   "相剋"
+  ],
+  "source": [
+   "TP2_513"
+  ],
+  "expand": []
+ },
+ "signC_423": {
+  "original": [
+   "對食物過敏"
+  ],
+  "source": [
+   "TP2_514"
+  ],
+  "expand": []
+ },
+ "signC_424": {
+  "original": [
+   "很會…"
+  ],
+  "source": [
+   "TP2_515"
+  ],
+  "expand": []
+ },
+ "signC_425": {
+  "original": [
+   "…很棒"
+  ],
+  "source": [
+   "TP2_516"
+  ],
+  "expand": []
+ },
+ "signC_426": {
+  "original": [
+   "好出風頭"
+  ],
+  "source": [
+   "TP2_520",
+   "TP2_518",
+   "TP2_519"
+  ],
+  "expand": []
+ },
+ "signC_427": {
+  "original": [
+   "社團"
+  ],
+  "source": [
+   "TP2_521"
+  ],
+  "expand": []
+ },
+ "signC_428": {
+  "original": [
+   "春節"
+  ],
+  "source": [
+   "TP2_522",
+   "TP2_523"
+  ],
+  "expand": [
+   "Ca25A10="
+  ]
+ },
+ "signC_429": {
+  "original": [
+   "新郎"
+  ],
+  "source": [
+   "TP2_525",
+   "TP2_524"
+  ],
+  "expand": [
+   "Aj16A01="
+  ]
+ },
+ "signC_430": {
+  "original": [
+   "新娘"
+  ],
+  "source": [
+   "TP2_526",
+   "TP2_527"
+  ],
+  "expand": [
+   "Aj16B01="
+  ]
+ },
+ "signC_431": {
+  "original": [
+   "色情行業"
+  ],
+  "source": [
+   "TP2_528",
+   "TP2_529"
+  ],
+  "expand": []
+ },
+ "signC_432": {
+  "original": [
+   "不男不女"
+  ],
+  "source": [
+   "TP2_530"
+  ],
+  "expand": []
+ },
+ "signC_433": {
+  "original": [
+   "去勢"
+  ],
+  "source": [
+   "TP2_531"
+  ],
+  "expand": [
+   "Hd28B01="
+  ]
+ },
+ "signC_434": {
+  "original": [
+   "獨生子"
+  ],
+  "source": [
+   "TP2_532"
+  ],
+  "expand": [
+   "Ah14C03="
+  ]
+ },
+ "signC_435": {
+  "original": [
+   "獨生女"
+  ],
+  "source": [
+   "TP2_533"
+  ],
+  "expand": [
+   "Ah14C03="
+  ]
+ },
+ "signC_436": {
+  "original": [
+   "岳父"
+  ],
+  "source": [
+   "TP2_534"
+  ],
+  "expand": [
+   "Ah07B02="
+  ]
+ },
+ "signC_437": {
+  "original": [
+   "表裡不一"
+  ],
+  "source": [
+   "TP2_535"
+  ],
+  "expand": []
+ },
+ "signC_438": {
+  "original": [
+   "不在意"
+  ],
+  "source": [
+   "TP2_537"
+  ],
+  "expand": [
+   "Ga13C01="
+  ]
+ },
+ "signC_439": {
+  "original": [
+   "規律"
+  ],
+  "source": [
+   "TP2_538"
+  ],
+  "expand": [
+   "Db06A01="
+  ]
+ },
+ "signC_440": {
+  "original": [
+   "重視"
+  ],
+  "source": [
+   "TP2_539"
+  ],
+  "expand": [
+   "Gb21A01="
+  ]
+ },
+ "signC_441": {
+  "original": [
+   "輕視"
+  ],
+  "source": [
+   "TP2_540"
+  ],
+  "expand": [
+   "Gb21D01="
+  ]
+ },
+ "signC_442": {
+  "original": [
+   "歧視"
+  ],
+  "source": [
+   "TP2_541",
+   "TP2_542"
+  ],
+  "expand": []
+ },
+ "signC_443": {
+  "original": [
+   "民眾"
+  ],
+  "source": [
+   "TP2_544"
+  ],
+  "expand": [
+   "Aa01B02="
+  ]
+ },
+ "signC_444": {
+  "original": [
+   "人士"
+  ],
+  "source": [
+   "TP2_545"
+  ],
+  "expand": [
+   "Aa01A01="
+  ]
+ },
+ "signC_445": {
+  "original": [
+   "戶口名簿"
+  ],
+  "source": [
+   "TP2_548",
+   "TP2_546",
+   "TP2_547"
+  ],
+  "expand": []
+ },
+ "signC_446": {
+  "original": [
+   "身分證"
+  ],
+  "source": [
+   "TP2_550",
+   "TP2_549"
+  ],
+  "expand": []
+ },
+ "signC_447": {
+  "original": [
+   "半身照片"
+  ],
+  "source": [
+   "TP2_551"
+  ],
+  "expand": []
+ },
+ "signC_448": {
+  "original": [
+   "戶政事務所"
+  ],
+  "source": [
+   "TP2_552",
+   "TP2_553"
+  ],
+  "expand": []
+ },
+ "signC_449": {
+  "original": [
+   "身心障礙手冊"
+  ],
+  "source": [
+   "TP2_554"
+  ],
+  "expand": []
+ },
+ "signC_450": {
+  "original": [
+   "補助"
+  ],
+  "source": [
+   "TP2_555"
+  ],
+  "expand": [
+   "Hi36A05="
+  ]
+ },
+ "signC_451": {
+  "original": [
+   "津貼"
+  ],
+  "source": [
+   "TP2_556"
+  ],
+  "expand": [
+   "Dj07A07="
+  ]
+ },
+ "signC_452": {
+  "original": [
+   "戶籍(地)"
+  ],
+  "source": [
+   "TP2_557"
+  ],
+  "expand": []
+ },
+ "signC_453": {
+  "original": [
+   "切結書"
+  ],
+  "source": [
+   "TP2_558"
+  ],
+  "expand": []
+ },
+ "signC_454": {
+  "original": [
+   "生活輔具"
+  ],
+  "source": [
+   "TP2_559"
+  ],
+  "expand": []
+ },
+ "signC_455": {
+  "original": [
+   "低收入戶證明"
+  ],
+  "source": [
+   "TP2_561",
+   "TP2_560"
+  ],
+  "expand": []
+ },
+ "signC_456": {
+  "original": [
+   "發票"
+  ],
+  "source": [
+   "TP2_562"
+  ],
+  "expand": [
+   "Bp19A05="
+  ]
+ },
+ "signC_457": {
+  "original": [
+   "家屬"
+  ],
+  "source": [
+   "TP2_563"
+  ],
+  "expand": [
+   "Ah01B01="
+  ]
+ },
+ "signC_458": {
+  "original": [
+   "機車駕照"
+  ],
+  "source": [
+   "TP2_564"
+  ],
+  "expand": []
+ },
+ "signC_459": {
+  "original": [
+   "行照"
+  ],
+  "source": [
+   "TP2_565"
+  ],
+  "expand": []
+ },
+ "signC_460": {
+  "original": [
+   "里長"
+  ],
+  "source": [
+   "TP2_566"
+  ],
+  "expand": []
+ },
+ "signC_461": {
+  "original": [
+   "流血"
+  ],
+  "source": [
+   "TP2_567"
+  ],
+  "expand": []
+ },
+ "signC_462": {
+  "original": [
+   "不敢"
+  ],
+  "source": [
+   "TP2_569",
+   "TP2_568"
+  ],
+  "expand": []
+ },
+ "signC_463": {
+  "original": [
+   "專科"
+  ],
+  "source": [
+   "TP2_570"
+  ],
+  "expand": [
+   "Dm05A07="
+  ]
+ },
+ "signC_464": {
+  "original": [
+   "身體不舒服"
+  ],
+  "source": [
+   "TP2_571"
+  ],
+  "expand": []
+ },
+ "signC_465": {
+  "original": [
+   "打點滴"
+  ],
+  "source": [
+   "TP2_573"
+  ],
+  "expand": []
+ },
+ "signC_466": {
+  "original": [
+   "輸血"
+  ],
+  "source": [
+   "TP2_574"
+  ],
+  "expand": []
+ },
+ "signC_467": {
+  "original": [
+   "量血壓"
+  ],
+  "source": [
+   "TP2_575"
+  ],
+  "expand": []
+ },
+ "signC_468": {
+  "original": [
+   "痊癒"
+  ],
+  "source": [
+   "TP2_576"
+  ],
+  "expand": [
+   "Ib10C01="
+  ]
+ },
+ "signC_469": {
+  "original": [
+   "溼"
+  ],
+  "source": [
+   "TP2_577"
+  ],
+  "expand": []
+ },
+ "signC_470": {
+  "original": [
+   "時期"
+  ],
+  "source": [
+   "TP2_578"
+  ],
+  "expand": [
+   "Ca03A01="
+  ]
+ },
+ "signC_471": {
+  "original": [
+   "感冒"
+  ],
+  "source": [
+   "TP2_579"
+  ],
+  "expand": [
+   "Ib14A01="
+  ]
+ },
+ "signC_472": {
+  "original": [
+   "退燒藥"
+  ],
+  "source": [
+   "TP2_580"
+  ],
+  "expand": []
+ },
+ "signC_473": {
+  "original": [
+   "家庭醫學科"
+  ],
+  "source": [
+   "TP2_581"
+  ],
+  "expand": []
+ },
+ "signC_474": {
+  "original": [
+   "警局"
+  ],
+  "source": [
+   "TP2_582"
+  ],
+  "expand": []
+ },
+ "signC_475": {
+  "original": [
+   "修車廠"
+  ],
+  "source": [
+   "TP2_583"
+  ],
+  "expand": []
+ },
+ "signC_476": {
+  "original": [
+   "律師"
+  ],
+  "source": [
+   "TP2_587",
+   "TP2_588"
+  ],
+  "expand": [
+   "Ae12C01="
+  ]
+ },
+ "signC_477": {
+  "original": [
+   "檢察官"
+  ],
+  "source": [
+   "TP2_590",
+   "TP2_589"
+  ],
+  "expand": [
+   "Ae12B02="
+  ]
+ },
+ "signC_478": {
+  "original": [
+   "書記官"
+  ],
+  "source": [
+   "TP2_592",
+   "TP2_593",
+   "TP2_591"
+  ],
+  "expand": []
+ },
+ "signC_479": {
+  "original": [
+   "上個月"
+  ],
+  "source": [
+   "TP2_594"
+  ],
+  "expand": []
+ },
+ "signC_480": {
+  "original": [
+   "刑警"
+  ],
+  "source": [
+   "TP2_596",
+   "TP2_595"
+  ],
+  "expand": []
+ },
+ "signC_481": {
+  "original": [
+   "傳喚"
+  ],
+  "source": [
+   "TP2_597"
+  ],
+  "expand": [
+   "Fc09B01="
+  ]
+ },
+ "signC_482": {
+  "original": [
+   "筆錄"
+  ],
+  "source": [
+   "TP2_598"
+  ],
+  "expand": []
+ },
+ "signC_483": {
+  "original": [
+   "做筆錄"
+  ],
+  "source": [
+   "TP2_599"
+  ],
+  "expand": []
+ },
+ "signC_484": {
+  "original": [
+   "吸毒"
+  ],
+  "source": [
+   "TP2_600"
+  ],
+  "expand": [
+   "Ie12C02@"
+  ]
+ },
+ "signC_485": {
+  "original": [
+   "羈押"
+  ],
+  "source": [
+   "TP2_602"
+  ],
+  "expand": [
+   "Hm04A01="
+  ]
+ },
+ "signC_486": {
+  "original": [
+   "收押"
+  ],
+  "source": [
+   "TP2_603"
+  ],
+  "expand": [
+   "Hm04A01="
+  ]
+ },
+ "signC_487": {
+  "original": [
+   "看守所"
+  ],
+  "source": [
+   "TP2_605"
+  ],
+  "expand": [
+   "Dm02B01="
+  ]
+ },
+ "signC_488": {
+  "original": [
+   "判決"
+  ],
+  "source": [
+   "TP2_606"
+  ],
+  "expand": [
+   "Hm06B01="
+  ]
+ },
+ "signC_489": {
+  "original": [
+   "無期徒刑"
+  ],
+  "source": [
+   "TP2_607"
+  ],
+  "expand": []
+ },
+ "signC_490": {
+  "original": [
+   "匯款"
+  ],
+  "source": [
+   "TP2_608"
+  ],
+  "expand": [
+   "Hi11B01="
+  ]
+ },
+ "signC_491": {
+  "original": [
+   "倒會"
+  ],
+  "source": [
+   "TP3_523",
+   "TP2_610",
+   "TP2_609"
+  ],
+  "expand": []
+ },
+ "signC_492": {
+  "original": [
+   "得標"
+  ],
+  "source": [
+   "TP2_611"
+  ],
+  "expand": []
+ },
+ "signC_493": {
+  "original": [
+   "超速"
+  ],
+  "source": [
+   "TP2_612"
+  ],
+  "expand": []
+ },
+ "signC_494": {
+  "original": [
+   "吃票"
+  ],
+  "source": [
+   "TP2_613"
+  ],
+  "expand": []
+ },
+ "signC_495": {
+  "original": [
+   "履歷表"
+  ],
+  "source": [
+   "TP3_45"
+  ],
+  "expand": []
+ },
+ "signC_496": {
+  "original": [
+   "身份證字號"
+  ],
+  "source": [
+   "TP3_46"
+  ],
+  "expand": []
+ },
+ "signC_497": {
+  "original": [
+   "外行"
+  ],
+  "source": [
+   "TP3_49"
+  ],
+  "expand": []
+ },
+ "signC_498": {
+  "original": [
+   "廚師"
+  ],
+  "source": [
+   "TP3_50"
+  ],
+  "expand": [
+   "Ae04A01="
+  ]
+ },
+ "signC_499": {
+  "original": [
+   "影像處理"
+  ],
+  "source": [
+   "TP3_51"
+  ],
+  "expand": []
+ },
+ "signC_500": {
+  "original": [
+   "作家"
+  ],
+  "source": [
+   "TP3_52"
+  ],
+  "expand": [
+   "Al01A04="
+  ]
+ },
+ "signC_501": {
+  "original": [
+   "例如"
+  ],
+  "source": [
+   "TP3_55"
+  ],
+  "expand": [
+   "Jb03B01="
+  ]
+ },
+ "signC_502": {
+  "original": [
+   "打工"
+  ],
+  "source": [
+   "TP3_56"
+  ],
+  "expand": []
+ },
+ "signC_503": {
+  "original": [
+   "飲料"
+  ],
+  "source": [
+   "TP3_88"
+  ],
+  "expand": [
+   "Br12A01="
+  ]
+ },
+ "signC_504": {
+  "original": [
+   "送貨員"
+  ],
+  "source": [
+   "TP3_89"
+  ],
+  "expand": []
+ },
+ "signC_505": {
+  "original": [
+   "就業服務員"
+  ],
+  "source": [
+   "TP3_90"
+  ],
+  "expand": []
+ },
+ "signC_506": {
+  "original": [
+   "主管"
+  ],
+  "source": [
+   "TP3_92"
+  ],
+  "expand": []
+ },
+ "signC_507": {
+  "original": [
+   "員工"
+  ],
+  "source": [
+   "TP3_93"
+  ],
+  "expand": [
+   "Ae01A01="
+  ]
+ },
+ "signC_508": {
+  "original": [
+   "遲到"
+  ],
+  "source": [
+   "TP3_94"
+  ],
+  "expand": [
+   "Eb22B01="
+  ]
+ },
+ "signC_509": {
+  "original": [
+   "震動手錶"
+  ],
+  "source": [
+   "TP3_97"
+  ],
+  "expand": []
+ },
+ "signC_510": {
+  "original": [
+   "震動鬧鐘"
+  ],
+  "source": [
+   "TP3_98"
+  ],
+  "expand": []
+ },
+ "signC_511": {
+  "original": [
+   "工友"
+  ],
+  "source": [
+   "TP3_130"
+  ],
+  "expand": []
+ },
+ "signC_512": {
+  "original": [
+   "助教"
+  ],
+  "source": [
+   "TP3_132"
+  ],
+  "expand": []
+ },
+ "signC_513": {
+  "original": [
+   "區公所"
+  ],
+  "source": [
+   "TP3_133"
+  ],
+  "expand": []
+ },
+ "signC_514": {
+  "original": [
+   "臨時工"
+  ],
+  "source": [
+   "TP3_134"
+  ],
+  "expand": [
+   "Ae02A05="
+  ]
+ },
+ "signC_515": {
+  "original": [
+   "社教館"
+  ],
+  "source": [
+   "TP3_135"
+  ],
+  "expand": []
+ },
+ "signC_516": {
+  "original": [
+   "吃力"
+  ],
+  "source": [
+   "TP3_136"
+  ],
+  "expand": [
+   "Ed07A01="
+  ]
+ },
+ "signC_517": {
+  "original": [
+   "面談"
+  ],
+  "source": [
+   "TP3_137"
+  ],
+  "expand": [
+   "Hi12A25="
+  ]
+ },
+ "signC_518": {
+  "original": [
+   "分期付款"
+  ],
+  "source": [
+   "TP3_138"
+  ],
+  "expand": [
+   "He08C03@"
+  ]
+ },
+ "signC_519": {
+  "original": [
+   "協會"
+  ],
+  "source": [
+   "TP3_170"
+  ],
+  "expand": []
+ },
+ "signC_520": {
+  "original": [
+   "輪值"
+  ],
+  "source": [
+   "TP3_171"
+  ],
+  "expand": [
+   "Hc29A01="
+  ]
+ },
+ "signC_521": {
+  "original": [
+   "機會"
+  ],
+  "source": [
+   "TP3_172"
+  ],
+  "expand": [
+   "Ca04B01="
+  ]
+ },
+ "signC_522": {
+  "original": [
+   "規定"
+  ],
+  "source": [
+   "TP3_173"
+  ],
+  "expand": []
+ },
+ "signC_523": {
+  "original": [
+   "加班"
+  ],
+  "source": [
+   "TP3_174"
+  ],
+  "expand": [
+   "Hj11B03="
+  ]
+ },
+ "signC_524": {
+  "original": [
+   "勞基法"
+  ],
+  "source": [
+   "TP3_175"
+  ],
+  "expand": []
+ },
+ "signC_525": {
+  "original": [
+   "同事"
+  ],
+  "source": [
+   "TP3_176"
+  ],
+  "expand": []
+ },
+ "signC_526": {
+  "original": [
+   "輔具"
+  ],
+  "source": [
+   "TP3_177"
+  ],
+  "expand": []
+ },
+ "signC_527": {
+  "original": [
+   "便利商店"
+  ],
+  "source": [
+   "TP3_178"
+  ],
+  "expand": []
+ },
+ "signC_528": {
+  "original": [
+   "準時"
+  ],
+  "source": [
+   "TP3_179"
+  ],
+  "expand": [
+   "Ka09E01="
+  ]
+ },
+ "signC_529": {
+  "original": [
+   "筆記"
+  ],
+  "source": [
+   "TP3_180"
+  ],
+  "expand": []
+ },
+ "signC_530": {
+  "original": [
+   "火警警示器"
+  ],
+  "source": [
+   "TP3_202"
+  ],
+  "expand": []
+ },
+ "signC_531": {
+  "original": [
+   "電話閃光器"
+  ],
+  "source": [
+   "TP3_203"
+  ],
+  "expand": []
+ },
+ "signC_532": {
+  "original": [
+   "傳真閃光器"
+  ],
+  "source": [
+   "TP3_204"
+  ],
+  "expand": []
+ },
+ "signC_533": {
+  "original": [
+   "門鈴閃光器"
+  ],
+  "source": [
+   "TP3_205"
+  ],
+  "expand": []
+ },
+ "signC_534": {
+  "original": [
+   "手機傳簡訊"
+  ],
+  "source": [
+   "TP3_206"
+  ],
+  "expand": []
+ },
+ "signC_535": {
+  "original": [
+   "職務再設計"
+  ],
+  "source": [
+   "TP3_207"
+  ],
+  "expand": []
+ },
+ "signC_536": {
+  "original": [
+   "職員"
+  ],
+  "source": [
+   "TP3_208"
+  ],
+  "expand": [
+   "Ae01B01="
+  ]
+ },
+ "signC_537": {
+  "original": [
+   "出差"
+  ],
+  "source": [
+   "TP3_210"
+  ],
+  "expand": [
+   "Hc28B01="
+  ]
+ },
+ "signC_538": {
+  "original": [
+   "統一編號"
+  ],
+  "source": [
+   "TP3_211"
+  ],
+  "expand": []
+ },
+ "signC_539": {
+  "original": [
+   "計時器"
+  ],
+  "source": [
+   "TP3_212"
+  ],
+  "expand": []
+ },
+ "signC_540": {
+  "original": [
+   "獎狀"
+  ],
+  "source": [
+   "TP3_213"
+  ],
+  "expand": []
+ },
+ "signC_541": {
+  "original": [
+   "勞工局"
+  ],
+  "source": [
+   "TP3_214"
+  ],
+  "expand": []
+ },
+ "signC_542": {
+  "original": [
+   "隔週休"
+  ],
+  "source": [
+   "TP3_269"
+  ],
+  "expand": []
+ },
+ "signC_543": {
+  "original": [
+   "獎金"
+  ],
+  "source": [
+   "TP3_270"
+  ],
+  "expand": []
+ },
+ "signC_544": {
+  "original": [
+   "一般人"
+  ],
+  "source": [
+   "TP3_271"
+  ],
+  "expand": []
+ },
+ "signC_545": {
+  "original": [
+   "薪水單"
+  ],
+  "source": [
+   "TP3_272"
+  ],
+  "expand": []
+ },
+ "signC_546": {
+  "original": [
+   "一次付清"
+  ],
+  "source": [
+   "TP3_273"
+  ],
+  "expand": []
+ },
+ "signC_547": {
+  "original": [
+   "請領"
+  ],
+  "source": [
+   "TP3_274"
+  ],
+  "expand": []
+ },
+ "signC_548": {
+  "original": [
+   "資遣"
+  ],
+  "source": [
+   "TP3_275"
+  ],
+  "expand": []
+ },
+ "signC_549": {
+  "original": [
+   "跳槽"
+  ],
+  "source": [
+   "TP3_277"
+  ],
+  "expand": [
+   "Ih02A02@"
+  ]
+ },
+ "signC_550": {
+  "original": [
+   "轉職",
+   "換職"
+  ],
+  "source": [
+   "TP3_278"
+  ],
+  "expand": []
+ },
+ "signC_551": {
+  "original": [
+   "轉職",
+   "換職"
+  ],
+  "source": [
+   "TP3_278"
+  ],
+  "expand": []
+ },
+ "signC_552": {
+  "original": [
+   "調職"
+  ],
+  "source": [
+   "TP3_279",
+   "TP3_280"
+  ],
+  "expand": []
+ },
+ "signC_553": {
+  "original": [
+   "挖角"
+  ],
+  "source": [
+   "TP3_281"
+  ],
+  "expand": []
+ },
+ "signC_554": {
+  "original": [
+   "重要"
+  ],
+  "source": [
+   "TP3_283"
+  ],
+  "expand": [
+   "Ed28A01="
+  ]
+ },
+ "signC_555": {
+  "original": [
+   "退休金"
+  ],
+  "source": [
+   "TP3_285",
+   "TP3_284"
+  ],
+  "expand": [
+   "Dj07A09@"
+  ]
+ },
+ "signC_556": {
+  "original": [
+   "個人退休專戶"
+  ],
+  "source": [
+   "TP3_286"
+  ],
+  "expand": []
+ },
+ "signC_557": {
+  "original": [
+   "遺囑"
+  ],
+  "source": [
+   "TP3_287",
+   "TP3_674"
+  ],
+  "expand": [
+   "Dk17B12="
+  ]
+ },
+ "signC_558": {
+  "original": [
+   "繼承"
+  ],
+  "source": [
+   "TP3_288",
+   "TP3_668"
+  ],
+  "expand": []
+ },
+ "signC_559": {
+  "original": [
+   "遺囑年金"
+  ],
+  "source": [
+   "TP3_289",
+   "TP3_290"
+  ],
+  "expand": []
+ },
+ "signC_560": {
+  "original": [
+   "中央"
+  ],
+  "source": [
+   "TP3_291"
+  ],
+  "expand": [
+   "Cb04C01="
+  ]
+ },
+ "signC_561": {
+  "original": [
+   "鄉民"
+  ],
+  "source": [
+   "TP3_292"
+  ],
+  "expand": [
+   "Ad01A03="
+  ]
+ },
+ "signC_562": {
+  "original": [
+   "農民"
+  ],
+  "source": [
+   "TP3_293"
+  ],
+  "expand": [
+   "Ae07A01="
+  ]
+ },
+ "signC_563": {
+  "original": [
+   "老年年金"
+  ],
+  "source": [
+   "TP3_294"
+  ],
+  "expand": []
+ },
+ "signC_564": {
+  "original": [
+   "勞保局"
+  ],
+  "source": [
+   "TP3_295"
+  ],
+  "expand": []
+ },
+ "signC_565": {
+  "original": [
+   "國民年金法"
+  ],
+  "source": [
+   "TP3_320"
+  ],
+  "expand": []
+ },
+ "signC_566": {
+  "original": [
+   "立法院"
+  ],
+  "source": [
+   "TP3_321"
+  ],
+  "expand": []
+ },
+ "signC_567": {
+  "original": [
+   "軍保"
+  ],
+  "source": [
+   "TP3_323"
+  ],
+  "expand": []
+ },
+ "signC_568": {
+  "original": [
+   "公教保"
+  ],
+  "source": [
+   "TP3_324"
+  ],
+  "expand": []
+ },
+ "signC_569": {
+  "original": [
+   "農保"
+  ],
+  "source": [
+   "TP3_325"
+  ],
+  "expand": []
+ },
+ "signC_570": {
+  "original": [
+   "健保"
+  ],
+  "source": [
+   "TP3_326"
+  ],
+  "expand": []
+ },
+ "signC_571": {
+  "original": [
+   "符合"
+  ],
+  "source": [
+   "TP3_327"
+  ],
+  "expand": [
+   "Jc01C01="
+  ]
+ },
+ "signC_572": {
+  "original": [
+   "考慮"
+  ],
+  "source": [
+   "TP3_328"
+  ],
+  "expand": []
+ },
+ "signC_573": {
+  "original": [
+   "逾期"
+  ],
+  "source": [
+   "TP3_329"
+  ],
+  "expand": [
+   "Ie16C01="
+  ]
+ },
+ "signC_574": {
+  "original": [
+   "利息"
+  ],
+  "source": [
+   "TP3_330"
+  ],
+  "expand": [
+   "Dj04C01="
+  ]
+ },
+ "signC_575": {
+  "original": [
+   "紅利"
+  ],
+  "source": [
+   "TP3_331"
+  ],
+  "expand": [
+   "Dj04B02="
+  ]
+ },
+ "signC_576": {
+  "original": [
+   "期間"
+  ],
+  "source": [
+   "TP3_332"
+  ],
+  "expand": [
+   "Ca06B01="
+  ]
+ },
+ "signC_577": {
+  "original": [
+   "殘障年金"
+  ],
+  "source": [
+   "TP3_333"
+  ],
+  "expand": []
+ },
+ "signC_578": {
+  "original": [
+   "敬老津貼"
+  ],
+  "source": [
+   "TP3_334"
+  ],
+  "expand": []
+ },
+ "signC_579": {
+  "original": [
+   "喪葬給付"
+  ],
+  "source": [
+   "TP3_335"
+  ],
+  "expand": []
+ },
+ "signC_580": {
+  "original": [
+   "老年給付"
+  ],
+  "source": [
+   "TP3_336"
+  ],
+  "expand": []
+ },
+ "signC_581": {
+  "original": [
+   "勞保年資"
+  ],
+  "source": [
+   "TP3_337"
+  ],
+  "expand": []
+ },
+ "signC_582": {
+  "original": [
+   "未達N值"
+  ],
+  "source": [
+   "TP3_338"
+  ],
+  "expand": []
+ },
+ "signC_583": {
+  "original": [
+   "內容"
+  ],
+  "source": [
+   "TP3_339"
+  ],
+  "expand": [
+   "Dk10A01="
+  ]
+ },
+ "signC_584": {
+  "original": [
+   "邊看邊學"
+  ],
+  "source": [
+   "TP3_341"
+  ],
+  "expand": []
+ },
+ "signC_585": {
+  "original": [
+   "基金會"
+  ],
+  "source": [
+   "TP3_365"
+  ],
+  "expand": []
+ },
+ "signC_586": {
+  "original": [
+   "消基會"
+  ],
+  "source": [
+   "TP3_366"
+  ],
+  "expand": []
+ },
+ "signC_587": {
+  "original": [
+   "委員"
+  ],
+  "source": [
+   "TP3_367"
+  ],
+  "expand": []
+ },
+ "signC_588": {
+  "original": [
+   "提議",
+   "建議"
+  ],
+  "source": [
+   "TP3_368"
+  ],
+  "expand": [
+   "Dk13A01=",
+   "Hc14A01="
+  ]
+ },
+ "signC_589": {
+  "original": [
+   "行政院"
+  ],
+  "source": [
+   "TP3_369"
+  ],
+  "expand": []
+ },
+ "signC_590": {
+  "original": [
+   "台語"
+  ],
+  "source": [
+   "TP3_370"
+  ],
+  "expand": []
+ },
+ "signC_591": {
+  "original": [
+   "優惠"
+  ],
+  "source": [
+   "TP3_371"
+  ],
+  "expand": [
+   "Ed03A10="
+  ]
+ },
+ "signC_592": {
+  "original": [
+   "攝護腺肥大"
+  ],
+  "source": [
+   "TP3_412"
+  ],
+  "expand": []
+ },
+ "signC_593": {
+  "original": [
+   "睪丸"
+  ],
+  "source": [
+   "TP3_413"
+  ],
+  "expand": []
+ },
+ "signC_594": {
+  "original": [
+   "抽血"
+  ],
+  "source": [
+   "TP3_414"
+  ],
+  "expand": []
+ },
+ "signC_595": {
+  "original": [
+   "頻尿"
+  ],
+  "source": [
+   "TP3_415"
+  ],
+  "expand": []
+ },
+ "signC_596": {
+  "original": [
+   "滴尿"
+  ],
+  "source": [
+   "TP3_416"
+  ],
+  "expand": []
+ },
+ "signC_597": {
+  "original": [
+   "尿溼禁"
+  ],
+  "source": [
+   "TP3_417"
+  ],
+  "expand": []
+ },
+ "signC_598": {
+  "original": [
+   "肛門"
+  ],
+  "source": [
+   "TP3_418"
+  ],
+  "expand": [
+   "Bk14A19="
+  ]
+ },
+ "signC_599": {
+  "original": [
+   "新陳代謝"
+  ],
+  "source": [
+   "TP3_420"
+  ],
+  "expand": []
+ },
+ "signC_600": {
+  "original": [
+   "子宮"
+  ],
+  "source": [
+   "TP3_421"
+  ],
+  "expand": []
+ },
+ "signC_601": {
+  "original": [
+   "子宮頸"
+  ],
+  "source": [
+   "TP3_422"
+  ],
+  "expand": [
+   "Bk15A07="
+  ]
+ },
+ "signC_602": {
+  "original": [
+   "抹片"
+  ],
+  "source": [
+   "TP3_423"
+  ],
+  "expand": []
+ },
+ "signC_603": {
+  "original": [
+   "陰部"
+  ],
+  "source": [
+   "TP3_424"
+  ],
+  "expand": [
+   "Bk15A05="
+  ]
+ },
+ "signC_604": {
+  "original": [
+   "出點子"
+  ],
+  "source": [
+   "TP3_476"
+  ],
+  "expand": [
+   "Hi36C01="
+  ]
+ },
+ "signC_605": {
+  "original": [
+   "過敏"
+  ],
+  "source": [
+   "TP3_477"
+  ],
+  "expand": []
+ },
+ "signC_606": {
+  "original": [
+   "上吐下瀉"
+  ],
+  "source": [
+   "TP3_478"
+  ],
+  "expand": []
+ },
+ "signC_607": {
+  "original": [
+   "症狀"
+  ],
+  "source": [
+   "TP3_479"
+  ],
+  "expand": []
+ },
+ "signC_608": {
+  "original": [
+   "免疫力"
+  ],
+  "source": [
+   "TP3_480"
+  ],
+  "expand": []
+ },
+ "signC_609": {
+  "original": [
+   "食慾不振"
+  ],
+  "source": [
+   "TP3_481"
+  ],
+  "expand": []
+ },
+ "signC_610": {
+  "original": [
+   "中耳炎"
+  ],
+  "source": [
+   "TP3_482"
+  ],
+  "expand": [
+   "Dl01A39@"
+  ]
+ },
+ "signC_611": {
+  "original": [
+   "鼻竇炎"
+  ],
+  "source": [
+   "TP3_483"
+  ],
+  "expand": []
+ },
+ "signC_612": {
+  "original": [
+   "鼻塞"
+  ],
+  "source": [
+   "TP3_484"
+  ],
+  "expand": []
+ },
+ "signC_613": {
+  "original": [
+   "不舒服"
+  ],
+  "source": [
+   "TP3_485"
+  ],
+  "expand": []
+ },
+ "signC_614": {
+  "original": [
+   "服藥"
+  ],
+  "source": [
+   "TP3_486"
+  ],
+  "expand": [
+   "Fc06C01="
+  ]
+ },
+ "signC_615": {
+  "original": [
+   "處方藥"
+  ],
+  "source": [
+   "TP3_487"
+  ],
+  "expand": []
+ },
+ "signC_616": {
+  "original": [
+   "成藥"
+  ],
+  "source": [
+   "TP3_488"
+  ],
+  "expand": []
+ },
+ "signC_617": {
+  "original": [
+   "精打細算"
+  ],
+  "source": [
+   "TP3_489"
+  ],
+  "expand": []
+ },
+ "signC_618": {
+  "original": [
+   "流行病"
+  ],
+  "source": [
+   "TP3_490"
+  ],
+  "expand": []
+ },
+ "signC_619": {
+  "original": [
+   "藥袋"
+  ],
+  "source": [
+   "TP3_491"
+  ],
+  "expand": []
+ },
+ "signC_620": {
+  "original": [
+   "投保"
+  ],
+  "source": [
+   "TP3_492"
+  ],
+  "expand": []
+ },
+ "signC_621": {
+  "original": [
+   "病房"
+  ],
+  "source": [
+   "TP3_493"
+  ],
+  "expand": []
+ },
+ "signC_622": {
+  "original": [
+   "與正本相符"
+  ],
+  "source": [
+   "TP3_494"
+  ],
+  "expand": []
+ },
+ "signC_623": {
+  "original": [
+   "月經"
+  ],
+  "source": [
+   "TP3_495"
+  ],
+  "expand": [
+   "Bl02B01="
+  ]
+ },
+ "signC_624": {
+  "original": [
+   "高血壓"
+  ],
+  "source": [
+   "TP3_497",
+   "TP3_496"
+  ],
+  "expand": []
+ },
+ "signC_625": {
+  "original": [
+   "海鮮"
+  ],
+  "source": [
+   "TP3_498"
+  ],
+  "expand": [
+   "Br06B03="
+  ]
+ },
+ "signC_626": {
+  "original": [
+   "骨質疏鬆"
+  ],
+  "source": [
+   "TP3_499"
+  ],
+  "expand": []
+ },
+ "signC_627": {
+  "original": [
+   "血管"
+  ],
+  "source": [
+   "TP3_501"
+  ],
+  "expand": [
+   "Bk16A03="
+  ]
+ },
+ "signC_628": {
+  "original": [
+   "起會"
+  ],
+  "source": [
+   "TP3_514"
+  ],
+  "expand": []
+ },
+ "signC_629": {
+  "original": [
+   "會單"
+  ],
+  "source": [
+   "TP3_515"
+  ],
+  "expand": []
+ },
+ "signC_630": {
+  "original": [
+   "會首"
+  ],
+  "source": [
+   "TP3_516"
+  ],
+  "expand": []
+ },
+ "signC_631": {
+  "original": [
+   "會腳"
+  ],
+  "source": [
+   "TP3_517"
+  ],
+  "expand": []
+ },
+ "signC_632": {
+  "original": [
+   "跟會"
+  ],
+  "source": [
+   "TP3_518"
+  ],
+  "expand": []
+ },
+ "signC_633": {
+  "original": [
+   "標金高"
+  ],
+  "source": [
+   "TP3_519"
+  ],
+  "expand": []
+ },
+ "signC_634": {
+  "original": [
+   "開標",
+   "競標"
+  ],
+  "source": [
+   "TP3_520"
+  ],
+  "expand": []
+ },
+ "signC_635": {
+  "original": [
+   "開標",
+   "競標"
+  ],
+  "source": [
+   "TP3_520"
+  ],
+  "expand": []
+ },
+ "signC_636": {
+  "original": [
+   "死會"
+  ],
+  "source": [
+   "TP3_521"
+  ],
+  "expand": []
+ },
+ "signC_637": {
+  "original": [
+   "活會"
+  ],
+  "source": [
+   "TP3_522"
+  ],
+  "expand": []
+ },
+ "signC_638": {
+  "original": [
+   "冒名"
+  ],
+  "source": [
+   "TP3_524"
+  ],
+  "expand": [
+   "Hj58B02="
+  ]
+ },
+ "signC_639": {
+  "original": [
+   "眾人圍繞"
+  ],
+  "source": [
+   "TP3_525"
+  ],
+  "expand": []
+ },
+ "signC_640": {
+  "original": [
+   "查封",
+   "假扣押"
+  ],
+  "source": [
+   "TP3_526"
+  ],
+  "expand": [
+   "Hm08B01="
+  ]
+ },
+ "signC_641": {
+  "original": [
+   "查封",
+   "假扣押"
+  ],
+  "source": [
+   "TP3_526"
+  ],
+  "expand": [
+   "Hm08B01="
+  ]
+ },
+ "signC_642": {
+  "original": [
+   "證據保全"
+  ],
+  "source": [
+   "TP3_527"
+  ],
+  "expand": []
+ },
+ "signC_643": {
+  "original": [
+   "避不見面"
+  ],
+  "source": [
+   "TP3_528"
+  ],
+  "expand": []
+ },
+ "signC_644": {
+  "original": [
+   "支付命令"
+  ],
+  "source": [
+   "TP3_529"
+  ],
+  "expand": []
+ },
+ "signC_645": {
+  "original": [
+   "財產"
+  ],
+  "source": [
+   "TP3_530"
+  ],
+  "expand": [
+   "Dj03A02="
+  ]
+ },
+ "signC_646": {
+  "original": [
+   "脫產"
+  ],
+  "source": [
+   "TP3_531"
+  ],
+  "expand": [
+   "Ed53B01="
+  ]
+ },
+ "signC_647": {
+  "original": [
+   "侵權行為"
+  ],
+  "source": [
+   "TP3_532"
+  ],
+  "expand": []
+ },
+ "signC_648": {
+  "original": [
+   "人頭"
+  ],
+  "source": [
+   "TP3_533"
+  ],
+  "expand": []
+ },
+ "signC_649": {
+  "original": [
+   "債權"
+  ],
+  "source": [
+   "TP3_534"
+  ],
+  "expand": []
+ },
+ "signC_650": {
+  "original": [
+   "偽造文書"
+  ],
+  "source": [
+   "TP3_535"
+  ],
+  "expand": []
+ },
+ "signC_651": {
+  "original": [
+   "支票"
+  ],
+  "source": [
+   "TP3_536"
+  ],
+  "expand": []
+ },
+ "signC_652": {
+  "original": [
+   "業務員",
+   "銷售人員"
+  ],
+  "source": [
+   "TP3_549"
+  ],
+  "expand": []
+ },
+ "signC_653": {
+  "original": [
+   "業務員",
+   "銷售人員"
+  ],
+  "source": [
+   "TP3_549"
+  ],
+  "expand": []
+ },
+ "signC_654": {
+  "original": [
+   "預售屋"
+  ],
+  "source": [
+   "TP3_550"
+  ],
+  "expand": []
+ },
+ "signC_655": {
+  "original": [
+   "趕工"
+  ],
+  "source": [
+   "TP3_551"
+  ],
+  "expand": []
+ },
+ "signC_656": {
+  "original": [
+   "沒收"
+  ],
+  "source": [
+   "TP3_552"
+  ],
+  "expand": [
+   "Hm08A01="
+  ]
+ },
+ "signC_657": {
+  "original": [
+   "充公"
+  ],
+  "source": [
+   "TP3_553"
+  ],
+  "expand": [
+   "Hm08A01="
+  ]
+ },
+ "signC_658": {
+  "original": [
+   "解約"
+  ],
+  "source": [
+   "TP3_554"
+  ],
+  "expand": [
+   "Hc06A09@"
+  ]
+ },
+ "signC_659": {
+  "original": [
+   "契約終止"
+  ],
+  "source": [
+   "TP3_555"
+  ],
+  "expand": []
+ },
+ "signC_660": {
+  "original": [
+   "契約中止"
+  ],
+  "source": [
+   "TP3_556"
+  ],
+  "expand": []
+ },
+ "signC_661": {
+  "original": [
+   "授權書"
+  ],
+  "source": [
+   "TP3_557"
+  ],
+  "expand": []
+ },
+ "signC_662": {
+  "original": [
+   "品質"
+  ],
+  "source": [
+   "TP3_558"
+  ],
+  "expand": []
+ },
+ "signC_663": {
+  "original": [
+   "交屋"
+  ],
+  "source": [
+   "TP3_559"
+  ],
+  "expand": []
+ },
+ "signC_664": {
+  "original": [
+   "結清尾款"
+  ],
+  "source": [
+   "TP3_560"
+  ],
+  "expand": []
+ },
+ "signC_665": {
+  "original": [
+   "點交"
+  ],
+  "source": [
+   "TP3_561"
+  ],
+  "expand": []
+ },
+ "signC_666": {
+  "original": [
+   "所有權移轉",
+   "過戶"
+  ],
+  "source": [
+   "TP3_562"
+  ],
+  "expand": [
+   "Hi27G03@"
+  ]
+ },
+ "signC_667": {
+  "original": [
+   "所有權移轉",
+   "過戶"
+  ],
+  "source": [
+   "TP3_562"
+  ],
+  "expand": [
+   "Hi27G03@"
+  ]
+ },
+ "signC_668": {
+  "original": [
+   "病歷"
+  ],
+  "source": [
+   "TP3_569"
+  ],
+  "expand": [
+   "Da07A05="
+  ]
+ },
+ "signC_669": {
+  "original": [
+   "護理紀綠"
+  ],
+  "source": [
+   "TP3_570"
+  ],
+  "expand": []
+ },
+ "signC_670": {
+  "original": [
+   "醫囑單"
+  ],
+  "source": [
+   "TP3_571"
+  ],
+  "expand": []
+ },
+ "signC_671": {
+  "original": [
+   "點滴袋"
+  ],
+  "source": [
+   "TP3_572"
+  ],
+  "expand": []
+ },
+ "signC_672": {
+  "original": [
+   "護理人員"
+  ],
+  "source": [
+   "TP3_573"
+  ],
+  "expand": []
+ },
+ "signC_673": {
+  "original": [
+   "釐清"
+  ],
+  "source": [
+   "TP3_574"
+  ],
+  "expand": []
+ },
+ "signC_674": {
+  "original": [
+   "期刊"
+  ],
+  "source": [
+   "TP3_575"
+  ],
+  "expand": [
+   "Dk21B01="
+  ]
+ },
+ "signC_675": {
+  "original": [
+   "失誤",
+   "過失"
+  ],
+  "source": [
+   "TP3_587"
+  ],
+  "expand": [
+   "Da14C01="
+  ]
+ },
+ "signC_676": {
+  "original": [
+   "失誤",
+   "過失"
+  ],
+  "source": [
+   "TP3_587"
+  ],
+  "expand": [
+   "Da14C01="
+  ]
+ },
+ "signC_677": {
+  "original": [
+   "回復原狀"
+  ],
+  "source": [
+   "TP3_588"
+  ],
+  "expand": []
+ },
+ "signC_678": {
+  "original": [
+   "代替物"
+  ],
+  "source": [
+   "TP3_589"
+  ],
+  "expand": []
+ },
+ "signC_679": {
+  "original": [
+   "折舊"
+  ],
+  "source": [
+   "TP3_590"
+  ],
+  "expand": [
+   "He02C07@"
+  ]
+ },
+ "signC_680": {
+  "original": [
+   "相驗屍體"
+  ],
+  "source": [
+   "TP3_591"
+  ],
+  "expand": []
+ },
+ "signC_681": {
+  "original": [
+   "差額"
+  ],
+  "source": [
+   "TP3_592"
+  ],
+  "expand": []
+ },
+ "signC_682": {
+  "original": [
+   "無過失"
+  ],
+  "source": [
+   "TP3_593"
+  ],
+  "expand": []
+ },
+ "signC_683": {
+  "original": [
+   "煞車痕"
+  ],
+  "source": [
+   "TP3_594"
+  ],
+  "expand": []
+ },
+ "signC_684": {
+  "original": [
+   "兩造"
+  ],
+  "source": [
+   "TP3_595"
+  ],
+  "expand": [
+   "Dd05B07@"
+  ]
+ },
+ "signC_685": {
+  "original": [
+   "對自己有利"
+  ],
+  "source": [
+   "TP3_596"
+  ],
+  "expand": []
+ },
+ "signC_686": {
+  "original": [
+   "音響"
+  ],
+  "source": [
+   "TP3_597"
+  ],
+  "expand": [
+   "Bg07A01="
+  ]
+ },
+ "signC_687": {
+  "original": [
+   "職業傷害"
+  ],
+  "source": [
+   "TP3_608"
+  ],
+  "expand": []
+ },
+ "signC_688": {
+  "original": [
+   "蒸氣"
+  ],
+  "source": [
+   "TP3_609"
+  ],
+  "expand": [
+   "Bg05A16="
+  ]
+ },
+ "signC_689": {
+  "original": [
+   "粉塵"
+  ],
+  "source": [
+   "TP3_610"
+  ],
+  "expand": []
+ },
+ "signC_690": {
+  "original": [
+   "吊扣"
+  ],
+  "source": [
+   "TP3_611"
+  ],
+  "expand": []
+ },
+ "signC_691": {
+  "original": [
+   "吊銷"
+  ],
+  "source": [
+   "TP3_612"
+  ],
+  "expand": [
+   "Hc06A01="
+  ]
+ },
+ "signC_692": {
+  "original": [
+   "逆向行駛"
+  ],
+  "source": [
+   "TP3_613"
+  ],
+  "expand": []
+ },
+ "signC_693": {
+  "original": [
+   "跨越雙黃線"
+  ],
+  "source": [
+   "TP3_614"
+  ],
+  "expand": []
+ },
+ "signC_694": {
+  "original": [
+   "看作",
+   "視為"
+  ],
+  "source": [
+   "TP3_615"
+  ],
+  "expand": []
+ },
+ "signC_695": {
+  "original": [
+   "看作",
+   "視為"
+  ],
+  "source": [
+   "TP3_615"
+  ],
+  "expand": []
+ },
+ "signC_696": {
+  "original": [
+   "勞工安全衛生法"
+  ],
+  "source": [
+   "TP3_616"
+  ],
+  "expand": []
+ },
+ "signC_697": {
+  "original": [
+   "勞工保險條例"
+  ],
+  "source": [
+   "TP3_617"
+  ],
+  "expand": []
+ },
+ "signC_698": {
+  "original": [
+   "雇主"
+  ],
+  "source": [
+   "TP3_618"
+  ],
+  "expand": []
+ },
+ "signC_699": {
+  "original": [
+   "職業傷病門診就診單"
+  ],
+  "source": [
+   "TP3_619"
+  ],
+  "expand": []
+ },
+ "signC_700": {
+  "original": [
+   "住院申請書"
+  ],
+  "source": [
+   "TP3_620"
+  ],
+  "expand": []
+ },
+ "signC_701": {
+  "original": [
+   "自付額"
+  ],
+  "source": [
+   "TP3_621"
+  ],
+  "expand": []
+ },
+ "signC_702": {
+  "original": [
+   "醫療補償"
+  ],
+  "source": [
+   "TP3_622"
+  ],
+  "expand": []
+ },
+ "signC_703": {
+  "original": [
+   "工資補償"
+  ],
+  "source": [
+   "TP3_623"
+  ],
+  "expand": []
+ },
+ "signC_704": {
+  "original": [
+   "殘廢補償"
+  ],
+  "source": [
+   "TP3_624"
+  ],
+  "expand": []
+ },
+ "signC_705": {
+  "original": [
+   "意外險"
+  ],
+  "source": [
+   "TP3_626"
+  ],
+  "expand": []
+ },
+ "signC_706": {
+  "original": [
+   "民事賠償"
+  ],
+  "source": [
+   "TP3_627"
+  ],
+  "expand": []
+ },
+ "signC_707": {
+  "original": [
+   "喪葬費"
+  ],
+  "source": [
+   "TP3_628"
+  ],
+  "expand": []
+ },
+ "signC_708": {
+  "original": [
+   "撫恤金"
+  ],
+  "source": [
+   "TP3_629"
+  ],
+  "expand": [
+   "Dj08C12="
+  ]
+ },
+ "signC_709": {
+  "original": [
+   "慰問金"
+  ],
+  "source": [
+   "TP3_630"
+  ],
+  "expand": [
+   "Dj08C12="
+  ]
+ },
+ "signC_710": {
+  "original": [
+   "職業病"
+  ],
+  "source": [
+   "TP3_631"
+  ],
+  "expand": []
+ },
+ "signC_711": {
+  "original": [
+   "鑑定"
+  ],
+  "source": [
+   "TP3_632"
+  ],
+  "expand": []
+ },
+ "signC_712": {
+  "original": [
+   "路肩"
+  ],
+  "source": [
+   "TP3_633"
+  ],
+  "expand": []
+ },
+ "signC_713": {
+  "original": [
+   "平均工資"
+  ],
+  "source": [
+   "TP3_634"
+  ],
+  "expand": []
+ },
+ "signC_714": {
+  "original": [
+   "工資津貼"
+  ],
+  "source": [
+   "TP3_635"
+  ],
+  "expand": []
+ },
+ "signC_715": {
+  "original": [
+   "全球"
+  ],
+  "source": [
+   "TP3_648"
+  ],
+  "expand": [
+   "Di01A01="
+  ]
+ },
+ "signC_716": {
+  "original": [
+   "資遣費"
+  ],
+  "source": [
+   "TP3_649"
+  ],
+  "expand": []
+ },
+ "signC_717": {
+  "original": [
+   "勞退"
+  ],
+  "source": [
+   "TP3_650"
+  ],
+  "expand": []
+ },
+ "signC_718": {
+  "original": [
+   "失業"
+  ],
+  "source": [
+   "TP3_651"
+  ],
+  "expand": [
+   "If07A01="
+  ]
+ },
+ "signC_719": {
+  "original": [
+   "營利事業登記"
+  ],
+  "source": [
+   "TP3_652"
+  ],
+  "expand": []
+ },
+ "signC_720": {
+  "original": [
+   "調解",
+   "協調"
+  ],
+  "source": [
+   "TP3_653"
+  ],
+  "expand": []
+ },
+ "signC_721": {
+  "original": [
+   "調解",
+   "協調"
+  ],
+  "source": [
+   "TP3_653"
+  ],
+  "expand": []
+ },
+ "signC_722": {
+  "original": [
+   "仲裁"
+  ],
+  "source": [
+   "TP3_654"
+  ],
+  "expand": [
+   "Hc14C01="
+  ]
+ },
+ "signC_723": {
+  "original": [
+   "勞資糾紛",
+   "勞資爭議"
+  ],
+  "source": [
+   "TP3_655"
+  ],
+  "expand": []
+ },
+ "signC_724": {
+  "original": [
+   "勞資糾紛",
+   "勞資爭議"
+  ],
+  "source": [
+   "TP3_655"
+  ],
+  "expand": []
+ },
+ "signC_725": {
+  "original": [
+   "業務擴張"
+  ],
+  "source": [
+   "TP3_656"
+  ],
+  "expand": []
+ },
+ "signC_726": {
+  "original": [
+   "業務緊縮"
+  ],
+  "source": [
+   "TP3_657"
+  ],
+  "expand": []
+ },
+ "signC_727": {
+  "original": [
+   "中高齡"
+  ],
+  "source": [
+   "TP3_658"
+  ],
+  "expand": []
+ },
+ "signC_728": {
+  "original": [
+   "金融危機"
+  ],
+  "source": [
+   "TP3_659"
+  ],
+  "expand": []
+ },
+ "signC_729": {
+  "original": [
+   "老年痴呆"
+  ],
+  "source": [
+   "TP3_666"
+  ],
+  "expand": []
+ },
+ "signC_730": {
+  "original": [
+   "確認繼承權"
+  ],
+  "source": [
+   "TP3_667"
+  ],
+  "expand": []
+ },
+ "signC_731": {
+  "original": [
+   "遺產"
+  ],
+  "source": [
+   "TP3_669"
+  ],
+  "expand": [
+   "Dg01B01="
+  ]
+ },
+ "signC_732": {
+  "original": [
+   "說來話長"
+  ],
+  "source": [
+   "TP3_670"
+  ],
+  "expand": [
+   "Ed35B02="
+  ]
+ },
+ "signC_733": {
+  "original": [
+   "監護宣告"
+  ],
+  "source": [
+   "TP3_671"
+  ],
+  "expand": []
+ },
+ "signC_734": {
+  "original": [
+   "行為能力"
+  ],
+  "source": [
+   "TP3_672"
+  ],
+  "expand": []
+ },
+ "signC_735": {
+  "original": [
+   "精神耗弱"
+  ],
+  "source": [
+   "TP3_673"
+  ],
+  "expand": []
+ },
+ "signC_736": {
+  "original": [
+   "地價稅"
+  ],
+  "source": [
+   "TP3_675"
+  ],
+  "expand": []
+ },
+ "signC_737": {
+  "original": [
+   "油畫"
+  ],
+  "source": [
+   "TP3_695"
+  ],
+  "expand": []
+ },
+ "signC_738": {
+  "original": [
+   "水彩"
+  ],
+  "source": [
+   "TP3_696"
+  ],
+  "expand": [
+   "Bm11A01="
+  ]
+ },
+ "signC_739": {
+  "original": [
+   "漫畫"
+  ],
+  "source": [
+   "TP3_697"
+  ],
+  "expand": [
+   "Dk31A05="
+  ]
+ },
+ "signC_740": {
+  "original": [
+   "網站"
+  ],
+  "source": [
+   "TP3_698"
+  ],
+  "expand": []
+ },
+ "signC_741": {
+  "original": [
+   "微軟"
+  ],
+  "source": [
+   "TP3_699"
+  ],
+  "expand": []
+ },
+ "signC_742": {
+  "original": [
+   "套裝軟體"
+  ],
+  "source": [
+   "TP3_700"
+  ],
+  "expand": []
+ },
+ "signC_743": {
+  "original": [
+   "仿冒品"
+  ],
+  "source": [
+   "TP3_701"
+  ],
+  "expand": []
+ },
+ "signC_744": {
+  "original": [
+   "專利"
+  ],
+  "source": [
+   "TP3_702"
+  ],
+  "expand": []
+ },
+ "signC_745": {
+  "original": [
+   "商標"
+  ],
+  "source": [
+   "TP3_703"
+  ],
+  "expand": [
+   "Dd15A10="
+  ]
+ },
+ "signC_746": {
+  "original": [
+   "專用權"
+  ],
+  "source": [
+   "TP3_704"
+  ],
+  "expand": []
+ },
+ "signC_747": {
+  "original": [
+   "著作權"
+  ],
+  "source": [
+   "TP3_705"
+  ],
+  "expand": []
+ },
+ "signC_748": {
+  "original": [
+   "智慧財產權"
+  ],
+  "source": [
+   "TP3_706"
+  ],
+  "expand": []
+ },
+ "signC_749": {
+  "original": [
+   "納稅"
+  ],
+  "source": [
+   "TP3_719"
+  ],
+  "expand": [
+   "He10B03="
+  ]
+ },
+ "signC_750": {
+  "original": [
+   "報稅"
+  ],
+  "source": [
+   "TP3_720"
+  ],
+  "expand": []
+ },
+ "signC_751": {
+  "original": [
+   "退稅"
+  ],
+  "source": [
+   "TP3_721"
+  ],
+  "expand": []
+ },
+ "signC_752": {
+  "original": [
+   "所得稅"
+  ],
+  "source": [
+   "TP3_722"
+  ],
+  "expand": []
+ },
+ "signC_753": {
+  "original": [
+   "免稅額"
+  ],
+  "source": [
+   "TP3_723"
+  ],
+  "expand": []
+ },
+ "signC_754": {
+  "original": [
+   "綜合所得稅總額"
+  ],
+  "source": [
+   "TP3_724"
+  ],
+  "expand": []
+ },
+ "signC_755": {
+  "original": [
+   "扣除額"
+  ],
+  "source": [
+   "TP3_725"
+  ],
+  "expand": []
+ },
+ "signC_756": {
+  "original": [
+   "標準扣除額"
+  ],
+  "source": [
+   "TP3_726"
+  ],
+  "expand": []
+ },
+ "signC_757": {
+  "original": [
+   "列舉扣除額"
+  ],
+  "source": [
+   "TP3_727"
+  ],
+  "expand": []
+ },
+ "signC_758": {
+  "original": [
+   "特別扣除額"
+  ],
+  "source": [
+   "TP3_728"
+  ],
+  "expand": []
+ },
+ "signC_759": {
+  "original": [
+   "稅率"
+  ],
+  "source": [
+   "TP3_729"
+  ],
+  "expand": []
+ },
+ "signC_760": {
+  "original": [
+   "累進差額"
+  ],
+  "source": [
+   "TP3_730"
+  ],
+  "expand": []
+ },
+ "signC_761": {
+  "original": [
+   "應納稅額"
+  ],
+  "source": [
+   "TP3_731"
+  ],
+  "expand": []
+ },
+ "signC_762": {
+  "original": [
+   "扣繳稅額"
+  ],
+  "source": [
+   "TP3_732"
+  ],
+  "expand": []
+ },
+ "signC_763": {
+  "original": [
+   "可扣抵稅額"
+  ],
+  "source": [
+   "TP3_733"
+  ],
+  "expand": []
+ },
+ "signC_764": {
+  "original": [
+   "營利所得"
+  ],
+  "source": [
+   "TP3_734"
+  ],
+  "expand": []
+ },
+ "signC_765": {
+  "original": [
+   "執行業務所得"
+  ],
+  "source": [
+   "TP3_735"
+  ],
+  "expand": []
+ },
+ "signC_766": {
+  "original": [
+   "虛報稅額"
+  ],
+  "source": [
+   "TP3_736"
+  ],
+  "expand": []
+ },
+ "signC_767": {
+  "original": [
+   "財政部"
+  ],
+  "source": [
+   "TP3_737"
+  ],
+  "expand": []
+ },
+ "signC_768": {
+  "original": [
+   "金融機構"
+  ],
+  "source": [
+   "TP3_738"
+  ],
+  "expand": []
+ },
+ "signC_769": {
+  "original": [
+   "金融卡"
+  ],
+  "source": [
+   "TP3_739"
+  ],
+  "expand": []
+ },
+ "signC_770": {
+  "original": [
+   "自動櫃員機"
+  ],
+  "source": [
+   "TP3_740"
+  ],
+  "expand": []
+ },
+ "signC_771": {
+  "original": [
+   "跨行"
+  ],
+  "source": [
+   "TP3_741"
+  ],
+  "expand": []
+ },
+ "signC_772": {
+  "original": [
+   "晶片"
+  ],
+  "source": [
+   "TP3_742"
+  ],
+  "expand": []
+ },
+ "signC_773": {
+  "original": [
+   "手續費"
+  ],
+  "source": [
+   "TP3_743"
+  ],
+  "expand": []
+ },
+ "signC_774": {
+  "original": [
+   "國稅局"
+  ],
+  "source": [
+   "TP3_744"
+  ],
+  "expand": [
+   "Dm01A39="
+  ]
+ },
+ "signC_775": {
+  "original": [
+   "受扶養親屬"
+  ],
+  "source": [
+   "TP3_745"
+  ],
+  "expand": []
+ },
+ "signC_776": {
+  "original": [
+   "節稅"
+  ],
+  "source": [
+   "TP3_750"
+  ],
+  "expand": []
+ },
+ "signC_777": {
+  "original": [
+   "遺產稅"
+  ],
+  "source": [
+   "TP3_751"
+  ],
+  "expand": []
+ },
+ "signC_778": {
+  "original": [
+   "營業稅"
+  ],
+  "source": [
+   "TP3_752"
+  ],
+  "expand": []
+ },
+ "signC_779": {
+  "original": [
+   "印花稅"
+  ],
+  "source": [
+   "TP3_753"
+  ],
+  "expand": []
+ },
+ "signC_780": {
+  "original": [
+   "稅捐處"
+  ],
+  "source": [
+   "TP3_754"
+  ],
+  "expand": []
+ },
+ "signC_781": {
+  "original": [
+   "存款"
+  ],
+  "source": [
+   "TP3_755"
+  ],
+  "expand": []
+ },
+ "signC_782": {
+  "original": [
+   "嫁妝"
+  ],
+  "source": [
+   "TP3_759"
+  ],
+  "expand": [
+   "Ba07B01="
+  ]
+ },
+ "signC_783": {
+  "original": [
+   "直系尊親屬"
+  ],
+  "source": [
+   "TP3_760"
+  ],
+  "expand": []
+ },
+ "signC_784": {
+  "original": [
+   "直系卑親屬"
+  ],
+  "source": [
+   "TP3_761"
+  ],
+  "expand": []
+ },
+ "signC_785": {
+  "original": [
+   "贈與稅"
+  ],
+  "source": [
+   "TP3_762"
+  ],
+  "expand": []
+ },
+ "signC_786": {
+  "original": [
+   "個人電腦",
+   "桌上型電腦"
+  ],
+  "source": [
+   "TP3_779"
+  ],
+  "expand": []
+ },
+ "signC_787": {
+  "original": [
+   "個人電腦",
+   "桌上型電腦"
+  ],
+  "source": [
+   "TP3_779"
+  ],
+  "expand": []
+ },
+ "signC_788": {
+  "original": [
+   "筆記型電腦"
+  ],
+  "source": [
+   "TP3_780"
+  ],
+  "expand": []
+ },
+ "signC_789": {
+  "original": [
+   "記憶體"
+  ],
+  "source": [
+   "TP3_781"
+  ],
+  "expand": []
+ },
+ "signC_790": {
+  "original": [
+   "主機板"
+  ],
+  "source": [
+   "TP3_782"
+  ],
+  "expand": []
+ },
+ "signC_791": {
+  "original": [
+   "介面卡"
+  ],
+  "source": [
+   "TP3_783"
+  ],
+  "expand": []
+ },
+ "signC_792": {
+  "original": [
+   "顯示卡"
+  ],
+  "source": [
+   "TP3_784"
+  ],
+  "expand": []
+ },
+ "signC_793": {
+  "original": [
+   "音效卡"
+  ],
+  "source": [
+   "TP3_785"
+  ],
+  "expand": []
+ },
+ "signC_794": {
+  "original": [
+   "機",
+   "硬碟"
+  ],
+  "source": [
+   "TP3_786"
+  ],
+  "expand": []
+ },
+ "signC_795": {
+  "original": [
+   "機",
+   "硬碟"
+  ],
+  "source": [
+   "TP3_786"
+  ],
+  "expand": []
+ },
+ "signC_796": {
+  "original": [
+   "抽取式硬碟"
+  ],
+  "source": [
+   "TP3_787"
+  ],
+  "expand": []
+ },
+ "signC_797": {
+  "original": [
+   "光碟機"
+  ],
+  "source": [
+   "TP3_788"
+  ],
+  "expand": []
+ },
+ "signC_798": {
+  "original": [
+   "上網"
+  ],
+  "source": [
+   "TP3_789"
+  ],
+  "expand": []
+ },
+ "signC_799": {
+  "original": [
+   "數據機"
+  ],
+  "source": [
+   "TP3_790"
+  ],
+  "expand": []
+ },
+ "signC_800": {
+  "original": [
+   "數位相機"
+  ],
+  "source": [
+   "TP3_791"
+  ],
+  "expand": []
+ },
+ "signC_801": {
+  "original": [
+   "MP3"
+  ],
+  "source": [
+   "TP3_816"
+  ],
+  "expand": []
+ },
+ "signC_802": {
+  "original": [
+   "USB"
+  ],
+  "source": [
+   "TP3_817"
+  ],
+  "expand": []
+ },
+ "signC_803": {
+  "original": [
+   "電池"
+  ],
+  "source": [
+   "TP3_818"
+  ],
+  "expand": [
+   "Bo04C02="
+  ]
+ },
+ "signC_804": {
+  "original": [
+   "OFFICE軟體"
+  ],
+  "source": [
+   "TP3_819"
+  ],
+  "expand": []
+ },
+ "signC_805": {
+  "original": [
+   "Word"
+  ],
+  "source": [
+   "TP3_820"
+  ],
+  "expand": []
+ },
+ "signC_806": {
+  "original": [
+   "Excel"
+  ],
+  "source": [
+   "TP3_821"
+  ],
+  "expand": []
+ },
+ "signC_807": {
+  "original": [
+   "PowerPoint"
+  ],
+  "source": [
+   "TP3_822"
+  ],
+  "expand": []
+ },
+ "signC_808": {
+  "original": [
+   "Access"
+  ],
+  "source": [
+   "TP3_823"
+  ],
+  "expand": []
+ },
+ "signC_809": {
+  "original": [
+   "Indesign"
+  ],
+  "source": [
+   "TP3_824"
+  ],
+  "expand": []
+ },
+ "signC_810": {
+  "original": [
+   "Google"
+  ],
+  "source": [
+   "TP3_825"
+  ],
+  "expand": []
+ },
+ "signC_811": {
+  "original": [
+   "新聞"
+  ],
+  "source": [
+   "TP3_826"
+  ],
+  "expand": []
+ },
+ "signC_812": {
+  "original": [
+   "Blog"
+  ],
+  "source": [
+   "TP3_827"
+  ],
+  "expand": []
+ },
+ "signC_813": {
+  "original": [
+   "掃毒"
+  ],
+  "source": [
+   "TP3_842"
+  ],
+  "expand": []
+ },
+ "signC_814": {
+  "original": [
+   "網址"
+  ],
+  "source": [
+   "TP3_843"
+  ],
+  "expand": []
+ },
+ "signC_815": {
+  "original": [
+   "程式"
+  ],
+  "source": [
+   "TP3_844"
+  ],
+  "expand": []
+ },
+ "signC_816": {
+  "original": [
+   "Windows7作業系統"
+  ],
+  "source": [
+   "TP3_845"
+  ],
+  "expand": []
+ }
+}

@@ -1,0 +1,15 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+body {
+	background-image: url('image/bk1.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	font-family: 'Noto Sans TC', 'Myriad Pro', Arial, sans-serif;
+	margin: 0;
+	padding-top: 70px;
+}
+
+
+
+
+

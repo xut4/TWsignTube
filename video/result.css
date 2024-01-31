@@ -1,0 +1,36 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+body {
+	margin-top: 90px;
+    background-color: #d3b8d1; 
+    font-family:Noto Sans TC,Myriad Pro,Arial, sans-serif;
+    margin: 2;
+	text-align: center;
+	
+}
+.videobtn{
+    padding: 10px 20px;
+    background-color: #5a2c89; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.videobtn:hover {
+    background-color: #492373; 
+}
+.howmanytext{
+	font-size: 15px;
+}
+.wanttext{  
+	color:#FF5809;
+	
+}
+.subtext{
+	
+	font-size: 25px;
+	
+}
+
+

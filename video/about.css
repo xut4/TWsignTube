@@ -1,0 +1,23 @@
+
+body {
+	/*background-image: url('image/bk2.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;*/
+	/*background-color: #f8f9fa;*/
+	background-color: #d3b8d1; 
+	padding-top: 70px;
+	font-family:Noto Sans TC,Myriad Pro,Arial, sans-serif;
+}
+
+.card {
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	width: 200px;
+	height: 280px;
+}
+
+.card-img-top {
+	height: 100%; 
+	width: 100%; 
+	object-fit: cover;
+}

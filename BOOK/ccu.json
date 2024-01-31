@@ -1,0 +1,5515 @@
+{
+ "Australia": [
+  "澳洲"
+ ],
+ "BBQ": [
+  "烤肉"
+ ],
+ "Demark": [
+  "丹麥"
+ ],
+ "Greek": [
+  "希臘"
+ ],
+ "Hong_Kong": [
+  "香港"
+ ],
+ "Indonesia": [
+  "印尼"
+ ],
+ "Israel": [
+  "以色列"
+ ],
+ "Italy": [
+  "義大利"
+ ],
+ "JIU": [
+  "局"
+ ],
+ "Keelung": [
+  "基隆"
+ ],
+ "King_Kong": [
+  "金剛"
+ ],
+ "Lanyu": [
+  "蘭嶼"
+ ],
+ "MSG": [
+  "味精"
+ ],
+ "Saturday": [
+  "星期六",
+  "禮拜六"
+ ],
+ "South_America": [
+  "南美洲"
+ ],
+ "Thursday": [
+  "星期四",
+  "禮拜四"
+ ],
+ "Tuesday": [
+  "星期二",
+  "禮拜二"
+ ],
+ "Wednesday": [
+  "星期三",
+  "禮拜三"
+ ],
+ "a_few_days": [
+  "幾天"
+ ],
+ "a_lot": [
+  "好多"
+ ],
+ "abacus": [
+  "算盤"
+ ],
+ "able": [
+  "會"
+ ],
+ "aborigine": [
+  "原住民"
+ ],
+ "abundant": [
+  "豐富"
+ ],
+ "accompany": [
+  "伴",
+  "陪伴"
+ ],
+ "accomplish": [
+  "成功",
+  "完成"
+ ],
+ "add": [
+  "加",
+  "添加",
+  "增加"
+ ],
+ "add_gasoline": [
+  "加(汽)油"
+ ],
+ "addicted": [
+  "上癮",
+  "過癮"
+ ],
+ "address": [
+  "地址",
+  "住址"
+ ],
+ "adjust": [
+  "調配"
+ ],
+ "affairs": [
+  "事",
+  "事情",
+  "業務"
+ ],
+ "affect": [
+  "影響"
+ ],
+ "affix_a_chop": [
+  "蓋章"
+ ],
+ "afraid": [
+  "危險",
+  "怕",
+  "害怕"
+ ],
+ "after_all": [
+  "到底",
+  "終於",
+  "結果"
+ ],
+ "afternoon": [
+  "下午"
+ ],
+ "again": [
+  "再"
+ ],
+ "agree": [
+  "同意",
+  "贊成"
+ ],
+ "agri_culture": [
+  "耕田",
+  "農"
+ ],
+ "air_force": [
+  "空軍"
+ ],
+ "airplane": [
+  "飛機"
+ ],
+ "airport": [
+  "機場"
+ ],
+ "alishan": [
+  "阿里山"
+ ],
+ "all": [
+  "全",
+  "完全",
+  "所有",
+  "都"
+ ],
+ "all_day": [
+  "從早到晚",
+  "終日",
+  "整天"
+ ],
+ "all_gone": [
+  "光了",
+  "吃光"
+ ],
+ "almost": [
+  "差不多"
+ ],
+ "alone": [
+  "光棍",
+  "孤獨"
+ ],
+ "already": [
+  "已經"
+ ],
+ "also": [
+  "也"
+ ],
+ "always": [
+  "又來了",
+  "老是"
+ ],
+ "ambulance": [
+  "救護車"
+ ],
+ "ancestor": [
+  "祖先"
+ ],
+ "ancient": [
+  "古",
+  "古老",
+  "古時候"
+ ],
+ "and": [
+  "和"
+ ],
+ "and_also": [
+  "而且"
+ ],
+ "angry": [
+  "火大",
+  "生氣",
+  "憤怒"
+ ],
+ "animal": [
+  "動物"
+ ],
+ "announce": [
+  "宣佈"
+ ],
+ "answer": [
+  "回答",
+  "答案",
+  "答覆"
+ ],
+ "ant": [
+  "螞蟻"
+ ],
+ "anti_": [
+  "反",
+  "相反"
+ ],
+ "apartment_building": [
+  "大廈",
+  "大樓",
+  "建築"
+ ],
+ "apoplexy": [
+  "中風"
+ ],
+ "applaud": [
+  "鼓掌"
+ ],
+ "appointment": [
+  "約",
+  "約定"
+ ],
+ "apprentice": [
+  "學徒"
+ ],
+ "approximately": [
+  "大約",
+  "左右"
+ ],
+ "arecca": [
+  "檳榔"
+ ],
+ "around_the_island": [
+  "環島"
+ ],
+ "arrange": [
+  "安排",
+  "整理",
+  "辦法"
+ ],
+ "arrive": [
+  "到"
+ ],
+ "arrive_late": [
+  "遲到"
+ ],
+ "artificial_electronic_ear": [
+  "人工電子耳"
+ ],
+ "ashame": [
+  "不要臉"
+ ],
+ "asia": [
+  "亞",
+  "亞洲"
+ ],
+ "ask": [
+  "問",
+  "訪問",
+  "詢問"
+ ],
+ "ask_each_other": [
+  "問答"
+ ],
+ "assign": [
+  "分配"
+ ],
+ "at": [
+  "在"
+ ],
+ "attempt": [
+  "企圖"
+ ],
+ "attract": [
+  "勾引",
+  "引誘",
+  "吸引"
+ ],
+ "auditorium": [
+  "典禮",
+  "禮堂"
+ ],
+ "award": [
+  "獎狀"
+ ],
+ "azure": [
+  "青"
+ ],
+ "baby": [
+  "嬰兒"
+ ],
+ "bachelor": [
+  "光棍",
+  "單身漢"
+ ],
+ "bachelorette": [
+  "單身女"
+ ],
+ "back": [
+  "後面",
+  "背部"
+ ],
+ "bad": [
+  "壞"
+ ],
+ "bad_habit": [
+  "壞習慣"
+ ],
+ "bad_looking": [
+  "不好看",
+  "難看"
+ ],
+ "bad_luck": [
+  "倒楣",
+  "運氣差"
+ ],
+ "baggar": [
+  "乞丐"
+ ],
+ "bail": [
+  "保釋"
+ ],
+ "bald": [
+  "禿頭"
+ ],
+ "ball": [
+  "球"
+ ],
+ "bamboo": [
+  "竹子",
+  "新竹"
+ ],
+ "banana": [
+  "香蕉"
+ ],
+ "banciao_city": [
+  "板橋"
+ ],
+ "bank": [
+  "銀行"
+ ],
+ "bankrupt": [
+  "垮台",
+  "倒閉",
+  "破產"
+ ],
+ "base": [
+  "根本",
+  "基本",
+  "基礎"
+ ],
+ "baseball": [
+  "棒球"
+ ],
+ "basket": [
+  "籃子"
+ ],
+ "basketball": [
+  "籃球"
+ ],
+ "bath": [
+  "洗澡"
+ ],
+ "bathroom": [
+  "廁所"
+ ],
+ "be": [
+  "是"
+ ],
+ "be_discharge_from_prison": [
+  "出獄"
+ ],
+ "bean": [
+  "豆"
+ ],
+ "bear": [
+  "熊"
+ ],
+ "beard": [
+  "鬍子(八字鬍)",
+  "鬍子"
+ ],
+ "beautiful": [
+  "美",
+  "美麗",
+  "漂亮"
+ ],
+ "bed": [
+  "床"
+ ],
+ "bee": [
+  "蜜蜂"
+ ],
+ "beeper": [
+  "傳呼機"
+ ],
+ "beer": [
+  "啤酒"
+ ],
+ "beforehand": [
+  "之前",
+  "預先"
+ ],
+ "beg": [
+  "求",
+  "要求",
+  "請求"
+ ],
+ "being_discovered": [
+  "被發現",
+  "識破"
+ ],
+ "beitou": [
+  "北投"
+ ],
+ "believe": [
+  "相信"
+ ],
+ "bell": [
+  "鈴"
+ ],
+ "benevolence": [
+  "仁"
+ ],
+ "bet": [
+  "打賭"
+ ],
+ "bicycle": [
+  "自行車",
+  "腳踏車"
+ ],
+ "bid": [
+  "標會"
+ ],
+ "big": [
+  "大"
+ ],
+ "billiards": [
+  "撞球"
+ ],
+ "bird": [
+  "鳥"
+ ],
+ "birth": [
+  "出生",
+  "生"
+ ],
+ "black": [
+  "黑"
+ ],
+ "blackmarket": [
+  "黑市"
+ ],
+ "blind": [
+  "盲",
+  "視障"
+ ],
+ "blood": [
+  "血"
+ ],
+ "blood_type": [
+  "血型"
+ ],
+ "blue": [
+  "藍"
+ ],
+ "bluffing": [
+  "唬人"
+ ],
+ "blurry": [
+  "看不清楚"
+ ],
+ "blush": [
+  "臉紅"
+ ],
+ "boast": [
+  "吹牛"
+ ],
+ "boat_1": [
+  "舟",
+  "船"
+ ],
+ "body": [
+  "身體"
+ ],
+ "boil": [
+  "煮"
+ ],
+ "bone": [
+  "骨頭"
+ ],
+ "book": [
+  "書"
+ ],
+ "bothersome": [
+  "麻煩",
+  "煩"
+ ],
+ "bowl": [
+  "碗"
+ ],
+ "bowling": [
+  "保齡球"
+ ],
+ "boy_scouts": [
+  "童子軍"
+ ],
+ "branch": [
+  "樹枝",
+  "分支機關"
+ ],
+ "brave": [
+  "勇敢",
+  "敢"
+ ],
+ "bread": [
+  "麵包"
+ ],
+ "break": [
+  "打破",
+  "破",
+  "破壞",
+  "壞掉"
+ ],
+ "breath": [
+  "呼吸"
+ ],
+ "breathe_heavily": [
+  "喘"
+ ],
+ "bridge_1": [
+  "橋"
+ ],
+ "bright": [
+  "光",
+  "明亮",
+  "亮"
+ ],
+ "broad": [
+  "廣"
+ ],
+ "broaden_horizon": [
+  "大開眼界"
+ ],
+ "brown": [
+  "棕"
+ ],
+ "brush": [
+  "刷子"
+ ],
+ "buddhism": [
+  "佛",
+  "佛教"
+ ],
+ "bug": [
+  "昆蟲",
+  "蟲"
+ ],
+ "bury": [
+  "埋葬",
+  "葬"
+ ],
+ "bus": [
+  "公共汽車"
+ ],
+ "business": [
+  "生意",
+  "交易",
+  "商",
+  "買賣"
+ ],
+ "bustling": [
+  "熱鬧"
+ ],
+ "busy": [
+  "忙",
+  "忙碌"
+ ],
+ "but": [
+  "不過",
+  "可是",
+  "但是"
+ ],
+ "butterfly": [
+  "蝴蝶"
+ ],
+ "buttock": [
+  "屁股"
+ ],
+ "button": [
+  "鈕扣"
+ ],
+ "buy": [
+  "買",
+  "購買"
+ ],
+ "cabinet": [
+  "櫃子",
+  "櫥子"
+ ],
+ "cake": [
+  "蛋糕"
+ ],
+ "calendar": [
+  "日曆"
+ ],
+ "call": [
+  "叫",
+  "稱呼"
+ ],
+ "call_the_roll": [
+  "點名"
+ ],
+ "calligraphy": [
+  "書法"
+ ],
+ "calm_down": [
+  "冷靜",
+  "息怒"
+ ],
+ "camel": [
+  "駱駝"
+ ],
+ "camera": [
+  "拍照",
+  "相機",
+  "照相",
+  "攝影"
+ ],
+ "can": [
+  "能",
+  "能夠",
+  "罐頭"
+ ],
+ "can_do_sth_a_little": [
+  "會一點"
+ ],
+ "cancer": [
+  "癌症"
+ ],
+ "candle": [
+  "蠟燭"
+ ],
+ "candy": [
+  "糖果"
+ ],
+ "cannon": [
+  "炮"
+ ],
+ "cannot_tolerate": [
+  "忍不住"
+ ],
+ "cant": [
+  "不行",
+  "不肯",
+  "不能"
+ ],
+ "cant_do": [
+  "未遂",
+  "做不成"
+ ],
+ "cant_hear": [
+  "聽不見"
+ ],
+ "car": [
+  "車"
+ ],
+ "car_accident": [
+  "車禍"
+ ],
+ "car_with_flash_light": [
+  "閃光信號車"
+ ],
+ "card": [
+  "片",
+  "票"
+ ],
+ "careful": [
+  "小心",
+  "注意"
+ ],
+ "careless": [
+  "不小心",
+  "不注意",
+  "馬馬虎虎"
+ ],
+ "carpenter": [
+  "刨木頭",
+  "木匠"
+ ],
+ "carpet": [
+  "毛毯",
+  "地毯"
+ ],
+ "carry": [
+  "帶"
+ ],
+ "carry_in_hand": [
+  "提"
+ ],
+ "carry_on_shoulders": [
+  "挑"
+ ],
+ "carve": [
+  "雕刻"
+ ],
+ "cat": [
+  "貓"
+ ],
+ "catch": [
+  "捉",
+  "抓",
+  "逮捕"
+ ],
+ "catchcold": [
+  "感冒"
+ ],
+ "catholicism": [
+  "天主教"
+ ],
+ "cave": [
+  "山洞"
+ ],
+ "ceiling": [
+  "天花板"
+ ],
+ "celebrate": [
+  "慶祝"
+ ],
+ "cell": [
+  "細胞"
+ ],
+ "central": [
+  "央"
+ ],
+ "chairman": [
+  "主席"
+ ],
+ "chang": [
+  "張"
+ ],
+ "change": [
+  "改",
+  "轉變",
+  "變",
+  "變化",
+  "變成"
+ ],
+ "changhua": [
+  "彰化"
+ ],
+ "chart": [
+  "表格",
+  "筆記本"
+ ],
+ "chase": [
+  "追"
+ ],
+ "chat": [
+  "聊天"
+ ],
+ "chatter_box": [
+  "口沫橫飛"
+ ],
+ "cheap": [
+  "便宜"
+ ],
+ "cheat": [
+  "作弊"
+ ],
+ "cheeky": [
+  "厚臉皮",
+  "臉皮厚"
+ ],
+ "chen": [
+  "陳"
+ ],
+ "cheng": [
+  "鄭"
+ ],
+ "cherry": [
+  "櫻桃"
+ ],
+ "chestnut": [
+  "栗子"
+ ],
+ "chiayi": [
+  "嘉義"
+ ],
+ "chicken": [
+  "雞"
+ ],
+ "chief": [
+  "主任"
+ ],
+ "child": [
+  "小孩",
+  "兒童",
+  "孩子"
+ ],
+ "childish": [
+  "幼稚"
+ ],
+ "chinese_character": [
+  "字"
+ ],
+ "chinese_dough_sticks": [
+  "油條"
+ ],
+ "chinese_ravioli": [
+  "水餃",
+  "餃子"
+ ],
+ "choose": [
+  "挑選",
+  "選",
+  "選擇"
+ ],
+ "chopsticks": [
+  "筷子"
+ ],
+ "chou": [
+  "周"
+ ],
+ "christianity": [
+  "基督教"
+ ],
+ "christinanity": [
+  "聖誕節"
+ ],
+ "christmas": [
+  "聖誕節"
+ ],
+ "church": [
+  "教堂"
+ ],
+ "cicada": [
+  "蟬"
+ ],
+ "cigarette": [
+  "抽煙",
+  "香煙"
+ ],
+ "city": [
+  "市",
+  "城市",
+  "都市"
+ ],
+ "civilization": [
+  "文明"
+ ],
+ "claim_for_compensation": [
+  "索賠"
+ ],
+ "class": [
+  "班"
+ ],
+ "classmate": [
+  "同學"
+ ],
+ "clean": [
+  "乾淨",
+  "清潔"
+ ],
+ "clear": [
+  "清楚"
+ ],
+ "clergyman": [
+  "牧師"
+ ],
+ "close_a_door": [
+  "關門"
+ ],
+ "close_eyes": [
+  "闔眼"
+ ],
+ "cloth": [
+  "布"
+ ],
+ "clothes": [
+  "衣服"
+ ],
+ "cloud": [
+  "雲"
+ ],
+ "clown": [
+  "小丑"
+ ],
+ "cockroach": [
+  "蟑螂"
+ ],
+ "coffee": [
+  "咖啡"
+ ],
+ "cold": [
+  "冬天",
+  "冷"
+ ],
+ "collect": [
+  "收集"
+ ],
+ "college": [
+  "大學"
+ ],
+ "color": [
+  "顏色",
+  "式"
+ ],
+ "come": [
+  "來"
+ ],
+ "comfortable": [
+  "舒服"
+ ],
+ "command": [
+  "命令",
+  "派"
+ ],
+ "commemorate": [
+  "紀念"
+ ],
+ "commemorative_button": [
+  "會員"
+ ],
+ "committee_member": [
+  "委員"
+ ],
+ "commodity": [
+  "品"
+ ],
+ "common_sight": [
+  "司空見慣"
+ ],
+ "communication": [
+  "交際",
+  "溝通"
+ ],
+ "commute": [
+  "通學"
+ ],
+ "company": [
+  "公司"
+ ],
+ "compare": [
+  "比較"
+ ],
+ "compensate": [
+  "賠錢",
+  "賠償"
+ ],
+ "compete": [
+  "比賽",
+  "競賽"
+ ],
+ "complicated": [
+  "複雜"
+ ],
+ "composition": [
+  "作文"
+ ],
+ "computer": [
+  "電腦"
+ ],
+ "concerned": [
+  "關心",
+  "關懷"
+ ],
+ "conflict": [
+  "衝突"
+ ],
+ "congratulate": [
+  "恭喜",
+  "祝"
+ ],
+ "conservative": [
+  "守舊",
+  "保守"
+ ],
+ "consistent": [
+  "一致"
+ ],
+ "constrain": [
+  "束縛",
+  "拘束",
+  "約束",
+  "緊"
+ ],
+ "construct": [
+  "建設"
+ ],
+ "contact": [
+  "聯絡"
+ ],
+ "contagious": [
+  "散播",
+  "傳染"
+ ],
+ "contract": [
+  "簽約"
+ ],
+ "contradict_onself": [
+  "反覆",
+  "出爾反爾"
+ ],
+ "control": [
+  "控制",
+  "操縱"
+ ],
+ "conversation_by_writing": [
+  "筆談"
+ ],
+ "cookie": [
+  "餅乾"
+ ],
+ "cool": [
+  "涼快"
+ ],
+ "copy": [
+  "抄"
+ ],
+ "corn": [
+  "玉米"
+ ],
+ "correct": [
+  "正確",
+  "對"
+ ],
+ "corrupt": [
+  "貪污",
+  "舞弊"
+ ],
+ "cosmetology": [
+  "美容"
+ ],
+ "cotton": [
+  "棉花"
+ ],
+ "cough": [
+  "咳嗽"
+ ],
+ "country": [
+  "國",
+  "國家"
+ ],
+ "countryside": [
+  "鄉"
+ ],
+ "county": [
+  "縣"
+ ],
+ "course": [
+  "課"
+ ],
+ "covet": [
+  "貪心"
+ ],
+ "cow": [
+  "牛"
+ ],
+ "crab": [
+  "螃蟹"
+ ],
+ "crane": [
+  "鶴"
+ ],
+ "criminal_policeman": [
+  "刑警"
+ ],
+ "critique": [
+  "批評",
+  "評判"
+ ],
+ "cross": [
+  "越過",
+  "經過",
+  "過"
+ ],
+ "crow": [
+  "烏鴉"
+ ],
+ "crowd_into": [
+  "湧入"
+ ],
+ "crowded": [
+  "擁擠",
+  "擠"
+ ],
+ "cry": [
+  "哭"
+ ],
+ "cultivate": [
+  "栽培",
+  "培養",
+  "養"
+ ],
+ "culture": [
+  "文化"
+ ],
+ "cup": [
+  "杯子"
+ ],
+ "cure": [
+  "醫治"
+ ],
+ "curious": [
+  "好奇"
+ ],
+ "customs": [
+  "風俗"
+ ],
+ "cut_class": [
+  "缺席",
+  "曠課",
+  "逃學"
+ ],
+ "cuttlefish": [
+  "烏賊"
+ ],
+ "dance": [
+  "跳舞"
+ ],
+ "dare_not_to_eat": [
+  "不敢吃"
+ ],
+ "daughter": [
+  "女兒"
+ ],
+ "day": [
+  "日"
+ ],
+ "day_after_tomorrow": [
+  "後天"
+ ],
+ "day_before_yesterday": [
+  "前天"
+ ],
+ "deaf": [
+  "聾",
+  "聾人"
+ ],
+ "debate": [
+  "辯論"
+ ],
+ "deceived": [
+  "上當",
+  "會錯意",
+  "騙我"
+ ],
+ "decrease": [
+  "越來越少",
+  "漸減"
+ ],
+ "deep": [
+  "深"
+ ],
+ "deep_fry": [
+  "炸"
+ ],
+ "deer": [
+  "鹿"
+ ],
+ "definite": [
+  "一定",
+  "必定",
+  "決定"
+ ],
+ "degree": [
+  "水準",
+  "程度"
+ ],
+ "delicious": [
+  "好吃"
+ ],
+ "deliver": [
+  "送",
+  "贈送"
+ ],
+ "derail": [
+  "出軌"
+ ],
+ "deserted": [
+  "眾叛親離"
+ ],
+ "design": [
+  "設計"
+ ],
+ "detailed": [
+  "仔細",
+  "細節",
+  "詳細"
+ ],
+ "detour": [
+  "彎路"
+ ],
+ "dictionary": [
+  "字典",
+  "辭典"
+ ],
+ "different": [
+  "不一樣",
+  "不同"
+ ],
+ "difficult": [
+  "困難",
+  "艱難",
+  "難"
+ ],
+ "digest": [
+  "消化"
+ ],
+ "dime": [
+  "一毛錢",
+  "一角"
+ ],
+ "direct_a_play": [
+  "導演"
+ ],
+ "dirty": [
+  "骯髒",
+  "髒"
+ ],
+ "disappointed": [
+  "失望"
+ ],
+ "discouraged": [
+  "灰心",
+  "難過",
+  "膩"
+ ],
+ "discover": [
+  "看到",
+  "發現"
+ ],
+ "discuss": [
+  "討論",
+  "商量"
+ ],
+ "disgusting": [
+  "討厭"
+ ],
+ "dish": [
+  "盤子"
+ ],
+ "disinfect": [
+  "消毒"
+ ],
+ "dismiss": [
+  "解散"
+ ],
+ "dismiss_class": [
+  "下課"
+ ],
+ "display": [
+  "展示",
+  "展覽"
+ ],
+ "distribute": [
+  "分發",
+  "發牌"
+ ],
+ "district": [
+  "區"
+ ],
+ "dive": [
+  "跳水"
+ ],
+ "divide": [
+  "平均",
+  "除"
+ ],
+ "divorce": [
+  "離婚"
+ ],
+ "dizzy": [
+  "頭暈"
+ ],
+ "do": [
+  "上班",
+  "工作",
+  "做",
+  "辦"
+ ],
+ "doesnt_matter": [
+  "沒關係",
+  "無所謂"
+ ],
+ "dog": [
+  "犬",
+  "狗"
+ ],
+ "dolphin": [
+  "海豚"
+ ],
+ "donate": [
+  "募捐"
+ ],
+ "dont_have_the_slightest_idea": [
+  "一竅不通"
+ ],
+ "dont_know": [
+  "不知道",
+  "不曉得",
+  "不懂"
+ ],
+ "dont_like": [
+  "不喜歡"
+ ],
+ "dont_want": [
+  "不要"
+ ],
+ "dont_worry_about": [
+  "不管"
+ ],
+ "door": [
+  "門"
+ ],
+ "double": [
+  "加倍"
+ ],
+ "double_deck_bus": [
+  "雙層巴士"
+ ],
+ "down": [
+  "下"
+ ],
+ "dragon_boat_festival": [
+  "端午節"
+ ],
+ "dragon": [
+  "龍"
+ ],
+ "dragonfly": [
+  "蜻蜓"
+ ],
+ "drama": [
+  "劇",
+  "戲劇"
+ ],
+ "dream": [
+  "做夢",
+  "夢"
+ ],
+ "drink": [
+  "喝"
+ ],
+ "drive": [
+  "開車",
+  "駕駛"
+ ],
+ "drivers_card": [
+  "汽車駕照"
+ ],
+ "drool": [
+  "饞嘴"
+ ],
+ "drop_out": [
+  "退學"
+ ],
+ "drug_abuse": [
+  "吸毒"
+ ],
+ "dry": [
+  "乾燥"
+ ],
+ "duck": [
+  "鴨子"
+ ],
+ "dull": [
+  "乏味",
+  "呆板"
+ ],
+ "eager_to": [
+  "渴望"
+ ],
+ "eagle": [
+  "鷹"
+ ],
+ "ear": [
+  "耳朵"
+ ],
+ "ear_covering": [
+  "耳罩"
+ ],
+ "earn_money": [
+  "賺錢"
+ ],
+ "earplug": [
+  "耳塞"
+ ],
+ "earring": [
+  "耳環"
+ ],
+ "easily": [
+  "輕而易舉",
+  "容易",
+  "簡單",
+  "擅長"
+ ],
+ "east": [
+  "東"
+ ],
+ "easy": [
+  "容易",
+  "簡單"
+ ],
+ "eat": [
+  "吃"
+ ],
+ "eat_rice": [
+  "吃飯"
+ ],
+ "economics": [
+  "經濟"
+ ],
+ "economics_department": [
+  "經濟部"
+ ],
+ "effect": [
+  "效果"
+ ],
+ "effort": [
+  "用功",
+  "努力"
+ ],
+ "egg": [
+  "蛋",
+  "卵",
+  "懷孕"
+ ],
+ "egoistic": [
+  "自大",
+  "神氣"
+ ],
+ "eight": [
+  "八"
+ ],
+ "eighty": [
+  "八十"
+ ],
+ "electricity": [
+  "電"
+ ],
+ "elementary_school": [
+  "國小"
+ ],
+ "elephant": [
+  "大象"
+ ],
+ "elevator": [
+  "電梯"
+ ],
+ "eloquent": [
+  "能言善道"
+ ],
+ "embarrassed": [
+  "不好意思",
+  "尷尬"
+ ],
+ "empty": [
+  "空"
+ ],
+ "encourage": [
+  "勉勵",
+  "鼓勵"
+ ],
+ "enemy": [
+  "敵人",
+  "報仇",
+  "復仇"
+ ],
+ "engagement": [
+  "訂婚"
+ ],
+ "engineer": [
+  "工程師"
+ ],
+ "england": [
+  "英國"
+ ],
+ "english": [
+  "英文"
+ ],
+ "enjoy": [
+  "享受"
+ ],
+ "enough": [
+  "足夠",
+  "夠"
+ ],
+ "enter": [
+  "進入"
+ ],
+ "enterprise": [
+  "業"
+ ],
+ "entertain_guests": [
+  "招待"
+ ],
+ "environment": [
+  "四周",
+  "周圍",
+  "環境"
+ ],
+ "envy": [
+  "羨慕"
+ ],
+ "escape": [
+  "逃"
+ ],
+ "establish": [
+  "成立",
+  "設立"
+ ],
+ "etiquette": [
+  "禮貌"
+ ],
+ "europe": [
+  "歐"
+ ],
+ "evaluation": [
+  "評價"
+ ],
+ "even": [
+  "不分勝負",
+  "平分秋色"
+ ],
+ "even_more": [
+  "更",
+  "越",
+  "愈"
+ ],
+ "evening": [
+  "夜晚",
+  "晚上"
+ ],
+ "every": [
+  "各",
+  "每"
+ ],
+ "examine_tiniest_things": [
+  "明察秋毫"
+ ],
+ "exceed": [
+  "超過"
+ ],
+ "excellent": [
+  "棒"
+ ],
+ "exchange": [
+  "換"
+ ],
+ "exit": [
+  "出"
+ ],
+ "expand": [
+  "擴大"
+ ],
+ "expensive": [
+  "貴"
+ ],
+ "experience": [
+  "經驗"
+ ],
+ "experienced": [
+  "內行"
+ ],
+ "explain": [
+  "解釋"
+ ],
+ "export": [
+  "運出"
+ ],
+ "express": [
+  "表演"
+ ],
+ "extramarital_relation": [
+  "外遇"
+ ],
+ "eye": [
+  "眼睛"
+ ],
+ "fabricate": [
+  "無中生有"
+ ],
+ "face": [
+  "面孔",
+  "臉"
+ ],
+ "factory": [
+  "工廠"
+ ],
+ "fail": [
+  "不及格",
+  "失敗",
+  "當掉",
+  "輸"
+ ],
+ "fail_to_keep_an_appointment": [
+  "失約"
+ ],
+ "faithful": [
+  "忠"
+ ],
+ "fall_behind": [
+  "落伍"
+ ],
+ "fall_down": [
+  "跌倒",
+  "摔倒"
+ ],
+ "fall_in_love_at_first_sight": [
+  "一見鍾情"
+ ],
+ "false": [
+  "假",
+  "謊話"
+ ],
+ "family": [
+  "家庭"
+ ],
+ "famous": [
+  "有名"
+ ],
+ "fan": [
+  "電風扇"
+ ],
+ "fang": [
+  "方"
+ ],
+ "far_sighted": [
+  "遠視"
+ ],
+ "farmer": [
+  "農夫"
+ ],
+ "fart": [
+  "放屁"
+ ],
+ "fascinated": [
+  "著迷"
+ ],
+ "fast": [
+  "火速",
+  "快",
+  "快速",
+  "迅速"
+ ],
+ "fastidious": [
+  "眼光高"
+ ],
+ "fat": [
+  "肥",
+  "肥胖",
+  "胖"
+ ],
+ "fat_meat": [
+  "肥肉"
+ ],
+ "fate": [
+  "緣分"
+ ],
+ "father": [
+  "父親",
+  "爸爸"
+ ],
+ "fathers_old_brother": [
+  "伯父"
+ ],
+ "fathers_sisiter": [
+  "姑姑"
+ ],
+ "fathers_younger_brother": [
+  "叔叔"
+ ],
+ "fax": [
+  "傳真"
+ ],
+ "feed": [
+  "養",
+  "餵"
+ ],
+ "feel": [
+  "覺得",
+  "思念",
+  "想到"
+ ],
+ "female": [
+  "女生",
+  "女性",
+  "小姐"
+ ],
+ "female_dominance": [
+  "大女人主義"
+ ],
+ "female_group": [
+  "女性團體"
+ ],
+ "fengyuan": [
+  "豐原"
+ ],
+ "ferris_wheels": [
+  "摩天輪"
+ ],
+ "fever": [
+  "發燒"
+ ],
+ "few": [
+  "一點",
+  "少",
+  "稍微"
+ ],
+ "field": [
+  "田"
+ ],
+ "fierce": [
+  "兇"
+ ],
+ "fifty": [
+  "五十"
+ ],
+ "fifty_cents": [
+  "五毛錢"
+ ],
+ "fight": [
+  "打架"
+ ],
+ "figure": [
+  "計算",
+  "算"
+ ],
+ "film": [
+  "底片",
+  "拍攝",
+  "錄影"
+ ],
+ "fine": [
+  "處罰",
+  "罰"
+ ],
+ "finish": [
+  "完了",
+  "結束"
+ ],
+ "fire": [
+  "火"
+ ],
+ "fired": [
+  "開除",
+  "撤職",
+  "去掉",
+  "剔除",
+  "淘汰"
+ ],
+ "firefly": [
+  "螢火蟲"
+ ],
+ "first": [
+  "第一個"
+ ],
+ "first_grade": [
+  "小一",
+  "小學一年級"
+ ],
+ "first_level": [
+  "初級",
+  "第一級"
+ ],
+ "first_place": [
+  "第一名"
+ ],
+ "first_time": [
+  "初次",
+  "首先",
+  "第一次"
+ ],
+ "fish": [
+  "魚"
+ ],
+ "fishing": [
+  "釣魚"
+ ],
+ "five": [
+  "五"
+ ],
+ "flag": [
+  "旗子"
+ ],
+ "flashlight": [
+  "手電筒"
+ ],
+ "flat_taste": [
+  "乏味",
+  "枯燥",
+  "沒味道"
+ ],
+ "flatiron": [
+  "熨斗",
+  "燙衣服"
+ ],
+ "flatter": [
+  "拍馬屁",
+  "安慰",
+  "安撫",
+  "哄"
+ ],
+ "flower": [
+  "花",
+  "開花"
+ ],
+ "fluorescent_lamps": [
+  "日光燈"
+ ],
+ "fly": [
+  "飛",
+  "蒼蠅"
+ ],
+ "fog": [
+  "霧"
+ ],
+ "follow": [
+  "追隨",
+  "跟隨"
+ ],
+ "for": [
+  "因為",
+  "為",
+  "連",
+  "繼續"
+ ],
+ "foreign_country": [
+  "外國"
+ ],
+ "forest": [
+  "森林"
+ ],
+ "forget": [
+  "忘",
+  "忘記"
+ ],
+ "formal": [
+  "正式"
+ ],
+ "fortunately": [
+  "好險",
+  "幸好",
+  "幸虧"
+ ],
+ "forty": [
+  "四十"
+ ],
+ "found_it": [
+  "找到"
+ ],
+ "four": [
+  "四"
+ ],
+ "fox": [
+  "狐狸"
+ ],
+ "fragrant": [
+  "香",
+  "氣",
+  "聞"
+ ],
+ "france": [
+  "法國"
+ ],
+ "frank": [
+  "坦白"
+ ],
+ "free_of_charge": [
+  "免費"
+ ],
+ "freeway_bureau": [
+  "公路局"
+ ],
+ "freshman": [
+  "大一"
+ ],
+ "friday": [
+  "星期五",
+  "週五",
+  "禮拜五"
+ ],
+ "friend": [
+  "朋友"
+ ],
+ "frog": [
+  "青蛙"
+ ],
+ "fruit": [
+  "水果"
+ ],
+ "full": [
+  "夠",
+  "滿",
+  "吃飽了",
+  "飽"
+ ],
+ "funny": [
+  "幽默",
+  "風趣",
+  "滑稽"
+ ],
+ "future": [
+  "以後",
+  "未來",
+  "將來"
+ ],
+ "gang_community": [
+  "黑社會"
+ ],
+ "garage": [
+  "車庫"
+ ],
+ "garlic": [
+  "大蒜"
+ ],
+ "gas_station": [
+  "加油站"
+ ],
+ "gather_together": [
+  "湊在一起"
+ ],
+ "gaze": [
+  "注視"
+ ],
+ "gecko": [
+  "壁虎"
+ ],
+ "geography": [
+  "地理"
+ ],
+ "germany": [
+  "德國"
+ ],
+ "ginger": [
+  "薑"
+ ],
+ "give": [
+  "給予"
+ ],
+ "glass": [
+  "玻璃"
+ ],
+ "glasses": [
+  "眼鏡"
+ ],
+ "glory": [
+  "光榮",
+  "榮耀"
+ ],
+ "go": [
+  "去"
+ ],
+ "go_deaf": [
+  "變聾"
+ ],
+ "go_home": [
+  "回家"
+ ],
+ "go_off_stage": [
+  "下台",
+  "下車",
+  "卸任"
+ ],
+ "go_off_work": [
+  "下班"
+ ],
+ "go_on_stage": [
+  "上台",
+  "上車",
+  "就任"
+ ],
+ "go_on_strike": [
+  "罷工"
+ ],
+ "goal": [
+  "目的",
+  "目標",
+  "宗旨"
+ ],
+ "goat": [
+  "山羊",
+  "羊"
+ ],
+ "god": [
+  "神"
+ ],
+ "gold": [
+  "戒指",
+  "金"
+ ],
+ "good": [
+  "好",
+  "良好"
+ ],
+ "good_bye": [
+  "再見"
+ ],
+ "good_fortune": [
+  "福利",
+  "幸福"
+ ],
+ "goof": [
+  "搞錯",
+  "誤會"
+ ],
+ "goose": [
+  "鵝"
+ ],
+ "government": [
+  "政府",
+  "省"
+ ],
+ "government_official": [
+  "官",
+  "公務員"
+ ],
+ "grades": [
+  "成績"
+ ],
+ "graduate": [
+  "畢業"
+ ],
+ "granddaughter": [
+  "孫女"
+ ],
+ "grandfather": [
+  "祖父",
+  "爺爺"
+ ],
+ "grandmother": [
+  "奶奶",
+  "祖母"
+ ],
+ "grandson": [
+  "孫子"
+ ],
+ "grape": [
+  "葡萄"
+ ],
+ "grass": [
+  "草"
+ ],
+ "great": [
+  "有名",
+  "偉大"
+ ],
+ "green": [
+  "綠"
+ ],
+ "green_onion": [
+  "蔥"
+ ],
+ "grief": [
+  "憂傷"
+ ],
+ "grow_up": [
+  "成長",
+  "長大"
+ ],
+ "guard": [
+  "守",
+  "守衛"
+ ],
+ "guava": [
+  "番石榴"
+ ],
+ "guess": [
+  "猜"
+ ],
+ "gun": [
+  "射擊",
+  "槍"
+ ],
+ "habit": [
+  "習慣"
+ ],
+ "hair": [
+  "髮",
+  "頭髮",
+  "毛"
+ ],
+ "half": [
+  "半"
+ ],
+ "hamburger": [
+  "漢堡"
+ ],
+ "hammer": [
+  "槌子"
+ ],
+ "hand": [
+  "手"
+ ],
+ "handicapped": [
+  "殘障"
+ ],
+ "handkerchief": [
+  "手帕"
+ ],
+ "handsome": [
+  "英俊"
+ ],
+ "hang": [
+  "掛"
+ ],
+ "happen": [
+  "出事",
+  "發生"
+ ],
+ "happy": [
+  "快樂",
+  "高興",
+  "愉快",
+  "歡喜"
+ ],
+ "harbor": [
+  "港"
+ ],
+ "hard": [
+  "堅固",
+  "硬"
+ ],
+ "hat": [
+  "帽子",
+  "戴帽"
+ ],
+ "have": [
+  "有"
+ ],
+ "have_": [
+  "有沒有"
+ ],
+ "havent": [
+  "沒有",
+  "無"
+ ],
+ "hawaii": [
+  "夏威夷"
+ ],
+ "he": [
+  "他"
+ ],
+ "he_she": [
+  "他"
+ ],
+ "head": [
+  "頭"
+ ],
+ "head_of_Yuan": [
+  "院長"
+ ],
+ "head_of_association": [
+  "會長"
+ ],
+ "head_of_city": [
+  "市長"
+ ],
+ "head_of_class": [
+  "班長"
+ ],
+ "head_of_family": [
+  "家長"
+ ],
+ "head_of_school": [
+  "校長"
+ ],
+ "health": [
+  "健康"
+ ],
+ "healthy_looking": [
+  "臉色紅潤"
+ ],
+ "hear": [
+  "聽"
+ ],
+ "hearing_person": [
+  "聽人"
+ ],
+ "heart": [
+  "心"
+ ],
+ "heavy": [
+  "重"
+ ],
+ "help": [
+  "替",
+  "幫",
+  "幫忙",
+  "幫助"
+ ],
+ "hide": [
+  "躲"
+ ],
+ "high_blood_pressure": [
+  "高血壓"
+ ],
+ "high_class": [
+  "文雅",
+  "紳士",
+  "慢條斯理",
+  "豪華"
+ ],
+ "high_jump": [
+  "跳高"
+ ],
+ "highway": [
+  "高速公路"
+ ],
+ "his_or_her": [
+  "屬於他/她"
+ ],
+ "history": [
+  "史",
+  "歷史"
+ ],
+ "hit": [
+  "打"
+ ],
+ "hoist": [
+  "吊車"
+ ],
+ "home": [
+  "房子"
+ ],
+ "homework": [
+  "作業"
+ ],
+ "honorable": [
+  "有面子"
+ ],
+ "hoodlum": [
+  "流氓"
+ ],
+ "hope": [
+  "希望"
+ ],
+ "horse": [
+  "馬"
+ ],
+ "hospital": [
+  "醫院"
+ ],
+ "hot": [
+  "汗",
+  "夏天",
+  "熱"
+ ],
+ "hot_pot": [
+  "火鍋"
+ ],
+ "hot_to_touch": [
+  "燙"
+ ],
+ "house": [
+  "屋子",
+  "家",
+  "館"
+ ],
+ "how_about": [
+  "好不好"
+ ],
+ "how_far": [
+  "多遠?"
+ ],
+ "how_long": [
+  "多長?"
+ ],
+ "how_many": [
+  "多少",
+  "幾"
+ ],
+ "how_many_hours": [
+  "幾小時"
+ ],
+ "how_many_months": [
+  "幾個月"
+ ],
+ "how_many_times": [
+  "幾次"
+ ],
+ "how_much_weight": [
+  "多重?"
+ ],
+ "how_old": [
+  "年紀",
+  "年齡",
+  "幾歲"
+ ],
+ "hua_lian": [
+  "花蓮"
+ ],
+ "humble": [
+  "謙虛"
+ ],
+ "hundred": [
+  "百"
+ ],
+ "hundred_million": [
+  "億"
+ ],
+ "hungry": [
+  "飢餓",
+  "餓"
+ ],
+ "hurry_on": [
+  "趕路"
+ ],
+ "husband": [
+  "丈夫"
+ ],
+ "hygiene": [
+  "衛生"
+ ],
+ "i": [
+  "我"
+ ],
+ "ice_cream": [
+  "冰淇淋"
+ ],
+ "ice_skating": [
+  "滑冰"
+ ],
+ "identical": [
+  "一模一樣"
+ ],
+ "identification_card": [
+  "身分證"
+ ],
+ "idiot": [
+  "呆子"
+ ],
+ "idle_at_home": [
+  "在家閒晃",
+  "閒賦在家"
+ ],
+ "if": [
+  "如果",
+  "若是",
+  "假如"
+ ],
+ "ilan": [
+  "宜蘭"
+ ],
+ "illegal": [
+  "違法",
+  "違規"
+ ],
+ "illiterate": [
+  "文盲"
+ ],
+ "imitate": [
+  "模仿",
+  "學習"
+ ],
+ "immediately": [
+  "不久",
+  "立刻",
+  "馬上"
+ ],
+ "import": [
+  "運入"
+ ],
+ "impossible": [
+  "不可能"
+ ],
+ "in": [
+  "內",
+  "其中",
+  "裡面"
+ ],
+ "in_line_skating": [
+  "直排輪"
+ ],
+ "in_the_front": [
+  "前面"
+ ],
+ "in_vain": [
+  "白費"
+ ],
+ "inclined_to_one_side": [
+  "偏"
+ ],
+ "include": [
+  "包括"
+ ],
+ "incorrect": [
+  "不對"
+ ],
+ "increase": [
+  "越來越多",
+  "漸增",
+  "濃"
+ ],
+ "indefinite": [
+  "也許",
+  "不一定",
+  "可能"
+ ],
+ "independent": [
+  "獨立"
+ ],
+ "india": [
+  "印度"
+ ],
+ "indian": [
+  "印第安人"
+ ],
+ "inexplicable": [
+  "莫名其妙"
+ ],
+ "infectious_disease": [
+  "傳染病"
+ ],
+ "injury": [
+  "受傷"
+ ],
+ "inoculation": [
+  "打針",
+  "注射"
+ ],
+ "installment_payments": [
+  "分期付款"
+ ],
+ "insurance": [
+  "保險"
+ ],
+ "interfere": [
+  "干涉",
+  "介入",
+  "打岔",
+  "插手",
+  "插嘴"
+ ],
+ "intestines": [
+  "腸子"
+ ],
+ "intravenous_drip": [
+  "點滴"
+ ],
+ "introduce": [
+  "介紹"
+ ],
+ "introspection": [
+  "反省"
+ ],
+ "invent": [
+  "創作",
+  "創造"
+ ],
+ "invest": [
+  "投資"
+ ],
+ "investigate": [
+  "調查",
+  "檢查"
+ ],
+ "invite": [
+  "請客",
+  "邀請"
+ ],
+ "iron": [
+  "鐵"
+ ],
+ "island": [
+  "島"
+ ],
+ "its_all_my_fault": [
+  "都是我不好"
+ ],
+ "jail": [
+  "監獄"
+ ],
+ "jam": [
+  "果醬"
+ ],
+ "january": [
+  "一月"
+ ],
+ "japan": [
+  "日本"
+ ],
+ "jealous": [
+  "嫉妒",
+  "恨"
+ ],
+ "join": [
+  "加入"
+ ],
+ "judge": [
+  "法官",
+  "評審"
+ ],
+ "judo": [
+  "柔道"
+ ],
+ "jump": [
+  "跳"
+ ],
+ "junior_high": [
+  "國中"
+ ],
+ "just": [
+  "正"
+ ],
+ "just_now": [
+  "剛剛"
+ ],
+ "kangaroo": [
+  "袋鼠"
+ ],
+ "kaohsiung": [
+  "高雄"
+ ],
+ "ketchup": [
+  "蕃茄醬"
+ ],
+ "key": [
+  "鑰匙"
+ ],
+ "kill": [
+  "殺"
+ ],
+ "kind": [
+  "慈祥",
+  "好心"
+ ],
+ "kindergarden": [
+  "幼稚園"
+ ],
+ "kindhearted": [
+  "善良"
+ ],
+ "kiss": [
+  "吻",
+  "接吻"
+ ],
+ "kitchen": [
+  "廚房"
+ ],
+ "kite": [
+  "風箏"
+ ],
+ "kneel": [
+  "跪"
+ ],
+ "knife": [
+  "刀子"
+ ],
+ "know": [
+  "認識",
+  "知道",
+  "曉得",
+  "懂"
+ ],
+ "knowledge": [
+  "知識",
+  "資料"
+ ],
+ "korea": [
+  "韓國"
+ ],
+ "kung": [
+  "孔"
+ ],
+ "labor": [
+  "工"
+ ],
+ "lack": [
+  "缺乏",
+  "缺點",
+  "遺漏"
+ ],
+ "lake": [
+  "池",
+  "湖"
+ ],
+ "land_soil": [
+  "土",
+  "地",
+  "沙",
+  "粉",
+  "陸地"
+ ],
+ "lane": [
+  "巷"
+ ],
+ "language": [
+  "語言"
+ ],
+ "large_amount": [
+  "大量"
+ ],
+ "last_name": [
+  "姓"
+ ],
+ "last_week": [
+  "上個星期"
+ ],
+ "last_year": [
+  "一年以前",
+  "去年"
+ ],
+ "late": [
+  "遲到"
+ ],
+ "latern_festival": [
+  "元宵節"
+ ],
+ "laugh": [
+  "笑"
+ ],
+ "law": [
+  "尺",
+  "法律"
+ ],
+ "lazy": [
+  "懶惰"
+ ],
+ "lead": [
+  "領導",
+  "嚮導"
+ ],
+ "leader": [
+  "領袖"
+ ],
+ "leaf": [
+  "葉子"
+ ],
+ "leak_out": [
+  "打小報告",
+  "告密",
+  "洩密"
+ ],
+ "lean": [
+  "依靠",
+  "依賴",
+  "靠"
+ ],
+ "leave": [
+  "離開"
+ ],
+ "left": [
+  "左"
+ ],
+ "leg": [
+  "腿"
+ ],
+ "lemon": [
+  "檸檬"
+ ],
+ "lesson_one": [
+  "第一課"
+ ],
+ "let_it_be": [
+  "算了"
+ ],
+ "letter": [
+  "信"
+ ],
+ "li": [
+  "李"
+ ],
+ "library": [
+  "圖書館"
+ ],
+ "lie_down": [
+  "躺"
+ ],
+ "light": [
+  "輕",
+  "電燈",
+  "燈"
+ ],
+ "like": [
+  "喜歡",
+  "興趣"
+ ],
+ "limit": [
+  "限制"
+ ],
+ "lin": [
+  "林"
+ ],
+ "lion": [
+  "獅子"
+ ],
+ "liquor": [
+  "酒"
+ ],
+ "little": [
+  "小"
+ ],
+ "live": [
+  "住"
+ ],
+ "lively": [
+  "活潑"
+ ],
+ "liver": [
+  "肝"
+ ],
+ "lock": [
+  "鎖"
+ ],
+ "lonely": [
+  "無聊"
+ ],
+ "long": [
+  "久",
+  "永遠",
+  "長",
+  "遠"
+ ],
+ "look_down_on": [
+  "看不起"
+ ],
+ "look_down_upon": [
+  "看不起"
+ ],
+ "look_for": [
+  "找",
+  "尋找"
+ ],
+ "look": [
+  "看"
+ ],
+ "loosen": [
+  "鬆"
+ ],
+ "loquat": [
+  "枇杷"
+ ],
+ "lose": [
+  "失掉",
+  "失蹤",
+  "遺失"
+ ],
+ "lousy": [
+  "不好"
+ ],
+ "love": [
+  "愛",
+  "戀愛"
+ ],
+ "lower_a_flag": [
+  "降旗"
+ ],
+ "lu": [
+  "呂"
+ ],
+ "luck": [
+  "運氣"
+ ],
+ "lucky": [
+  "運氣好"
+ ],
+ "luggage": [
+  "行李"
+ ],
+ "luo": [
+  "羅"
+ ],
+ "lustful": [
+  "好色"
+ ],
+ "machine": [
+  "機器"
+ ],
+ "magazine": [
+  "雜誌"
+ ],
+ "magnanimous": [
+  "大方",
+  "心寬"
+ ],
+ "mahjong": [
+  "打麻將"
+ ],
+ "mail_a_letter": [
+  "寄信"
+ ],
+ "main": [
+  "主",
+  "主要"
+ ],
+ "mainland_china": [
+  "大陸",
+  "中國"
+ ],
+ "make_an_extra_effor": [
+  "加油"
+ ],
+ "make_up": [
+  "補"
+ ],
+ "malaysia": [
+  "馬來西亞"
+ ],
+ "male_chauvinism": [
+  "大男人主義"
+ ],
+ "male_group": [
+  "男性團體"
+ ],
+ "man": [
+  "先生",
+  "男"
+ ],
+ "man_homosexuality": [
+  "男同性戀"
+ ],
+ "manage": [
+  "管理"
+ ],
+ "mango": [
+  "芒果"
+ ],
+ "mantou": [
+  "饅頭"
+ ],
+ "many": [
+  "多",
+  "許多"
+ ],
+ "many_times": [
+  "多次"
+ ],
+ "mao": [
+  "毛"
+ ],
+ "marry": [
+  "結婚"
+ ],
+ "marry_into_and_live_with_the_family_of_his_wife": [
+  "入贅"
+ ],
+ "marry_to_a_man": [
+  "嫁"
+ ],
+ "marry_to_a_woman": [
+  "娶"
+ ],
+ "mass": [
+  "亂",
+  "亂七八糟"
+ ],
+ "master": [
+  "師傅",
+  "熟練"
+ ],
+ "master_degree": [
+  "碩士"
+ ],
+ "match": [
+  "火柴"
+ ],
+ "material": [
+  "原料"
+ ],
+ "math": [
+  "數學"
+ ],
+ "may": [
+  "可以"
+ ],
+ "may_not": [
+  "不可以"
+ ],
+ "mayonnaise": [
+  "沙拉醬"
+ ],
+ "meaning": [
+  "意思",
+  "意義"
+ ],
+ "measure": [
+  "稱"
+ ],
+ "meat": [
+  "肉"
+ ],
+ "medical": [
+  "醫"
+ ],
+ "medical_mask": [
+  "口罩"
+ ],
+ "medicine": [
+  "藥"
+ ],
+ "meeting": [
+  "開會",
+  "會議"
+ ],
+ "meeting_dismiss": [
+  "散會"
+ ],
+ "melonpear": [
+  "瓜"
+ ],
+ "member": [
+  "員"
+ ],
+ "miaoli": [
+  "苗栗"
+ ],
+ "mid_autumn_festival": [
+  "中秋節"
+ ],
+ "middle": [
+  "中"
+ ],
+ "middle_america": [
+  "中美洲"
+ ],
+ "military": [
+  "服兵役",
+  "服役",
+  "軍",
+  "當兵",
+  "陸軍"
+ ],
+ "milk": [
+  "奶",
+  "乳房"
+ ],
+ "mirror": [
+  "鏡子"
+ ],
+ "mischieous": [
+  "頑皮"
+ ],
+ "miserly": [
+  "小氣",
+  "吝嗇",
+  "節省",
+  "節儉"
+ ],
+ "misgivings": [
+  "恐怕",
+  "顧忌"
+ ],
+ "mistake": [
+  "錯",
+  "錯誤"
+ ],
+ "mistreat": [
+  "虐待"
+ ],
+ "mixed_up": [
+  "混亂"
+ ],
+ "monday": [
+  "星期一",
+  "週一",
+  "禮拜一"
+ ],
+ "money": [
+  "金錢",
+  "錢"
+ ],
+ "money_box": [
+  "存錢",
+  "撲滿",
+  "儲蓄"
+ ],
+ "monk": [
+  "和尚"
+ ],
+ "monkey": [
+  "猴子",
+  "猿猴"
+ ],
+ "monster": [
+  "鬼",
+  "魔鬼"
+ ],
+ "moon": [
+  "月",
+  "月亮"
+ ],
+ "morning": [
+  "上午",
+  "早上"
+ ],
+ "mortgage": [
+  "典當"
+ ],
+ "mosquitto": [
+  "蚊子"
+ ],
+ "mother": [
+  "母親",
+  "媽媽"
+ ],
+ "mothers_brother": [
+  "舅舅"
+ ],
+ "mothers_sister": [
+  "阿姨"
+ ],
+ "motorcycle": [
+  "摩托車",
+  "機車"
+ ],
+ "motorcycle_drive_card": [
+  "機車駕照"
+ ],
+ "motorcycles_id_card": [
+  "機車行照"
+ ],
+ "mountain": [
+  "山"
+ ],
+ "mountain_climbing": [
+  "爬山",
+  "登山"
+ ],
+ "mouse": [
+  "灰",
+  "老鼠"
+ ],
+ "mouth": [
+  "口",
+  "嘴巴"
+ ],
+ "move": [
+  "活動",
+  "動",
+  "動作"
+ ],
+ "movie": [
+  "電影",
+  "影片"
+ ],
+ "moving": [
+  "感動"
+ ],
+ "moving_to_a_different_house": [
+  "搬家",
+  "遷居"
+ ],
+ "music": [
+  "音樂"
+ ],
+ "mustard": [
+  "芥末"
+ ],
+ "mute": [
+  "啞"
+ ],
+ "mutual": [
+  "互相",
+  "協助"
+ ],
+ "my": [
+  "屬於我"
+ ],
+ "my_pleasure": [
+  "不客氣"
+ ],
+ "name_card": [
+  "名片"
+ ],
+ "name_chop": [
+  "印章"
+ ],
+ "name": [
+  "名字"
+ ],
+ "namesign": [
+  "手語名字"
+ ],
+ "narrow": [
+  "狹窄",
+  "窄"
+ ],
+ "nation": [
+  "民族"
+ ],
+ "natural": [
+  "天然",
+  "自然"
+ ],
+ "navy": [
+  "海軍"
+ ],
+ "near_future": [
+  "將來的最近"
+ ],
+ "near_sighted": [
+  "近視"
+ ],
+ "necktie": [
+  "領帶"
+ ],
+ "neighbor": [
+  "鄰居"
+ ],
+ "nervous": [
+  "緊張"
+ ],
+ "net": [
+  "網"
+ ],
+ "never_before": [
+  "不曾",
+  "未曾",
+  "從未",
+  "從來沒有",
+  "很久沒有"
+ ],
+ "new": [
+  "新"
+ ],
+ "new_years_day": [
+  "元旦",
+  "新年"
+ ],
+ "new_york": [
+  "紐約"
+ ],
+ "newspaper": [
+  "報紙"
+ ],
+ "next": [
+  "下一個"
+ ],
+ "next_week": [
+  "下個星期"
+ ],
+ "next_year": [
+  "明年"
+ ],
+ "nine": [
+  "九"
+ ],
+ "ninety": [
+  "九十"
+ ],
+ "no_big_deal": [
+  "不希罕",
+  "不屑"
+ ],
+ "no_problem": [
+  "沒有問題"
+ ],
+ "no_way": [
+  "沒有辦法",
+  "無法"
+ ],
+ "noisy": [
+  "吵鬧"
+ ],
+ "none": [
+  "都沒有"
+ ],
+ "nonsense": [
+  "胡說",
+  "胡說八道",
+  "廢話"
+ ],
+ "nonsense_words": [
+  "廢話"
+ ],
+ "noodles": [
+  "麵"
+ ],
+ "noon": [
+  "中午"
+ ],
+ "normal_university": [
+  "師大"
+ ],
+ "north": [
+  "北"
+ ],
+ "north_america": [
+  "北美洲"
+ ],
+ "north_pole": [
+  "北極"
+ ],
+ "nose": [
+  "鼻子"
+ ],
+ "not": [
+  "不"
+ ],
+ "not_bad": [
+  "不錯",
+  "還不錯",
+  "還可以",
+  "還好"
+ ],
+ "not_be": [
+  "不是"
+ ],
+ "not_care": [
+  "不在乎"
+ ],
+ "not_dare": [
+  "不敢"
+ ],
+ "not_enough": [
+  "不夠"
+ ],
+ "not_enough_time": [
+  "來不及",
+  "趕不及"
+ ],
+ "not_good": [
+  "差勁",
+  "爛"
+ ],
+ "not_mind": [
+  "不介意"
+ ],
+ "not_taste": [
+  "不好吃",
+  "難吃"
+ ],
+ "not_yet": [
+  "未",
+  "尚未",
+  "還沒"
+ ],
+ "not_your_business": [
+  "少囉唆"
+ ],
+ "nothing_to_do": [
+  "沒有事情"
+ ],
+ "now": [
+  "今天",
+  "現在"
+ ],
+ "number": [
+  "幾號",
+  "節",
+  "節目",
+  "號碼"
+ ],
+ "nun": [
+  "尼姑"
+ ],
+ "nurse": [
+  "護士"
+ ],
+ "obey": [
+  "服從",
+  "遵從",
+  "遵照"
+ ],
+ "obscene": [
+  "猥褻"
+ ],
+ "obstacle": [
+  "障礙"
+ ],
+ "occasionally": [
+  "有時",
+  "偶而"
+ ],
+ "occupy": [
+  "佔據",
+  "侵佔"
+ ],
+ "of_course": [
+  "當然"
+ ],
+ "offer": [
+  "奉獻",
+  "貢獻"
+ ],
+ "office": [
+  "辦公室"
+ ],
+ "official_working": [
+  "辦公"
+ ],
+ "often": [
+  "常常",
+  "經常"
+ ],
+ "oil": [
+  "油"
+ ],
+ "ok": [
+  "OK"
+ ],
+ "old": [
+  "舊",
+  "年老",
+  "年長"
+ ],
+ "older_brother": [
+  "兄",
+  "哥哥"
+ ],
+ "older_sister": [
+  "姊姊"
+ ],
+ "on_purpose": [
+  "有意",
+  "故意"
+ ],
+ "once": [
+  "一回",
+  "一次",
+  "一遍"
+ ],
+ "one": [
+  "一"
+ ],
+ "one_and_a_half": [
+  "一個半"
+ ],
+ "one_clock": [
+  "一點鐘"
+ ],
+ "one_day": [
+  "一天",
+  "一日"
+ ],
+ "one_hour": [
+  "一小時",
+  "一個鐘頭"
+ ],
+ "one_minute": [
+  "一分鐘"
+ ],
+ "one_month": [
+  "一個月"
+ ],
+ "one_second": [
+  "一秒鐘"
+ ],
+ "one_week": [
+  "一個星期",
+  "一個禮拜",
+  "一週"
+ ],
+ "onion": [
+  "洋蔥"
+ ],
+ "only": [
+  "只",
+  "唯一",
+  "僅僅"
+ ],
+ "only_one": [
+  "只有一個"
+ ],
+ "only_then_": [
+  "才"
+ ],
+ "open_a_door": [
+  "開門"
+ ],
+ "operate": [
+  "手術",
+  "開刀"
+ ],
+ "or": [
+  "或"
+ ],
+ "orange": [
+  "橘子"
+ ],
+ "orangutan": [
+  "猩猩"
+ ],
+ "orchid": [
+  "蘭花"
+ ],
+ "ordinary": [
+  "一般",
+  "平凡",
+  "普通"
+ ],
+ "origin": [
+  "來源"
+ ],
+ "originally": [
+  "本來",
+  "原來"
+ ],
+ "out": [
+  "另外",
+  "外面",
+  "別的",
+  "其他"
+ ],
+ "out_of_mind": [
+  "神經病"
+ ],
+ "overbearing": [
+  "霸道"
+ ],
+ "oversea_Chinese": [
+  "華僑"
+ ],
+ "overtake": [
+  "超車"
+ ],
+ "owe": [
+  "欠"
+ ],
+ "owe_money": [
+  "欠債"
+ ],
+ "pai_pai": [
+  "拜拜"
+ ],
+ "painful": [
+  "疼",
+  "痛"
+ ],
+ "paint": [
+  "油漆"
+ ],
+ "painting": [
+  "美術",
+  "畫",
+  "繪畫"
+ ],
+ "pale": [
+  "臉色蒼白"
+ ],
+ "pan_fry": [
+  "煎"
+ ],
+ "pants": [
+  "褲子"
+ ],
+ "papaya": [
+  "木瓜"
+ ],
+ "parade": [
+  "遊行"
+ ],
+ "paris": [
+  "巴黎"
+ ],
+ "park": [
+  "公園",
+  "園"
+ ],
+ "parking": [
+  "停車"
+ ],
+ "part": [
+  "小組",
+  "組",
+  "部分",
+  "團體"
+ ],
+ "participate": [
+  "參加"
+ ],
+ "pass": [
+  "及格",
+  "通過",
+  "獲得"
+ ],
+ "past": [
+  "已經",
+  "以往",
+  "以前",
+  "曾經",
+  "過去"
+ ],
+ "pastime": [
+  "消遣"
+ ],
+ "patient": [
+  "忍受",
+  "忍耐"
+ ],
+ "pay": [
+  "付帳",
+  "付錢",
+  "繳費"
+ ],
+ "peach": [
+  "桃子"
+ ],
+ "peacock": [
+  "孔雀"
+ ],
+ "pear": [
+  "削水果",
+  "梨子"
+ ],
+ "peddler": [
+  "小販",
+  "攤販"
+ ],
+ "peek": [
+  "偷看",
+  "窺視"
+ ],
+ "peeling": [
+  "剝皮"
+ ],
+ "pen": [
+  "筆"
+ ],
+ "pencil": [
+  "鉛筆"
+ ],
+ "penetrate": [
+  "看穿",
+  "穿透",
+  "透明"
+ ],
+ "penghu": [
+  "澎湖"
+ ],
+ "people": [
+  "們"
+ ],
+ "pepper": [
+  "胡椒"
+ ],
+ "peppery": [
+  "辣"
+ ],
+ "perfect": [
+  "十全十美",
+  "完美",
+  "標準"
+ ],
+ "period": [
+  "段",
+  "期"
+ ],
+ "person": [
+  "人"
+ ],
+ "personality": [
+  "個性"
+ ],
+ "ph": [
+  "博士"
+ ],
+ "philippines": [
+  "菲律賓"
+ ],
+ "photo": [
+  "相片"
+ ],
+ "photocopy": [
+  "影印"
+ ],
+ "physical": [
+  "運動",
+  "體育"
+ ],
+ "piano": [
+  "琴",
+  "鋼琴"
+ ],
+ "pick_on": [
+  "欺侮",
+  "欺負"
+ ],
+ "pickpocket": [
+  "扒手"
+ ],
+ "pig": [
+  "豬"
+ ],
+ "piling_machine": [
+  "堆高機"
+ ],
+ "pineapple": [
+  "鳳梨"
+ ],
+ "ping_pong": [
+  "乒乓球"
+ ],
+ "pingtung": [
+  "屏東"
+ ],
+ "pink": [
+  "粉紅色"
+ ],
+ "pipe": [
+  "管子"
+ ],
+ "pity": [
+  "可憐",
+  "可惜"
+ ],
+ "place": [
+  "地方",
+  "處"
+ ],
+ "place_an_order_": [
+  "約",
+  "訂"
+ ],
+ "plan": [
+  "計畫"
+ ],
+ "plant": [
+  "種"
+ ],
+ "play": [
+  "玩",
+  "遊戲"
+ ],
+ "play_a_tape": [
+  "播放帶"
+ ],
+ "playing_cards": [
+  "打牌",
+  "撲克牌"
+ ],
+ "playing_magjong": [
+  "打麻將"
+ ],
+ "please": [
+  "請"
+ ],
+ "pleasing_to_the_eye": [
+  "順眼"
+ ],
+ "plug": [
+  "插座",
+  "插頭"
+ ],
+ "plum": [
+  "梅"
+ ],
+ "poison": [
+  "中毒",
+  "毒"
+ ],
+ "police_car": [
+  "警車"
+ ],
+ "policeman": [
+  "警察"
+ ],
+ "pollute": [
+  "污染"
+ ],
+ "pool_up": [
+  "開罐"
+ ],
+ "poor": [
+  "貧窮",
+  "窮"
+ ],
+ "popsicle": [
+  "冰",
+  "冰棒"
+ ],
+ "porcelain": [
+  "陶瓷"
+ ],
+ "post_office": [
+  "郵局"
+ ],
+ "postman": [
+  "郵差"
+ ],
+ "postpone": [
+  "延期",
+  "拖延",
+  "順延"
+ ],
+ "potato": [
+  "馬鈴薯"
+ ],
+ "pour": [
+  "倒"
+ ],
+ "practice": [
+  "練習"
+ ],
+ "pray": [
+  "祈禱",
+  "禱告"
+ ],
+ "pregnant": [
+  "懷孕"
+ ],
+ "prepare": [
+  "準備"
+ ],
+ "president": [
+  "總統"
+ ],
+ "pressure": [
+  "威脅",
+  "脅迫",
+  "強迫",
+  "壓迫",
+  "壓"
+ ],
+ "prevent": [
+  "預防"
+ ],
+ "printing": [
+  "出版",
+  "印刷"
+ ],
+ "prisoner": [
+  "入獄",
+  "囚禁"
+ ],
+ "problem": [
+  "問題"
+ ],
+ "profit": [
+  "利",
+  "私"
+ ],
+ "progress": [
+  "進步"
+ ],
+ "pronounciation": [
+  "發音"
+ ],
+ "prostitute": [
+  "妓女"
+ ],
+ "protect": [
+  "保護"
+ ],
+ "protocol": [
+  "office"
+ ],
+ "proud": [
+  "自大",
+  "驕傲"
+ ],
+ "prove": [
+  "執照",
+  "證明"
+ ],
+ "public": [
+  "公"
+ ],
+ "public_expense": [
+  "公費"
+ ],
+ "pull": [
+  "拉"
+ ],
+ "punch_a_ticket": [
+  "剪票"
+ ],
+ "punching_bag": [
+  "翁"
+ ],
+ "punctual": [
+  "守時"
+ ],
+ "punishment": [
+  "刑"
+ ],
+ "puppet": [
+  "傀儡"
+ ],
+ "puppet_show": [
+  "布袋戲"
+ ],
+ "purple": [
+  "紫"
+ ],
+ "push": [
+  "推"
+ ],
+ "put": [
+  "放"
+ ],
+ "put_handcuffs_on": [
+  "上銬"
+ ],
+ "put_on_clothes": [
+  "穿衣"
+ ],
+ "pyramid": [
+  "金字塔"
+ ],
+ "quake": [
+  "地震"
+ ],
+ "quarrel": [
+  "吵",
+  "吵架",
+  "爭吵"
+ ],
+ "quiet": [
+  "平靜",
+  "安靜"
+ ],
+ "quilt": [
+  "被子",
+  "棉被"
+ ],
+ "rabbit": [
+  "兔子"
+ ],
+ "race": [
+  "賽跑"
+ ],
+ "rain": [
+  "下雨",
+  "雨"
+ ],
+ "raise_a_flag": [
+  "升旗"
+ ],
+ "range": [
+  "範圍"
+ ],
+ "rape": [
+  "強姦"
+ ],
+ "raw": [
+  "生的"
+ ],
+ "receipt": [
+  "收據"
+ ],
+ "receive": [
+  "收到",
+  "得到",
+  "接受"
+ ],
+ "receive_a_letter": [
+  "收信"
+ ],
+ "recent_past": [
+  "過去的最近"
+ ],
+ "record": [
+  "紀錄",
+  "記錄"
+ ],
+ "red": [
+  "紅"
+ ],
+ "refrigerator": [
+  "冰箱"
+ ],
+ "refuse": [
+  "防禦",
+  "拒絕",
+  "擋"
+ ],
+ "register": [
+  "報名",
+  "登記",
+  "簽名",
+  "註冊"
+ ],
+ "regret": [
+  "後悔",
+  "懊悔"
+ ],
+ "relation": [
+  "關係"
+ ],
+ "relative": [
+  "親戚"
+ ],
+ "relief": [
+  "鬆了一口氣"
+ ],
+ "reluctant": [
+  "勉強"
+ ],
+ "remain": [
+  "保存",
+  "保留",
+  "留"
+ ],
+ "remember": [
+  "背誦",
+  "記得"
+ ],
+ "rent": [
+  "借",
+  "租"
+ ],
+ "report": [
+  "報告"
+ ],
+ "reputation": [
+  "名譽"
+ ],
+ "rescue": [
+  "救"
+ ],
+ "research": [
+  "研究"
+ ],
+ "resign": [
+  "辭職"
+ ],
+ "resist": [
+  "抗拒",
+  "抵抗"
+ ],
+ "respect": [
+  "尊敬"
+ ],
+ "responsibility": [
+  "負責",
+  "負擔"
+ ],
+ "responsible": [
+  "負責",
+  "責任",
+  "擔任"
+ ],
+ "rest": [
+  "休息",
+  "歇息"
+ ],
+ "restaurant": [
+  "餐廳"
+ ],
+ "restore": [
+  "恢復",
+  "復元",
+  "復興"
+ ],
+ "retrogress": [
+  "退步"
+ ],
+ "revolution": [
+  "革命",
+  "起義"
+ ],
+ "revolve": [
+  "轉"
+ ],
+ "rice": [
+  "米"
+ ],
+ "rice_porridge": [
+  "稀飯"
+ ],
+ "rice_tamale": [
+  "粽子"
+ ],
+ "rich": [
+  "有錢",
+  "富有"
+ ],
+ "ridicule": [
+  "譏笑"
+ ],
+ "right": [
+  "右"
+ ],
+ "river": [
+  "河流",
+  "溪",
+  "川"
+ ],
+ "road": [
+  "路",
+  "道路"
+ ],
+ "road_junction": [
+  "平交道"
+ ],
+ "rob": [
+  "搶"
+ ],
+ "robber": [
+  "強盜"
+ ],
+ "rocket": [
+  "火箭"
+ ],
+ "roll": [
+  "捲"
+ ],
+ "roller_skating": [
+  "溜冰"
+ ],
+ "room": [
+  "室"
+ ],
+ "rope": [
+  "繩子"
+ ],
+ "round": [
+  "圓"
+ ],
+ "row": [
+  "划"
+ ],
+ "rubber_eraser": [
+  "橡皮擦"
+ ],
+ "rugby": [
+  "橄欖球"
+ ],
+ "rules": [
+  "規則",
+  "程序"
+ ],
+ "run": [
+  "跑",
+  "跑步"
+ ],
+ "rush_about": [
+  "奔波"
+ ],
+ "russia": [
+  "蘇",
+  "蘇俄"
+ ],
+ "sad": [
+  "傷心"
+ ],
+ "salt": [
+  "鹹",
+  "鹽"
+ ],
+ "same": [
+  "一樣"
+ ],
+ "same_thing": [
+  "通用",
+  "等於"
+ ],
+ "santa_claus": [
+  "聖誕老人"
+ ],
+ "saturday": [
+  "週六"
+ ],
+ "save_money": [
+  "節省",
+  "節儉",
+  "儲蓄",
+  "存錢"
+ ],
+ "savor": [
+  "珍惜"
+ ],
+ "scholar": [
+  "士"
+ ],
+ "school": [
+  "學校"
+ ],
+ "scissors": [
+  "剪刀"
+ ],
+ "scold": [
+  "罵"
+ ],
+ "sea": [
+  "海"
+ ],
+ "seal_up": [
+  "取消",
+  "封閉"
+ ],
+ "second": [
+  "第二個"
+ ],
+ "second_place": [
+  "第二名"
+ ],
+ "secret": [
+  "保密",
+  "秘密"
+ ],
+ "see": [
+  "見"
+ ],
+ "seen_a_lot": [
+  "看多了"
+ ],
+ "seize_the_day": [
+  "把握時間"
+ ],
+ "self": [
+  "自己"
+ ],
+ "self_supporting": [
+  "自立自強"
+ ],
+ "sell": [
+  "售",
+  "賣"
+ ],
+ "senior_high": [
+  "高中"
+ ],
+ "separate": [
+  "分",
+  "分手",
+  "分別",
+  "分開",
+  "離別"
+ ],
+ "servant": [
+  "佣人",
+  "僕人"
+ ],
+ "serve": [
+  "服務"
+ ],
+ "seven": [
+  "七"
+ ],
+ "seven_eleven": [
+  "7-11"
+ ],
+ "seventy": [
+  "七十"
+ ],
+ "sew": [
+  "縫",
+  "繡"
+ ],
+ "shadow": [
+  "影子"
+ ],
+ "shame": [
+  "丟臉"
+ ],
+ "shave": [
+  "刮鬍子"
+ ],
+ "shave_ones_head": [
+  "剃光頭"
+ ],
+ "she": [
+  "她"
+ ],
+ "shell": [
+  "貝殼"
+ ],
+ "shihlin_": [
+  "士林"
+ ],
+ "shirk_ones_responsibilitiy": [
+  "卸責"
+ ],
+ "shirt": [
+  "襯衫"
+ ],
+ "shoe": [
+  "鞋子"
+ ],
+ "short": [
+  "低",
+  "矮",
+  "近",
+  "附近",
+  "短"
+ ],
+ "short_of_money": [
+  "拮据"
+ ],
+ "shortcut": [
+  "捷徑"
+ ],
+ "should": [
+  "應該"
+ ],
+ "shout": [
+  "吼",
+  "喊"
+ ],
+ "show": [
+  "示範",
+  "表示"
+ ],
+ "showy": [
+  "顯眼"
+ ],
+ "shrimp": [
+  "蝦"
+ ],
+ "shut_up": [
+  "閉嘴"
+ ],
+ "shy": [
+  "害羞"
+ ],
+ "sick": [
+  "生病",
+  "疾病",
+  "病"
+ ],
+ "side": [
+  "邊"
+ ],
+ "sign_language": [
+  "手語",
+  "打手語"
+ ],
+ "sign_up": [
+  "報名"
+ ],
+ "silk": [
+  "細",
+  "絲",
+  "線"
+ ],
+ "silver": [
+  "銀"
+ ],
+ "similar": [
+  "如同",
+  "似乎",
+  "相似",
+  "像",
+  "類似"
+ ],
+ "simpleminded": [
+  "老實"
+ ],
+ "simultaneous": [
+  "多才多藝",
+  "兼職",
+  "身兼數職"
+ ],
+ "sing": [
+  "唱",
+  "唱歌",
+  "歌",
+  "歌曲"
+ ],
+ "sit": [
+  "坐",
+  "椅子"
+ ],
+ "situation": [
+  "情形",
+  "樣子"
+ ],
+ "six": [
+  "六"
+ ],
+ "sixth_grade": [
+  "小六",
+  "小學六年級"
+ ],
+ "sixty": [
+  "六十"
+ ],
+ "skiing": [
+  "滑雪"
+ ],
+ "skillful": [
+  "厲害"
+ ],
+ "skin": [
+  "皮",
+  "肉"
+ ],
+ "sky": [
+  "天",
+  "天空"
+ ],
+ "sleep": [
+  "睡"
+ ],
+ "sleepy": [
+  "打盹",
+  "睏"
+ ],
+ "slide": [
+  "溜滑梯"
+ ],
+ "slippers": [
+  "拖鞋"
+ ],
+ "slow": [
+  "慢"
+ ],
+ "sly": [
+  "狡猾",
+  "陰險"
+ ],
+ "smart": [
+  "聰明"
+ ],
+ "smell": [
+  "聞"
+ ],
+ "smelly": [
+  "臭"
+ ],
+ "smuggle": [
+  "走私"
+ ],
+ "snack": [
+  "零食"
+ ],
+ "snail": [
+  "蝸牛"
+ ],
+ "snake": [
+  "蛇"
+ ],
+ "snap": [
+  "折斷"
+ ],
+ "snow": [
+  "雪"
+ ],
+ "soap": [
+  "肥皂"
+ ],
+ "soccer": [
+  "足球"
+ ],
+ "socks": [
+  "襪子"
+ ],
+ "soda_pop": [
+  "汽水"
+ ],
+ "soft": [
+  "軟",
+  "塑膠",
+  "溫柔",
+  "柔軟"
+ ],
+ "solve": [
+  "解決"
+ ],
+ "somersault": [
+  "翻跟斗"
+ ],
+ "son": [
+  "兒子"
+ ],
+ "sorry": [
+  "對不起"
+ ],
+ "soul": [
+  "靈魂"
+ ],
+ "sound": [
+  "聲音"
+ ],
+ "soup": [
+  "湯"
+ ],
+ "sour": [
+  "酸"
+ ],
+ "south": [
+  "南"
+ ],
+ "south_pole": [
+  "南極"
+ ],
+ "soy_sauce": [
+  "醬油"
+ ],
+ "soybean_milk": [
+  "豆漿"
+ ],
+ "spacious": [
+  "寬",
+  "寬大",
+  "寬敞"
+ ],
+ "spain": [
+  "西班牙"
+ ],
+ "sparin": [
+  "扭傷"
+ ],
+ "speak": [
+  "說",
+  "說話",
+  "講"
+ ],
+ "special_discount": [
+  "優待"
+ ],
+ "special": [
+  "特別",
+  "特殊"
+ ],
+ "speciality": [
+  "專長"
+ ],
+ "speciality_goods": [
+  "名產"
+ ],
+ "speech": [
+  "話",
+  "演講"
+ ],
+ "spider": [
+  "蜘蛛"
+ ],
+ "spirit": [
+  "精神"
+ ],
+ "spread": [
+  "流傳",
+  "傳",
+  "遺傳"
+ ],
+ "sprout": [
+  "發芽"
+ ],
+ "spy": [
+  "奸細",
+  "間諜",
+  "偵探"
+ ],
+ "squirrel": [
+  "松鼠"
+ ],
+ "stamp": [
+  "郵票"
+ ],
+ "stand": [
+  "站"
+ ],
+ "stand_in_line": [
+  "排隊"
+ ],
+ "stand_up": [
+  "站起來",
+  "起立"
+ ],
+ "star": [
+  "星星"
+ ],
+ "star_fruit": [
+  "楊桃"
+ ],
+ "start": [
+  "打開",
+  "開始"
+ ],
+ "startle": [
+  "吃驚",
+  "嚇一跳",
+  "驚訝"
+ ],
+ "state": [
+  "州",
+  "洲"
+ ],
+ "station_board": [
+  "站牌"
+ ],
+ "steal": [
+  "小偷",
+  "偷",
+  "偷竊",
+  "竊盜"
+ ],
+ "steamed_stuffed_bun": [
+  "包子"
+ ],
+ "stick": [
+  "貼"
+ ],
+ "sticky": [
+  "黏"
+ ],
+ "still": [
+  "還有",
+  "仍然"
+ ],
+ "stir": [
+  "攪"
+ ],
+ "stir_fry": [
+  "炒"
+ ],
+ "stock": [
+  "股票"
+ ],
+ "stone": [
+  "石頭",
+  "硬"
+ ],
+ "stop_": [
+  "止",
+  "停",
+  "停止",
+  "禁止"
+ ],
+ "store_up": [
+  "儲放",
+  "儲藏"
+ ],
+ "storey": [
+  "樓"
+ ],
+ "story": [
+  "故事"
+ ],
+ "straight": [
+  "直",
+  "專"
+ ],
+ "strange": [
+  "奇怪"
+ ],
+ "strength": [
+  "掌握",
+  "權力"
+ ],
+ "strict": [
+  "嚴格"
+ ],
+ "strong": [
+  "強",
+  "壯",
+  "強壯"
+ ],
+ "stubborn": [
+  "固執",
+  "頑固"
+ ],
+ "student": [
+  "學生"
+ ],
+ "students_id_card": [
+  "學生證"
+ ],
+ "study": [
+  "唸書",
+  "讀",
+  "讀書"
+ ],
+ "stuffed_dumplings": [
+  "湯圓"
+ ],
+ "stupid": [
+  "笨",
+  "愚笨"
+ ],
+ "subordinate": [
+  "副"
+ ],
+ "subordinator": [
+  "部屬"
+ ],
+ "substitute": [
+  "代替"
+ ],
+ "subtract": [
+  "扣",
+  "剩",
+  "減"
+ ],
+ "suddenly": [
+  "一瞬間",
+  "一轉眼",
+  "出乎意料",
+  "忽然",
+  "突然"
+ ],
+ "suffer_losses": [
+  "賠本",
+  "虧本",
+  "划不來",
+  "吃虧"
+ ],
+ "sufficient_va": [
+  "多的是",
+  "來得及"
+ ],
+ "sugar_apple": [
+  "釋迦"
+ ],
+ "sugar": [
+  "甜",
+  "糖"
+ ],
+ "suggest": [
+  "提出",
+  "建議",
+  "提議"
+ ],
+ "suit": [
+  "西裝"
+ ],
+ "sun": [
+  "太陽",
+  "照"
+ ],
+ "sunday": [
+  "星期天",
+  "星期日",
+  "週日",
+  "禮拜天"
+ ],
+ "sunrise": [
+  "日出"
+ ],
+ "sunset": [
+  "夕陽",
+  "日落"
+ ],
+ "supply": [
+  "供應",
+  "提供",
+  "給"
+ ],
+ "support": [
+  "支持"
+ ],
+ "surface": [
+  "場",
+  "廣場"
+ ],
+ "surrender": [
+  "投降"
+ ],
+ "suspension_bridge": [
+  "吊橋"
+ ],
+ "swallow": [
+  "燕子"
+ ],
+ "sweden": [
+  "瑞典"
+ ],
+ "sweep": [
+  "打掃",
+  "掃地"
+ ],
+ "sweeping_tomb_festival": [
+  "清明節"
+ ],
+ "sweet_potato": [
+  "地瓜",
+  "蕃薯"
+ ],
+ "swim": [
+  "游泳"
+ ],
+ "swindle": [
+  "欺騙",
+  "騙"
+ ],
+ "swing": [
+  "鞦韆"
+ ],
+ "switzerland": [
+  "瑞士"
+ ],
+ "sword": [
+  "劍"
+ ],
+ "system": [
+  "系列",
+  "系統",
+  "組織"
+ ],
+ "table": [
+  "桌子"
+ ],
+ "tacit_understanding": [
+  "不約而同",
+  "不謀而合",
+  "默契"
+ ],
+ "taichung": [
+  "台中"
+ ],
+ "tail": [
+  "末",
+  "尾巴",
+  "最後"
+ ],
+ "tailor": [
+  "裁縫"
+ ],
+ "tainan": [
+  "台南"
+ ],
+ "taipei": [
+  "台北"
+ ],
+ "taiwan": [
+  "台灣"
+ ],
+ "taiwanese_meatballs": [
+  "肉圓"
+ ],
+ "taiwanese_opera": [
+  "歌仔戲"
+ ],
+ "take": [
+  "取",
+  "拿"
+ ],
+ "take_care": [
+  "保重"
+ ],
+ "take_care_of": [
+  "照顧"
+ ],
+ "take_off_clothes": [
+  "脫衣"
+ ],
+ "take_turns": [
+  "輪流"
+ ],
+ "talkative": [
+  "長舌",
+  "嘮叨",
+  "囉唆"
+ ],
+ "tall": [
+  "高"
+ ],
+ "tamsui": [
+  "淡水"
+ ],
+ "tape": [
+  "錄音帶"
+ ],
+ "tape_recording": [
+  "錄音"
+ ],
+ "tarzan": [
+  "泰山"
+ ],
+ "taste": [
+  "味道",
+  "嚐"
+ ],
+ "tax": [
+  "稅"
+ ],
+ "taxi": [
+  "計程車"
+ ],
+ "tea_leaves": [
+  "茶"
+ ],
+ "teach": [
+  "教",
+  "教育"
+ ],
+ "teacher": [
+  "老師"
+ ],
+ "technique": [
+  "技巧",
+  "技術"
+ ],
+ "telegram": [
+  "電報"
+ ],
+ "telephone": [
+  "電話"
+ ],
+ "telescope": [
+  "望遠鏡"
+ ],
+ "television": [
+  "電視"
+ ],
+ "tell": [
+  "告訴"
+ ],
+ "tell_the_truth": [
+  "實話實說"
+ ],
+ "temple": [
+  "廟"
+ ],
+ "temporarily": [
+  "暫時"
+ ],
+ "temporarily_take_a_stop": [
+  "暫停"
+ ],
+ "ten": [
+  "十"
+ ],
+ "ten_thousand": [
+  "萬"
+ ],
+ "ten_wan": [
+  "十萬"
+ ],
+ "tenth_grade": [
+  "高中一年級"
+ ],
+ "test_a": [
+  "考",
+  "考試"
+ ],
+ "test_b": [
+  "考",
+  "考試"
+ ],
+ "thailand": [
+  "泰國"
+ ],
+ "thank": [
+  "感謝",
+  "謝謝"
+ ],
+ "thats_a_deal": [
+  "一言為定"
+ ],
+ "the_two_of_them": [
+  "他倆",
+  "他們兩個"
+ ],
+ "the_two_of_us": [
+  "我倆",
+  "我們兩個"
+ ],
+ "the_two_of_you": [
+  "你倆",
+  "你們兩個"
+ ],
+ "the_vision_is_narrow": [
+  "視野狹窄"
+ ],
+ "the_whole_Taiwan": [
+  "全台灣"
+ ],
+ "the_whole_taiwan": [
+  "全台灣"
+ ],
+ "theater": [
+  "電影院"
+ ],
+ "then": [
+  "就"
+ ],
+ "there": [
+  "那個",
+  "那裏"
+ ],
+ "they": [
+  "他們"
+ ],
+ "thick": [
+  "厚"
+ ],
+ "thin": [
+  "瘦",
+  "薄"
+ ],
+ "thing": [
+  "東西",
+  "物"
+ ],
+ "think": [
+  "想"
+ ],
+ "thirsty": [
+  "口渴",
+  "渴"
+ ],
+ "thirty": [
+  "三十"
+ ],
+ "this": [
+  "這"
+ ],
+ "thousand": [
+  "千"
+ ],
+ "three": [
+  "三"
+ ],
+ "throw": [
+  "扔掉",
+  "丟"
+ ],
+ "thumbtack": [
+  "圖釘"
+ ],
+ "thursday": [
+  "週四"
+ ],
+ "tiger": [
+  "老虎",
+  "虎"
+ ],
+ "time": [
+  "時間",
+  "時候"
+ ],
+ "ting": [
+  "丁"
+ ],
+ "tired": [
+  "疲倦",
+  "累"
+ ],
+ "tired_of_": [
+  "乏味",
+  "膩"
+ ],
+ "tiring": [
+  "辛苦",
+  "苦"
+ ],
+ "to_award_prizes": [
+  "頒獎"
+ ],
+ "to_hear_of": [
+  "聽說"
+ ],
+ "to_memory_by_rote": [
+  "死背"
+ ],
+ "together": [
+  "一同",
+  "一起",
+  "一塊",
+  "共同",
+  "同",
+  "合",
+  "集合"
+ ],
+ "toilet": [
+  "馬桶"
+ ],
+ "toilet_paper": [
+  "衛生紙"
+ ],
+ "tomato": [
+  "蕃茄"
+ ],
+ "tomorrow": [
+  "明天"
+ ],
+ "too_few": [
+  "嫌少"
+ ],
+ "tooth": [
+  "牙齒"
+ ],
+ "toothbrush": [
+  "牙刷",
+  "刷牙"
+ ],
+ "top": [
+  "頂",
+  "頂尖"
+ ],
+ "touch": [
+  "接觸"
+ ],
+ "toufu": [
+  "豆腐"
+ ],
+ "tow_away": [
+  "拖吊"
+ ],
+ "towards": [
+  "向"
+ ],
+ "traffic": [
+  "交通"
+ ],
+ "traffic_jam": [
+  "塞車"
+ ],
+ "train": [
+  "訓練"
+ ],
+ "train_railway_a": [
+  "火車"
+ ],
+ "train_railway_b": [
+  "火車"
+ ],
+ "translate": [
+  "翻譯"
+ ],
+ "transport": [
+  "運輸"
+ ],
+ "tranvel_agency": [
+  "旅行團"
+ ],
+ "travel": [
+  "旅行",
+  "旅遊"
+ ],
+ "travel_around_the_world": [
+  "環遊世界"
+ ],
+ "tree": [
+  "樹"
+ ],
+ "triangle": [
+  "三角形"
+ ],
+ "troublesome": [
+  "傷腦筋"
+ ],
+ "truck": [
+  "卡車"
+ ],
+ "true": [
+  "真",
+  "真實",
+  "誠實",
+  "實在"
+ ],
+ "try": [
+  "試試看"
+ ],
+ "tuesday": [
+  "週二"
+ ],
+ "turkey": [
+  "火雞"
+ ],
+ "turn_out_light": [
+  "熄燈"
+ ],
+ "turning_buttons": [
+  "轉鈕"
+ ],
+ "turnip": [
+  "蘿蔔"
+ ],
+ "turnover": [
+  "周轉",
+  "週轉"
+ ],
+ "turtle": [
+  "龜"
+ ],
+ "twenty": [
+  "二十"
+ ],
+ "two": [
+  "二",
+  "兩"
+ ],
+ "typewrite": [
+  "打字"
+ ],
+ "typhoon": [
+  "颱風"
+ ],
+ "ugly": [
+  "醜"
+ ],
+ "ultrasonic_wave": [
+  "超音波"
+ ],
+ "umbrella": [
+  "雨傘",
+  "傘"
+ ],
+ "unable": [
+  "不會"
+ ],
+ "unable_to_recall": [
+  "想不起來"
+ ],
+ "unclear": [
+  "不清楚"
+ ],
+ "unconcernedly": [
+  "不在乎"
+ ],
+ "unconsciously": [
+  "不知不覺"
+ ],
+ "underground_passage": [
+  "地下道"
+ ],
+ "unfamiliar": [
+  "不認識",
+  "陌生"
+ ],
+ "unheeded_advice": [
+  "當耳邊風"
+ ],
+ "unify": [
+  "統一"
+ ],
+ "unique": [
+  "一枝獨秀",
+  "突出",
+  "傑出",
+  "與眾不同"
+ ],
+ "unite": [
+  "聯合"
+ ],
+ "united_states": [
+  "美國"
+ ],
+ "unlucky": [
+  "不幸"
+ ],
+ "unpleasant_word": [
+  "壞話"
+ ],
+ "up": [
+  "上"
+ ],
+ "upgrading": [
+  "升級"
+ ],
+ "upset": [
+  "著急",
+  "慌張"
+ ],
+ "use": [
+  "用"
+ ],
+ "useless": [
+  "沒有用",
+  "不必",
+  "不用"
+ ],
+ "vacation": [
+  "放假",
+  "假期",
+  "休假"
+ ],
+ "value": [
+  "價值"
+ ],
+ "variety": [
+  "等等",
+  "種類",
+  "類別"
+ ],
+ "various": [
+  "各式各樣"
+ ],
+ "vegetable": [
+  "菜"
+ ],
+ "very": [
+  "很",
+  "最"
+ ],
+ "veterinarian": [
+  "獸醫"
+ ],
+ "video_games": [
+  "電動玩具"
+ ],
+ "video_tape": [
+  "錄影帶"
+ ],
+ "vietnam": [
+  "越南"
+ ],
+ "vinegar": [
+  "醋"
+ ],
+ "virtue": [
+  "品德",
+  "道德"
+ ],
+ "visit": [
+  "拜訪",
+  "欣賞",
+  "參觀",
+  "觀賞"
+ ],
+ "visit_a_doctor": [
+  "送醫"
+ ],
+ "visit_personally": [
+  "親臨"
+ ],
+ "volleyball": [
+  "排球"
+ ],
+ "volume": [
+  "冊"
+ ],
+ "vomit": [
+  "吐",
+  "嘔吐"
+ ],
+ "vote": [
+  "投票"
+ ],
+ "wait": [
+  "等待"
+ ],
+ "wait_and_see": [
+  "給你好看"
+ ],
+ "waiter": [
+  "侍者"
+ ],
+ "wake_up": [
+  "醒"
+ ],
+ "walk": [
+  "行走",
+  "走",
+  "行"
+ ],
+ "walk_back": [
+  "徘徊",
+  "徬徨"
+ ],
+ "wall": [
+  "牆"
+ ],
+ "wang": [
+  "王"
+ ],
+ "want": [
+  "要",
+  "需要"
+ ],
+ "wanton": [
+  "水性楊花"
+ ],
+ "war": [
+  "打仗",
+  "戰爭"
+ ],
+ "warm": [
+  "春天",
+  "暖和",
+  "溫暖"
+ ],
+ "warm_springs": [
+  "溫泉"
+ ],
+ "wash": [
+  "洗"
+ ],
+ "wash_face": [
+  "洗臉"
+ ],
+ "wash_hair": [
+  "洗髮"
+ ],
+ "waste": [
+  "浪費"
+ ],
+ "waste_ones_energy": [
+  "白費"
+ ],
+ "watch": [
+  "手錶"
+ ],
+ "water": [
+  "水"
+ ],
+ "waterfall": [
+  "瀑布"
+ ],
+ "watermelon": [
+  "西瓜"
+ ],
+ "watermelon_seeds": [
+  "瓜子"
+ ],
+ "wave": [
+  "波浪"
+ ],
+ "wax_apple": [
+  "蓮霧"
+ ],
+ "we": [
+  "我們"
+ ],
+ "weak": [
+  "弱",
+  "衰弱",
+  "軟弱"
+ ],
+ "wednesday": [
+  "週三"
+ ],
+ "welcome": [
+  "迎接",
+  "歡迎"
+ ],
+ "west": [
+  "西"
+ ],
+ "western_food": [
+  "西餐"
+ ],
+ "whale": [
+  "鯨魚"
+ ],
+ "what_date": [
+  "日期",
+  "幾月幾日"
+ ],
+ "what_day_of_the_week": [
+  "星期幾",
+  "禮拜幾"
+ ],
+ "what_time": [
+  "幾時"
+ ],
+ "what_to_do": [
+  "怎麼辦"
+ ],
+ "whatever": [
+  "任意",
+  "自由",
+  "隨便",
+  "隨意"
+ ],
+ "wheat": [
+  "麥"
+ ],
+ "where": [
+  "哪裡"
+ ],
+ "which_month": [
+  "幾月"
+ ],
+ "which_what": [
+  "什麼",
+  "哪一個"
+ ],
+ "whistle": [
+  "口哨",
+  "吹口哨"
+ ],
+ "white": [
+  "白"
+ ],
+ "white_paper": [
+  "紙"
+ ],
+ "who": [
+  "誰"
+ ],
+ "widow": [
+  "寡婦"
+ ],
+ "widower": [
+  "鰥夫"
+ ],
+ "wife": [
+  "太太"
+ ],
+ "willing": [
+  "允許",
+  "承認",
+  "肯",
+  "答應",
+  "願意"
+ ],
+ "win": [
+  "勝利",
+  "贏"
+ ],
+ "wind": [
+  "秋天",
+  "風"
+ ],
+ "wine": [
+  "酒"
+ ],
+ "wing": [
+  "翅膀",
+  "翼"
+ ],
+ "with_respect_to": [
+  "相逢",
+  "遇到",
+  "對於"
+ ],
+ "withdraw": [
+  "退"
+ ],
+ "wolf": [
+  "狼"
+ ],
+ "woman_homosexuality": [
+  "女同性戀"
+ ],
+ "won_ton": [
+  "餛飩"
+ ],
+ "wonder": [
+  "懷疑"
+ ],
+ "wood": [
+  "木",
+  "木頭"
+ ],
+ "word": [
+  "詞"
+ ],
+ "work": [
+  "上班"
+ ],
+ "world": [
+  "世界",
+  "國際"
+ ],
+ "worried": [
+  "擔心"
+ ],
+ "wrap": [
+  "包"
+ ],
+ "wrench": [
+  "擰"
+ ],
+ "write": [
+  "寫"
+ ],
+ "write_receipt": [
+  "寫單據"
+ ],
+ "writing": [
+  "文"
+ ],
+ "writing_brush": [
+  "毛筆"
+ ],
+ "wu": [
+  "吳"
+ ],
+ "yard": [
+  "院子"
+ ],
+ "yawn": [
+  "打哈欠"
+ ],
+ "year": [
+  "一年",
+  "年"
+ ],
+ "yellow": [
+  "黃"
+ ],
+ "yesterday": [
+  "前一天",
+  "昨天"
+ ],
+ "yield": [
+  "原諒",
+  "讓"
+ ],
+ "you": [
+  "你"
+ ],
+ "you_plural": [
+  "你們"
+ ],
+ "young": [
+  "少年",
+  "年輕",
+  "青年"
+ ],
+ "younger_brother": [
+  "弟弟"
+ ],
+ "younger_sister": [
+  "妹妹"
+ ],
+ "your": [
+  "屬於你"
+ ],
+ "yu": [
+  "于"
+ ],
+ "zero": [
+  "零"
+ ],
+ "zhongli": [
+  "中壢"
+ ]
+}
